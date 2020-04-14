@@ -1,7 +1,7 @@
 //: net/mindview/atunit/AtUnit.java
 // An annotation-based unit-test framework.
 // {RunByHand}
-package net.mindview.atunit;
+package bookCode.net.mindview.atunit;
 import java.lang.reflect.*;
 import java.io.*;
 import java.util.*;
@@ -31,7 +31,7 @@ public class AtUnit implements ProcessFiles.Strategy {
     try {
       String cName = ClassNameFinder.thisClass(
         BinaryFile.read(cFile));
-      if(!cName.contains("."))
+      if(!cName.contains(""))
         return; // Ignore unpackaged classes
       testClass = Class.forName(cName);
     } catch(Exception e) {
@@ -62,7 +62,7 @@ public class AtUnit implements ProcessFiles.Strategy {
       print(testClass.getName());
     }
     for(Method m : testMethods) {
-      printnb("  . " + m.getName() + " ");
+      printnb(" " + m.getName() + " ");
       try {
         Object testObject = createTestObject(creator);
         boolean success = false;

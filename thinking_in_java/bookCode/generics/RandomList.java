@@ -1,4 +1,4 @@
-//: generics/RandomList.java
+package bookCode.generics;//: generics/RandomList.java
 import java.util.*;
 
 public class RandomList<T> {

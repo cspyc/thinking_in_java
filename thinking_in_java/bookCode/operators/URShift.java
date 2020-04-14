@@ -1,6 +1,6 @@
-//: operators/URShift.java
+package bookCode.operators;//: operators/URShift.java
 // Test of unsigned right shift.
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class URShift {
   public static void main(String[] args) {

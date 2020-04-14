@@ -1,4 +1,4 @@
-//: arrays/ArrayOfGenerics.java
+package bookCode.arrays;//: arrays/ArrayOfGenerics.java
 // It is possible to create arrays of generics.
 import java.util.*;
 

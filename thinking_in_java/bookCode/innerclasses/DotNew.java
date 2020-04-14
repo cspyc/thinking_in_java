@@ -1,4 +1,4 @@
-//: innerclasses/DotNew.java
+package bookCode.innerclasses;//: innerclasses/DotNew.java
 // Creating an inner class directly using the .new syntax.
 
 public class DotNew {

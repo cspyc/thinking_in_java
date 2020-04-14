@@ -1,4 +1,4 @@
-//: generics/ListMaker.java
+package bookCode.generics;//: generics/ListMaker.java
 import java.util.*;
 
 public class ListMaker<T> {

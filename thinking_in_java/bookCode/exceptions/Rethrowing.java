@@ -1,4 +1,4 @@
-//: exceptions/Rethrowing.java
+package bookCode.exceptions;//: exceptions/Rethrowing.java
 // Demonstrating fillInStackTrace()
 
 public class Rethrowing {

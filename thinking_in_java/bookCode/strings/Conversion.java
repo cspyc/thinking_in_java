@@ -1,4 +1,4 @@
-//: strings/Conversion.java
+package bookCode.strings;//: strings/Conversion.java
 import java.math.*;
 import java.util.*;
 

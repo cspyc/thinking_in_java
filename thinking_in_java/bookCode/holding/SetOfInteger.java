@@ -1,4 +1,4 @@
-//: holding/SetOfInteger.java
+package bookCode.holding;//: holding/SetOfInteger.java
 import java.util.*;
 
 public class SetOfInteger {

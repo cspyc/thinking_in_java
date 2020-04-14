@@ -1,4 +1,4 @@
-//: strings/UsingStringBuilder.java
+package bookCode.strings;//: strings/UsingStringBuilder.java
 import java.util.*;
 
 public class UsingStringBuilder {

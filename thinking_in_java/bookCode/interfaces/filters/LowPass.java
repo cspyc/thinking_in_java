@@ -1,5 +1,5 @@
 //: interfaces/filters/LowPass.java
-package interfaces.filters;
+package bookCode.interfaces.filters;
 
 public class LowPass extends Filter {
   double cutoff;

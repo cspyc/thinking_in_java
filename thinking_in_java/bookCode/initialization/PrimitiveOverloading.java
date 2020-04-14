@@ -1,6 +1,6 @@
-//: initialization/PrimitiveOverloading.java
+package bookCode.initialization;//: initialization/PrimitiveOverloading.java
 // Promotion of primitives and overloading.
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class PrimitiveOverloading {
   void f1(char x) { printnb("f1(char) "); }

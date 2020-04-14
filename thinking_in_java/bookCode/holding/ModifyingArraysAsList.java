@@ -1,4 +1,4 @@
-//: holding/ModifyingArraysAsList.java
+package bookCode.holding;//: holding/ModifyingArraysAsList.java
 import java.util.*;
 
 public class ModifyingArraysAsList {

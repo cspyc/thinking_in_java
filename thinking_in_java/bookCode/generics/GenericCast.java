@@ -1,4 +1,4 @@
-//: generics/GenericCast.java
+package bookCode.generics;//: generics/GenericCast.java
 
 class FixedSizeStack<T> {
   private int index = 0;

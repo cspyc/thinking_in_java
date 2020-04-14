@@ -1,4 +1,4 @@
-//: arrays/PrimitiveConversionDemonstration.java
+package bookCode.arrays;//: arrays/PrimitiveConversionDemonstration.java
 import java.util.*;
 import net.mindview.util.*;
 

@@ -1,4 +1,4 @@
-//: gui/TrackEvent.java
+package bookCode.gui;//: gui/TrackEvent.java
 // Show events as they happen.
 import javax.swing.*;
 import java.awt.*;

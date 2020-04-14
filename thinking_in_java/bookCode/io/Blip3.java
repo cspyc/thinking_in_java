@@ -1,7 +1,7 @@
-//: io/Blip3.java
+package bookCode.io;//: io/Blip3.java
 // Reconstructing an externalizable object.
 import java.io.*;
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class Blip3 implements Externalizable {
   private int i;

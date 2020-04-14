@@ -1,5 +1,5 @@
 //: generics/decorator/Decoration.java
-package generics.decorator;
+package bookCode.generics.decorator;
 import java.util.*;
 
 class Basic {

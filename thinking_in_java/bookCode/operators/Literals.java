@@ -1,5 +1,5 @@
-//: operators/Literals.java
-import static net.mindview.util.Print.*;
+package bookCode.operators;//: operators/Literals.java
+import static bookCode.net.mindview.util.Print.*;
 
 public class Literals {
   public static void main(String[] args) {

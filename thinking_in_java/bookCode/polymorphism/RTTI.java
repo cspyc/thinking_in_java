@@ -1,4 +1,4 @@
-//: polymorphism/RTTI.java
+package bookCode.polymorphism;//: polymorphism/RTTI.java
 // Downcasting & Runtime type information (RTTI).
 // {ThrowsException}
 

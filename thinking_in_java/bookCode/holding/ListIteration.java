@@ -1,5 +1,5 @@
-//: holding/ListIteration.java
-import typeinfo.pets.*;
+package bookCode.holding;//: holding/ListIteration.java
+import bookCode.typeinfo.pets.*;
 import java.util.*;
 
 public class ListIteration {

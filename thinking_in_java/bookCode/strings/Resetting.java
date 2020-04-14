@@ -1,4 +1,4 @@
-//: strings/Resetting.java
+package bookCode.strings;//: strings/Resetting.java
 import java.util.regex.*;
 
 public class Resetting {

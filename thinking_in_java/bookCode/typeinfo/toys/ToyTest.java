@@ -1,6 +1,6 @@
 //: typeinfo/toys/ToyTest.java
 // Testing class Class.
-package typeinfo.toys;
+package bookCode.typeinfo.toys;
 import static net.mindview.util.Print.*;
 
 interface HasBatteries {}

@@ -1,4 +1,4 @@
-//: typeinfo/ModifyingPrivateFields.java
+package bookCode.typeinfo;//: typeinfo/ModifyingPrivateFields.java
 import java.lang.reflect.*;
 
 class WithPrivateFinalField {

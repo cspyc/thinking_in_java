@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: generics)">
 
@@ -70,7 +70,7 @@
     <java
      classname="ApplyTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -79,7 +79,7 @@
     <java
      classname="ArrayMaker"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -88,7 +88,7 @@
     <java
      classname="ArrayOfGeneric"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -97,7 +97,7 @@
     <java
      classname="BankTeller"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -106,7 +106,7 @@
     <java
      classname="BasicBounds"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -115,7 +115,7 @@
     <java
      classname="BasicGeneratorDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -124,7 +124,7 @@
     <java
      classname="CaptureConversion"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -133,7 +133,7 @@
     <java
      classname="CheckedList"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -142,7 +142,7 @@
     <java
      classname="ClassTypeCapture"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -151,7 +151,7 @@
     <java
      classname="CompilerIntelligence"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -160,7 +160,7 @@
     <java
      classname="CovariantArrays"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -169,7 +169,7 @@
     <java
      classname="CreatorGeneric"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -178,7 +178,7 @@
     <java
      classname="CRGWithBasicHolder"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -187,7 +187,7 @@
     <java
      classname="DogsAndRobots"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -196,7 +196,7 @@
     <java
      classname="DynamicProxyMixin"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -205,7 +205,7 @@
     <java
      classname="EpicBattle"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -214,7 +214,7 @@
     <java
      classname="ErasedTypeEquivalence"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -223,7 +223,7 @@
     <java
      classname="ErasureAndInheritance"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -232,7 +232,7 @@
     <java
      classname="ExplicitTypeSpecification"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -241,7 +241,7 @@
     <java
      classname="FactoryConstraint"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -250,7 +250,7 @@
     <java
      classname="Fibonacci"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -259,7 +259,7 @@
     <java
      classname="FillTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -268,7 +268,7 @@
     <java
      classname="Fill2Test"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -277,7 +277,7 @@
     <java
      classname="FilledListMaker"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -286,7 +286,7 @@
     <java
      classname="Functional"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -295,7 +295,7 @@
     <java
      classname="Generators"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -304,7 +304,7 @@
     <java
      classname="GenericArray"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -313,7 +313,7 @@
     <java
      classname="GenericArray2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -322,7 +322,7 @@
     <java
      classname="GenericArrayWithTypeToken"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -331,7 +331,7 @@
     <java
      classname="GenericCast"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -340,7 +340,7 @@
     <java
      classname="GenericHolder"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -349,7 +349,7 @@
     <java
      classname="GenericMethods"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -358,7 +358,7 @@
     <java
      classname="GenericReading"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -367,7 +367,7 @@
     <java
      classname="GenericsAndCovariance"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -376,7 +376,7 @@
     <java
      classname="GenericVarargs"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -385,7 +385,7 @@
     <java
      classname="GenericWriting"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -394,7 +394,7 @@
     <java
      classname="Holder"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -403,7 +403,7 @@
     <java
      classname="Holder2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -412,7 +412,7 @@
     <java
      classname="Holder3"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -421,7 +421,7 @@
     <java
      classname="InheritBounds"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -430,7 +430,7 @@
     <java
      classname="InstantiateGenericType"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -439,7 +439,7 @@
     <java
      classname="IterableFibonacci"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -448,7 +448,7 @@
     <java
      classname="LatentReflection"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -457,7 +457,7 @@
     <java
      classname="LimitsOfInference"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -466,7 +466,7 @@
     <java
      classname="LinkedStack"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -475,7 +475,7 @@
     <java
      classname="ListMaker"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -484,7 +484,7 @@
     <java
      classname="ListOfInt"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -493,7 +493,7 @@
     <java
      classname="LostInformation"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -502,7 +502,7 @@
     <java
      classname="Mixins"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -511,7 +511,7 @@
     <java
      classname="OrdinaryArguments"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -520,7 +520,7 @@
     <java
      classname="PlainGenericInheritance"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -529,7 +529,7 @@
     <java
      classname="PrimitiveGenericTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -538,7 +538,7 @@
     <java
      classname="RandomList"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -547,7 +547,7 @@
     <java
      classname="SelfBounding"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -556,7 +556,7 @@
     <java
      classname="SelfBoundingMethods"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -565,7 +565,7 @@
     <java
      classname="SimpleDogsAndRobots"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -574,7 +574,7 @@
     <java
      classname="SimpleHolder"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -583,7 +583,7 @@
     <java
      classname="SimplerPets"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -592,7 +592,7 @@
     <java
      classname="Store"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -601,7 +601,7 @@
     <java
      classname="ThrowGenericException"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -610,7 +610,7 @@
     <java
      classname="TupleList"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -619,7 +619,7 @@
     <java
      classname="TupleTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -628,7 +628,7 @@
     <java
      classname="TupleTest2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -637,7 +637,7 @@
     <java
      classname="UnboundedWildcards1"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -646,7 +646,7 @@
     <java
      classname="UnboundedWildcards2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -655,7 +655,7 @@
     <java
      classname="Unconstrained"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -664,7 +664,7 @@
     <java
      classname="WatercolorSets"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -673,7 +673,7 @@
     <java
      classname="Wildcards"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -682,7 +682,7 @@
     <java
      classname="generics.coffee.CoffeeGenerator"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/coffee/"
+     dir="coffee/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -691,7 +691,7 @@
     <java
      classname="generics.decorator.Decoration"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../generics/decorator/"
+     dir="decorator/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -776,10 +776,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/generics" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/generics" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/generics" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/generics" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

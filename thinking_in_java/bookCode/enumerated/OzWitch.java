@@ -1,6 +1,6 @@
-//: enumerated/OzWitch.java
+package bookCode.enumerated;//: enumerated/OzWitch.java
 // The witches in the land of Oz.
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public enum OzWitch {
   // Instances must be defined first, before methods:

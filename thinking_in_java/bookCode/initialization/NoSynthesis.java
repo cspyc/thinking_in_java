@@ -1,4 +1,4 @@
-//: initialization/NoSynthesis.java
+package bookCode.initialization;//: initialization/NoSynthesis.java
 
 class Bird2 {
   Bird2(int i) {}

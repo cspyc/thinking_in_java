@@ -1,4 +1,4 @@
-//: containers/SortedSetDemo.java
+package bookCode.containers;//: containers/SortedSetDemo.java
 // What you can do with a TreeSet.
 import java.util.*;
 import static net.mindview.util.Print.*;

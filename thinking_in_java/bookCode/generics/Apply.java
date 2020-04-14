@@ -1,4 +1,4 @@
-//: generics/Apply.java
+package bookCode.generics;//: generics/Apply.java
 // {main: ApplyTest}
 import java.lang.reflect.*;
 import java.util.*;

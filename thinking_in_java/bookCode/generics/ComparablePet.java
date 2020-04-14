@@ -1,4 +1,4 @@
-//: generics/ComparablePet.java
+package bookCode.generics;//: generics/ComparablePet.java
 
 public class ComparablePet
 implements Comparable<ComparablePet> {

@@ -1,6 +1,6 @@
 //: concurrency/restaurant2/RestaurantWithQueues.java
 // {Args: 5}
-package concurrency.restaurant2;
+package bookCode.concurrency.restaurant2;
 import enumerated.menu.*;
 import java.util.concurrent.*;
 import java.util.*;

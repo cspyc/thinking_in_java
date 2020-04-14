@@ -1,5 +1,5 @@
 //: interfaces/filters/Waveform.java
-package interfaces.filters;
+package bookCode.interfaces.filters;
 
 public class Waveform {
   private static long counter;

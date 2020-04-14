@@ -16,6 +16,8 @@ public class BerylliumSphere {
         this.id = id;
     }
 
+    public BerylliumSphere() {
+    }
 
     public BerylliumSphere(long id) {
         this.id = id;

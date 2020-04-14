@@ -1,9 +1,10 @@
-//: enumerated/OverrideConstantSpecific.java
-import static net.mindview.util.Print.*;
+package bookCode.enumerated;//: enumerated/OverrideConstantSpecific.java
+import static bookCode.net.mindview.util.Print.*;
 
 public enum OverrideConstantSpecific {
   NUT, BOLT,
   WASHER {
+    @Override
     void f() { print("Overridden method"); }
   };
   void f() { print("default behavior"); }

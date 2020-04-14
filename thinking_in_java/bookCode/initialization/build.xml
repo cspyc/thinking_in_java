@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: initialization)">
 
@@ -52,7 +52,7 @@
     <java
      classname="ArrayClassObj"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -61,7 +61,7 @@
     <java
      classname="ArrayInit"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -70,7 +70,7 @@
     <java
      classname="ArrayNew"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -79,7 +79,7 @@
     <java
      classname="ArraysOfPrimitives"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -88,7 +88,7 @@
     <java
      classname="AutoboxingVarargs"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -97,7 +97,7 @@
     <java
      classname="BananaPeel"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -106,7 +106,7 @@
     <java
      classname="Burrito"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -115,7 +115,7 @@
     <java
      classname="DefaultConstructor"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -124,7 +124,7 @@
     <java
      classname="Demotion"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -133,7 +133,7 @@
     <java
      classname="DynamicArray"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -142,7 +142,7 @@
     <java
      classname="EnumOrder"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -151,7 +151,7 @@
     <java
      classname="ExplicitStatic"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -160,7 +160,7 @@
     <java
      classname="Flower"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -169,7 +169,7 @@
     <java
      classname="InitialValues"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -178,7 +178,7 @@
     <java
      classname="Leaf"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -187,7 +187,7 @@
     <java
      classname="Mugs"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -196,7 +196,7 @@
     <java
      classname="NewVarArgs"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -205,7 +205,7 @@
     <java
      classname="NoSynthesis"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -214,7 +214,7 @@
     <java
      classname="OptionalTrailingArguments"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -223,7 +223,7 @@
     <java
      classname="OrderOfInitialization"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -232,7 +232,7 @@
     <java
      classname="Overloading"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -241,7 +241,7 @@
     <java
      classname="OverloadingOrder"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -250,7 +250,7 @@
     <java
      classname="OverloadingVarargs"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -259,7 +259,7 @@
     <java
      classname="OverloadingVarargs3"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -268,7 +268,7 @@
     <java
      classname="PassingThis"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -277,7 +277,7 @@
     <java
      classname="PrimitiveOverloading"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -286,7 +286,7 @@
     <java
      classname="SimpleConstructor"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -295,7 +295,7 @@
     <java
      classname="SimpleConstructor2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -304,7 +304,7 @@
     <java
      classname="SimpleEnumUse"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -313,7 +313,7 @@
     <java
      classname="StaticInitialization"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -322,7 +322,7 @@
     <java
      classname="TerminationCondition"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -331,7 +331,7 @@
     <java
      classname="VarArgs"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -340,7 +340,7 @@
     <java
      classname="VarargType"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../initialization/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -388,10 +388,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/initialization" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/initialization" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/initialization" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/initialization" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

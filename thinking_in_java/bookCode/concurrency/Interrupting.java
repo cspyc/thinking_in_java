@@ -1,4 +1,4 @@
-//: concurrency/Interrupting.java
+package bookCode.concurrency;//: concurrency/Interrupting.java
 // Interrupting a blocked thread.
 import java.util.concurrent.*;
 import java.io.*;

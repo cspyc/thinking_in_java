@@ -1,4 +1,4 @@
-//: generics/CheckedList.java
+package bookCode.generics;//: generics/CheckedList.java
 // Using Collection.checkedList().
 import typeinfo.pets.*;
 import java.util.*;

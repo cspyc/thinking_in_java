@@ -1,4 +1,4 @@
-//: holding/GenericsAndUpcasting.java
+package bookCode.holding;//: holding/GenericsAndUpcasting.java
 import java.util.*;
 
 class GrannySmith extends Apple {}

@@ -1,4 +1,4 @@
-//: access/PrintTest.java
+package bookCode.access;//: access/PrintTest.java
 // Uses the static printing methods in Print.java.
 import static net.mindview.util.Print.*;
 

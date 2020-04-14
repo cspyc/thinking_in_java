@@ -1,4 +1,4 @@
-//: gui/ShowAddListeners.java
+package bookCode.gui;//: gui/ShowAddListeners.java
 // Display the "addXXXListener" methods of any Swing class.
 import javax.swing.*;
 import java.awt.*;

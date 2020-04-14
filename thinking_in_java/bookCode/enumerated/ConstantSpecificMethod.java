@@ -1,4 +1,4 @@
-//: enumerated/ConstantSpecificMethod.java
+package bookCode.enumerated;//: enumerated/ConstantSpecificMethod.java
 import java.util.*;
 import java.text.*;
 

@@ -6,7 +6,7 @@
 // cd ..
 // cd ..
 // jar cvf gui/jnlp/jnlpfilechooser.jar gui/jnlp/*.class
-package gui.jnlp;
+package bookCode.gui.jnlp;
 import javax.jnlp.*;
 import javax.swing.*;
 import java.awt.*;
@@ -49,7 +49,7 @@ public class JnlpFileChooser extends JFrame {
       }
       if(fs != null) {
         try {
-          fileContents = fs.openFileDialog(".",
+          fileContents = fs.openFileDialog("",
             new String[]{"txt", "*"});
           if(fileContents == null)
             return;
@@ -73,7 +73,7 @@ public class JnlpFileChooser extends JFrame {
       }
       if(fs != null) {
         try {
-          fileContents = fs.saveFileDialog(".",
+          fileContents = fs.saveFileDialog("",
             new String[]{"txt"},
             new ByteArrayInputStream(
               ep.getText().getBytes()),

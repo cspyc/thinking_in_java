@@ -1,9 +1,9 @@
-//: gui/Button2.java
+package bookCode.gui;//: gui/Button2.java
 // Responding to button presses.
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import static net.mindview.util.SwingConsole.*;
+import static bookCode.net.mindview.util.SwingConsole.*;
 
 public class Button2 extends JFrame {
   private JButton
@@ -11,6 +11,7 @@ public class Button2 extends JFrame {
     b2 = new JButton("Button 2");
   private JTextField txt = new JTextField(10);
   class ButtonListener implements ActionListener {
+    @Override
     public void actionPerformed(ActionEvent e) {
       String name = ((JButton)e.getSource()).getText();
       txt.setText(name);

@@ -1,5 +1,5 @@
 //: annotations/database/DBTable.java
-package annotations.database;
+package bookCode.annotations.database;
 import java.lang.annotation.*;
 
 @Target(ElementType.TYPE) // Applies to classes only

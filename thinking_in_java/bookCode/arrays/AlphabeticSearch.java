@@ -1,7 +1,7 @@
-//: arrays/AlphabeticSearch.java
+package bookCode.arrays;//: arrays/AlphabeticSearch.java
 // Searching with a Comparator.
 import java.util.*;
-import net.mindview.util.*;
+import bookCode.net.mindview.util.*;
 
 public class AlphabeticSearch {
   public static void main(String[] args) {

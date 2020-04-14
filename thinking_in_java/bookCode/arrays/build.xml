@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: arrays)">
 
@@ -51,7 +51,7 @@
     <java
      classname="AlphabeticSearch"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -60,7 +60,7 @@
     <java
      classname="ArrayOfGenerics"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -69,7 +69,7 @@
     <java
      classname="ArrayOptions"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -78,7 +78,7 @@
     <java
      classname="ArraySearching"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -87,7 +87,7 @@
     <java
      classname="AssemblingMultidimensionalArrays"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -96,7 +96,7 @@
     <java
      classname="AutoboxingArrays"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -105,7 +105,7 @@
     <java
      classname="ComparatorTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -114,7 +114,7 @@
     <java
      classname="ComparingArrays"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -123,7 +123,7 @@
     <java
      classname="CompType"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -132,7 +132,7 @@
     <java
      classname="ContainerComparison"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -141,7 +141,7 @@
     <java
      classname="CopyingArrays"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -150,7 +150,7 @@
     <java
      classname="FillingArrays"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -159,7 +159,7 @@
     <java
      classname="GeneratorsTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -168,7 +168,7 @@
     <java
      classname="IceCream"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -177,7 +177,7 @@
     <java
      classname="MultidimensionalObjectArrays"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -186,7 +186,7 @@
     <java
      classname="MultidimensionalPrimitiveArray"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -195,7 +195,7 @@
     <java
      classname="MultiDimWrapperArray"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -204,7 +204,7 @@
     <java
      classname="ParameterizedArrayType"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -213,7 +213,7 @@
     <java
      classname="PrimitiveConversionDemonstration"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -222,7 +222,7 @@
     <java
      classname="RaggedArray"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -231,7 +231,7 @@
     <java
      classname="RandomGeneratorsTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -240,7 +240,7 @@
     <java
      classname="Reverse"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -249,7 +249,7 @@
     <java
      classname="StringSorting"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -258,7 +258,7 @@
     <java
      classname="TestArrayGeneration"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -267,7 +267,7 @@
     <java
      classname="TestGenerated"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -276,7 +276,7 @@
     <java
      classname="ThreeDWithNew"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../arrays/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -317,10 +317,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/arrays" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/arrays" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/arrays" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/arrays" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

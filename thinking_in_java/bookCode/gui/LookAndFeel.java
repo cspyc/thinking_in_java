@@ -1,9 +1,9 @@
-//: gui/LookAndFeel.java
+package bookCode.gui;//: gui/LookAndFeel.java
 // Selecting different looks & feels.
 // {Args: motif}
 import javax.swing.*;
 import java.awt.*;
-import static net.mindview.util.SwingConsole.*;
+import static bookCode.net.mindview.util.SwingConsole.*;
 
 public class LookAndFeel extends JFrame {
   private String[] choices =

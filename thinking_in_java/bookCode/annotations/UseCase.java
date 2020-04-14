@@ -1,4 +1,4 @@
-//: annotations/UseCase.java
+package bookCode.annotations;//: annotations/UseCase.java
 import java.lang.annotation.*;
 
 @Target(ElementType.METHOD)

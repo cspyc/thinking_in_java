@@ -1,7 +1,7 @@
-//: operators/MathOps.java
+package bookCode.operators;//: operators/MathOps.java
 // Demonstrates the mathematical operators.
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class MathOps {
   public static void main(String[] args) {

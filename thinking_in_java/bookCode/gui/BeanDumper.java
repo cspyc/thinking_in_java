@@ -1,4 +1,4 @@
-//: gui/BeanDumper.java
+package bookCode.gui;//: gui/BeanDumper.java
 // Introspecting a Bean.
 import javax.swing.*;
 import java.awt.*;

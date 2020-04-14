@@ -1,5 +1,5 @@
 //: swt/util/SWTApplication.java
-package swt.util;
+package bookCode.swt.util;
 import org.eclipse.swt.widgets.*;
 
 public interface SWTApplication {

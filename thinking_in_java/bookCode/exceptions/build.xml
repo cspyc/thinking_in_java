@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: exceptions)">
 
@@ -51,7 +51,7 @@
     <java
      classname="AlwaysFinally"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -60,7 +60,7 @@
     <java
      classname="Cleanup"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -69,7 +69,7 @@
     <java
      classname="CleanupIdiom"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -78,7 +78,7 @@
     <java
      classname="DynamicFields"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -87,7 +87,7 @@
     <java
      classname="ExceptionMethods"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -96,7 +96,7 @@
     <java
      classname="ExceptionSilencer"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -105,7 +105,7 @@
     <java
      classname="ExtraFeatures"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -114,7 +114,7 @@
     <java
      classname="FinallyWorks"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -123,7 +123,7 @@
     <java
      classname="FullConstructors"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -132,7 +132,7 @@
     <java
      classname="Human"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -141,7 +141,7 @@
     <java
      classname="InheritingExceptions"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -150,7 +150,7 @@
     <java
      classname="LoggingExceptions"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -159,7 +159,7 @@
     <java
      classname="LoggingExceptions2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -168,7 +168,7 @@
     <java
      classname="LostMessage"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -177,7 +177,7 @@
     <java
      classname="MainException"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -186,7 +186,7 @@
     <java
      classname="MultipleReturns"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -195,7 +195,7 @@
     <java
      classname="NeverCaught"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="false"
      fork="true"/>
     <echo message="* Exception was expected *"/>
@@ -205,7 +205,7 @@
     <java
      classname="OnOffSwitch"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -214,7 +214,7 @@
     <java
      classname="Rethrowing"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -223,7 +223,7 @@
     <java
      classname="RethrowNew"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -232,7 +232,7 @@
     <java
      classname="StormyInning"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -241,7 +241,7 @@
     <java
      classname="TurnOffChecking"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -250,7 +250,7 @@
     <java
      classname="WhoCalled"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -259,7 +259,7 @@
     <java
      classname="WithFinally"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../exceptions/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -298,10 +298,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/exceptions" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/exceptions" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/exceptions" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/exceptions" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

@@ -1,4 +1,4 @@
-//: io/LockingMappedFiles.java
+package bookCode.io;//: io/LockingMappedFiles.java
 // Locking portions of a mapped file.
 // {RunByHand}
 import java.nio.*;

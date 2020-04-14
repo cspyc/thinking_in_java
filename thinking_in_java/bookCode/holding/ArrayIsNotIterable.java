@@ -1,4 +1,4 @@
-//: holding/ArrayIsNotIterable.java
+package bookCode.holding;//: holding/ArrayIsNotIterable.java
 import java.util.*;
 
 public class ArrayIsNotIterable {

@@ -1,5 +1,5 @@
-//: exceptions/Switch.java
-import static net.mindview.util.Print.*;
+package bookCode.exceptions;//: exceptions/Switch.java
+import static bookCode.net.mindview.util.Print.*;
 
 public class Switch {
   private boolean state = false;

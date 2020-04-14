@@ -1,8 +1,8 @@
-//: concurrency/FastSimulation.java
+package bookCode.concurrency;//: concurrency/FastSimulation.java
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.*;
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class FastSimulation {
   static final int N_ELEMENTS = 100000;

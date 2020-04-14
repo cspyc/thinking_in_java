@@ -1,4 +1,4 @@
-//: initialization/ArrayInit.java
+package bookCode.initialization;//: initialization/ArrayInit.java
 // Array initialization.
 import java.util.*;
 

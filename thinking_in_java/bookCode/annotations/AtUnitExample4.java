@@ -1,9 +1,9 @@
 //: annotations/AtUnitExample4.java
-package annotations;
+package bookCode.annotations;
 import java.util.*;
-import net.mindview.atunit.*;
-import net.mindview.util.*;
-import static net.mindview.util.Print.*;
+import bookCode.net.mindview.atunit.*;
+import bookCode.net.mindview.util.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class AtUnitExample4 {
   static String theory = "All brontosauruses " +

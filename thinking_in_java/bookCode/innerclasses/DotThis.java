@@ -1,4 +1,4 @@
-//: innerclasses/DotThis.java
+package bookCode.innerclasses;//: innerclasses/DotThis.java
 // Qualifying access to the outer-class object.
 
 public class DotThis {

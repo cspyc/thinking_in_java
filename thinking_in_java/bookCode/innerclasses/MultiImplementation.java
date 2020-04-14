@@ -2,7 +2,7 @@
 // With concrete or abstract classes, inner
 // classes are the only way to produce the effect
 // of "multiple implementation inheritance."
-package innerclasses;
+package bookCode.innerclasses;
 
 class D {}
 abstract class E {}

@@ -1,9 +1,9 @@
-//: gui/MessageBoxes.java
+package bookCode.gui;//: gui/MessageBoxes.java
 // Demonstrates JOptionPane.
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import static net.mindview.util.SwingConsole.*;
+import static bookCode.net.mindview.util.SwingConsole.*;
 
 public class MessageBoxes extends JFrame {
   private JButton[] b = {

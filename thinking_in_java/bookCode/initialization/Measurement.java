@@ -1,3 +1,5 @@
+package bookCode.initialization;
+
 //: initialization/Measurement.java
 class Depth {}
 

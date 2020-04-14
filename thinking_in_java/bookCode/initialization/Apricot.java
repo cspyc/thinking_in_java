@@ -1,3 +1,5 @@
+package bookCode.initialization;
+
 //: initialization/Apricot.java
 public class Apricot {
   void pick() { /* ... */ }

@@ -1,6 +1,6 @@
 //: net/mindview/simple/Vector.java
 // Creating a package.
-package net.mindview.simple;
+package bookCode.net.mindview.simple;
 
 public class Vector {
   public Vector() {

@@ -1,5 +1,5 @@
 //: polymorphism/shape/Circle.java
-package polymorphism.shape;
+package bookCode.polymorphism.shape;
 import static net.mindview.util.Print.*;
 
 public class Circle extends Shape {

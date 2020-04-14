@@ -1,8 +1,8 @@
 //: enumerated/RoShamBo1.java
 // Demonstration of multiple dispatching.
-package enumerated;
+package bookCode.enumerated;
 import java.util.*;
-import static enumerated.Outcome.*;
+import static bookCode.enumerated.Outcome.*;
 
 interface Item {
   Outcome compete(Item it);
@@ -12,26 +12,41 @@ interface Item {
 }
 
 class Paper implements Item {
+  @Override
   public Outcome compete(Item it) { return it.eval(this); }
+  @Override
   public Outcome eval(Paper p) { return DRAW; }
+  @Override
   public Outcome eval(Scissors s) { return WIN; }
+  @Override
   public Outcome eval(Rock r) { return LOSE; }
+  @Override
   public String toString() { return "Paper"; }
 }	
 
 class Scissors implements Item {
+  @Override
   public Outcome compete(Item it) { return it.eval(this); }
+  @Override
   public Outcome eval(Paper p) { return LOSE; }
+  @Override
   public Outcome eval(Scissors s) { return DRAW; }
+  @Override
   public Outcome eval(Rock r) { return WIN; }
+  @Override
   public String toString() { return "Scissors"; }
 }
 
 class Rock implements Item {
+  @Override
   public Outcome compete(Item it) { return it.eval(this); }
+  @Override
   public Outcome eval(Paper p) { return WIN; }
+  @Override
   public Outcome eval(Scissors s) { return LOSE; }
+  @Override
   public Outcome eval(Rock r) { return DRAW; }
+  @Override
   public String toString() { return "Rock"; }
 }	
 
@@ -51,8 +66,9 @@ public class RoShamBo1 {
       a + " vs. " + b + ": " +  a.compete(b));
   }
   public static void main(String[] args) {
-    for(int i = 0; i < SIZE; i++)
+    for(int i = 0; i < SIZE; i++) {
       match(newItem(), newItem());
+    }
   }
 } /* Output:	
 Rock vs. Rock: DRAW

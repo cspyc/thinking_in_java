@@ -1,6 +1,6 @@
 //: bangbean/BangBeanTest.java
 // {Timeout: 5} Abort after 5 seconds when testing
-package bangbean;
+package bookCode.bangbean;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

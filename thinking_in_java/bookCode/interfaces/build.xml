@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: interfaces)">
 
@@ -60,7 +60,7 @@
     <java
      classname="AdaptedRandomDoubles"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../interfaces/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -69,7 +69,7 @@
     <java
      classname="Adventure"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../interfaces/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -78,7 +78,7 @@
     <java
      classname="Factories"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../interfaces/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -87,7 +87,7 @@
     <java
      classname="Games"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../interfaces/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -96,7 +96,7 @@
     <java
      classname="HorrorShow"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../interfaces/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -105,7 +105,7 @@
     <java
      classname="RandomDoubles"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../interfaces/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -114,7 +114,7 @@
     <java
      classname="RandomWords"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../interfaces/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -123,7 +123,7 @@
     <java
      classname="TestRandVals"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../interfaces/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -132,7 +132,7 @@
     <java
      classname="interfaces.classprocessor.Apply"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../interfaces/classprocessor/"
+     dir="classprocessor/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -141,7 +141,7 @@
     <java
      classname="interfaces.interfaceprocessor.FilterProcessor"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../interfaces/interfaceprocessor/"
+     dir="interfaceprocessor/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -150,7 +150,7 @@
     <java
      classname="interfaces.interfaceprocessor.StringProcessor"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../interfaces/interfaceprocessor/"
+     dir="interfaceprocessor/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -159,7 +159,7 @@
     <java
      classname="interfaces.music4.Music4"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../interfaces/music4/"
+     dir="music4/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -168,7 +168,7 @@
     <java
      classname="interfaces.music5.Music5"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../interfaces/music5/"
+     dir="music5/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -177,7 +177,7 @@
     <java
      classname="interfaces.nesting.NestingInterfaces"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../interfaces/nesting/"
+     dir="nesting/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -206,10 +206,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/interfaces" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/interfaces" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/interfaces" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/interfaces" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

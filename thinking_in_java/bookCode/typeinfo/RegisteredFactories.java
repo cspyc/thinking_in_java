@@ -1,4 +1,4 @@
-//: typeinfo/RegisteredFactories.java
+package bookCode.typeinfo;//: typeinfo/RegisteredFactories.java
 // Registering Class Factories in the base class.
 import typeinfo.factory.*;
 import java.util.*;

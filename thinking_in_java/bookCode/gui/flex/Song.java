@@ -1,5 +1,5 @@
 //: gui/flex/Song.java
-package gui.flex;
+package bookCode.gui.flex;
 
 public class Song implements java.io.Serializable {
   private String name;

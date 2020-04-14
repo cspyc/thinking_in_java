@@ -1,4 +1,4 @@
-//: generics/Fill.java
+package bookCode.generics;//: generics/Fill.java
 // Generalizing the FilledList idea
 // {main: FillTest}
 import java.util.*;

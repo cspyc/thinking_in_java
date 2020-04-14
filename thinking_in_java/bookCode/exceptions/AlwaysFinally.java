@@ -1,4 +1,4 @@
-//: exceptions/AlwaysFinally.java
+package bookCode.exceptions;//: exceptions/AlwaysFinally.java
 // Finally is always executed.
 import static net.mindview.util.Print.*;
 

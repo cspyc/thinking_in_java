@@ -1,5 +1,5 @@
 //: annotations/database/Member.java
-package annotations.database;
+package bookCode.annotations.database;
 
 @DBTable(name = "MEMBER")
 public class Member {

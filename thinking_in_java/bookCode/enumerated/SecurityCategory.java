@@ -1,6 +1,6 @@
-//: enumerated/SecurityCategory.java
+package bookCode.enumerated;//: enumerated/SecurityCategory.java
 // More succinct subcategorization of enums.
-import net.mindview.util.*;
+import bookCode.net.mindview.util.*;
 
 enum SecurityCategory {
   STOCK(Security.Stock.class), BOND(Security.Bond.class);

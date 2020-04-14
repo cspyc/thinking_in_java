@@ -1,4 +1,4 @@
-//: concurrency/MoreBasicThreads.java
+package bookCode.concurrency;//: concurrency/MoreBasicThreads.java
 // Adding more threads.
 
 public class MoreBasicThreads {

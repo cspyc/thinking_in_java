@@ -1,4 +1,4 @@
-//: generics/GenericVarargs.java
+package bookCode.generics;//: generics/GenericVarargs.java
 import java.util.*;
 
 public class GenericVarargs {

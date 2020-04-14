@@ -1,4 +1,4 @@
-//: interfaces/RandVals.java
+package bookCode.interfaces;//: interfaces/RandVals.java
 // Initializing interface fields with
 // non-constant initializers.
 import java.util.*;

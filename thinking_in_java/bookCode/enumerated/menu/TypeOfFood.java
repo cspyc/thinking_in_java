@@ -1,5 +1,5 @@
 //: enumerated/menu/TypeOfFood.java
-package enumerated.menu;
+package bookCode.enumerated.menu;
 import static enumerated.menu.Food.*;
 
 public class TypeOfFood {

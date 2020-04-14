@@ -1,4 +1,4 @@
-//: gui/GridLayout1.java
+package bookCode.gui;//: gui/GridLayout1.java
 // Demonstrates GridLayout.
 import javax.swing.*;
 import java.awt.*;

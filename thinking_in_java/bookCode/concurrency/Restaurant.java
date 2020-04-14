@@ -1,4 +1,4 @@
-//: concurrency/Restaurant.java
+package bookCode.concurrency;//: concurrency/Restaurant.java
 // The producer-consumer approach to task cooperation.
 import java.util.concurrent.*;
 import static net.mindview.util.Print.*;

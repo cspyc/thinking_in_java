@@ -1,4 +1,4 @@
-//: exceptions/FullConstructors.java
+package bookCode.exceptions;//: exceptions/FullConstructors.java
 
 class MyException extends Exception {
   public MyException() {}

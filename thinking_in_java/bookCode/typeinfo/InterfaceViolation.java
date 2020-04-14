@@ -1,4 +1,4 @@
-//: typeinfo/InterfaceViolation.java
+package bookCode.typeinfo;//: typeinfo/InterfaceViolation.java
 // Sneaking around an interface.
 import typeinfo.interfacea.*;
 

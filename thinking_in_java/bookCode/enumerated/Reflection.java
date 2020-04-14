@@ -1,9 +1,9 @@
-//: enumerated/Reflection.java
+package bookCode.enumerated;//: enumerated/Reflection.java
 // Analyzing enums using reflection.
 import java.lang.reflect.*;
 import java.util.*;
-import net.mindview.util.*;
-import static net.mindview.util.Print.*;
+import bookCode.net.mindview.util.*;
+import static bookCode.net.mindview.util.Print.*;
 
 enum Explore { HERE, THERE }
 
@@ -11,13 +11,15 @@ public class Reflection {
   public static Set<String> analyze(Class<?> enumClass) {
     print("----- Analyzing " + enumClass + " -----");
     print("Interfaces:");
-    for(Type t : enumClass.getGenericInterfaces())
+    for(Type t : enumClass.getGenericInterfaces()) {
       print(t);
+    }
     print("Base: " + enumClass.getSuperclass());
     print("Methods: ");
     Set<String> methods = new TreeSet<String>();
-    for(Method m : enumClass.getMethods())
+    for(Method m : enumClass.getMethods()) {
       methods.add(m.getName());
+    }
     print(methods);
     return methods;
   }

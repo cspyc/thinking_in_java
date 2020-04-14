@@ -1,4 +1,4 @@
-//: annotations/PasswordUtils.java
+package bookCode.annotations;//: annotations/PasswordUtils.java
 import java.util.*;
 
 public class PasswordUtils {

@@ -1,3 +1,3 @@
 //: enumerated/Outcome.java
-package enumerated;
+package bookCode.enumerated;
 public enum Outcome { WIN, LOSE, DRAW } ///:~

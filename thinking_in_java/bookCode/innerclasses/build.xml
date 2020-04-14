@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: innerclasses)">
 
@@ -51,7 +51,7 @@
     <java
      classname="AnonymousConstructor"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -60,7 +60,7 @@
     <java
      classname="BigEgg"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -69,7 +69,7 @@
     <java
      classname="BigEgg2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -78,7 +78,7 @@
     <java
      classname="innerclasses.Callbacks"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -87,7 +87,7 @@
     <java
      classname="ClassInInterface$Test"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -96,7 +96,7 @@
     <java
      classname="DotNew"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -105,7 +105,7 @@
     <java
      classname="DotThis"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -114,7 +114,7 @@
     <java
      classname="Factories"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -123,7 +123,7 @@
     <java
      classname="Games"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -132,7 +132,7 @@
     <java
      classname="GreenhouseController"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="5000"/>
@@ -143,7 +143,7 @@
     <java
      classname="InheritInner"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -152,7 +152,7 @@
     <java
      classname="LocalInnerClass"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -161,7 +161,7 @@
     <java
      classname="innerclasses.MultiImplementation"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -170,7 +170,7 @@
     <java
      classname="innerclasses.MultiInterfaces"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -179,7 +179,7 @@
     <java
      classname="MultiNestingAccess"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -188,7 +188,7 @@
     <java
      classname="Parcel1"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -197,7 +197,7 @@
     <java
      classname="Parcel10"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -206,7 +206,7 @@
     <java
      classname="Parcel11"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -215,7 +215,7 @@
     <java
      classname="Parcel2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -224,7 +224,7 @@
     <java
      classname="Parcel3"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -233,7 +233,7 @@
     <java
      classname="Parcel5"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -242,7 +242,7 @@
     <java
      classname="Parcel6"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -251,7 +251,7 @@
     <java
      classname="Parcel7"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -260,7 +260,7 @@
     <java
      classname="Parcel7b"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -269,7 +269,7 @@
     <java
      classname="Parcel8"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -278,7 +278,7 @@
     <java
      classname="Parcel9"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -287,7 +287,7 @@
     <java
      classname="Sequence"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -296,7 +296,7 @@
     <java
      classname="TestBed$Tester"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -305,7 +305,7 @@
     <java
      classname="TestParcel"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../innerclasses/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -349,10 +349,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/innerclasses" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/innerclasses" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/innerclasses" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/innerclasses" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

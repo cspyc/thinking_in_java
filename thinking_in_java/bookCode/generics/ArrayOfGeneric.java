@@ -1,4 +1,4 @@
-//: generics/ArrayOfGeneric.java
+package bookCode.generics;//: generics/ArrayOfGeneric.java
 
 public class ArrayOfGeneric {
   static final int SIZE = 100;

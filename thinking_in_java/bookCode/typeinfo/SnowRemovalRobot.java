@@ -1,4 +1,4 @@
-//: typeinfo/SnowRemovalRobot.java
+package bookCode.typeinfo;//: typeinfo/SnowRemovalRobot.java
 import java.util.*;
 
 public class SnowRemovalRobot implements Robot {

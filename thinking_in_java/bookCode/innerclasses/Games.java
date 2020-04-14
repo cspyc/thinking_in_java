@@ -1,4 +1,4 @@
-//: innerclasses/Games.java
+package bookCode.innerclasses;//: innerclasses/Games.java
 // Using anonymous inner classes with the Game framework.
 import static net.mindview.util.Print.*;
 

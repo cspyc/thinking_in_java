@@ -1,5 +1,5 @@
-//: holding/InterfaceVsIterator.java
-import typeinfo.pets.*;
+package bookCode.holding;//: holding/InterfaceVsIterator.java
+import bookCode.typeinfo.pets.*;
 import java.util.*;
 
 public class InterfaceVsIterator {

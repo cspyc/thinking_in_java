@@ -1,6 +1,6 @@
-//: reusing/Bath.java
+package bookCode.reusing;//: reusing/Bath.java
 // Constructor initialization with composition.
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 class Soap {
   private String s;

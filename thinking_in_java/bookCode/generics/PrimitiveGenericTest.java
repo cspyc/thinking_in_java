@@ -1,11 +1,12 @@
-//: generics/PrimitiveGenericTest.java
-import net.mindview.util.*;
+package bookCode.generics;//: generics/PrimitiveGenericTest.java
+import bookCode.net.mindview.util.*;
 
 // Fill an array using a generator:
 class FArray {
   public static <T> T[] fill(T[] a, Generator<T> gen) {
-    for(int i = 0; i < a.length; i++)
+    for(int i = 0; i < a.length; i++) {
       a[i] = gen.next();
+    }
     return a;
   }
 }	

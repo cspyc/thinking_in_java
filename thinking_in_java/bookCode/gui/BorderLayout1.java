@@ -1,8 +1,8 @@
-//: gui/BorderLayout1.java
+package bookCode.gui;//: gui/BorderLayout1.java
 // Demonstrates BorderLayout.
 import javax.swing.*;
 import java.awt.*;
-import static net.mindview.util.SwingConsole.*;
+import static bookCode.net.mindview.util.SwingConsole.*;
 
 public class BorderLayout1 extends JFrame {
   public BorderLayout1() {

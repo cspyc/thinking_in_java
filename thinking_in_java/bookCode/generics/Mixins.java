@@ -1,4 +1,4 @@
-//: generics/Mixins.java
+package bookCode.generics;//: generics/Mixins.java
 import java.util.*;
 
 interface TimeStamped { long getStamp(); }

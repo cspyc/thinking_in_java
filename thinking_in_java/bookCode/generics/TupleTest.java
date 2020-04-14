@@ -1,5 +1,5 @@
-//: generics/TupleTest.java
-import net.mindview.util.*;
+package bookCode.generics;//: generics/TupleTest.java
+import bookCode.net.mindview.util.*;
 
 class Amphibian {}
 class Vehicle {}

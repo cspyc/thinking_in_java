@@ -1,5 +1,5 @@
 //: access/mypackage/MyClass.java
-package access.mypackage;
+package bookCode.access.mypackage;
 
 public class MyClass {
   // ...

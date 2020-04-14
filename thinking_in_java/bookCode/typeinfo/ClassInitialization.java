@@ -1,4 +1,4 @@
-//: typeinfo/ClassInitialization.java
+package bookCode.typeinfo;//: typeinfo/ClassInitialization.java
 import java.util.*;
 
 class Initable {

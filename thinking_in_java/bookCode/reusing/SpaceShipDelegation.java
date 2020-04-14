@@ -1,4 +1,4 @@
-//: reusing/SpaceShipDelegation.java
+package bookCode.reusing;//: reusing/SpaceShipDelegation.java
 
 public class SpaceShipDelegation {
   private String name;

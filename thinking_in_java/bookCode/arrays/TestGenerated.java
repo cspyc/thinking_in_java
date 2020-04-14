@@ -1,4 +1,4 @@
-//: arrays/TestGenerated.java
+package bookCode.arrays;//: arrays/TestGenerated.java
 import java.util.*;
 import net.mindview.util.*;
 

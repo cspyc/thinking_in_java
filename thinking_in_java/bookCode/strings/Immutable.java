@@ -1,5 +1,5 @@
-//: strings/Immutable.java
-import static net.mindview.util.Print.*;
+package bookCode.strings;//: strings/Immutable.java
+import static bookCode.net.mindview.util.Print.*;
 
 public class Immutable {
   public static String upcase(String s) {

@@ -1,5 +1,5 @@
 //: enumerated/menu/Course.java
-package enumerated.menu;
+package bookCode.enumerated.menu;
 import net.mindview.util.*;
 
 public enum Course {

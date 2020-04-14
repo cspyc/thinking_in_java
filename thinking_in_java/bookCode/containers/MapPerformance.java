@@ -1,4 +1,4 @@
-//: containers/MapPerformance.java
+package bookCode.containers;//: containers/MapPerformance.java
 // Demonstrates performance differences in Maps.
 // {Args: 100 5000} Small to keep build testing short
 import java.util.*;

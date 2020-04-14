@@ -1,4 +1,4 @@
-//: generics/NonCovariantGenerics.java
+package bookCode.generics;//: generics/NonCovariantGenerics.java
 // {CompileTimeError} (Won't compile)
 import java.util.*;
 

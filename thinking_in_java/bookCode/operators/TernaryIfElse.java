@@ -1,4 +1,4 @@
-//: operators/TernaryIfElse.java
+package bookCode.operators;//: operators/TernaryIfElse.java
 import static net.mindview.util.Print.*;
 
 public class TernaryIfElse {

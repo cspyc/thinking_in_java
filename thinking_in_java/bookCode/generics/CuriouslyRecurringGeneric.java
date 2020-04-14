@@ -1,4 +1,4 @@
-//: generics/CuriouslyRecurringGeneric.java
+package bookCode.generics;//: generics/CuriouslyRecurringGeneric.java
 
 class GenericType<T> {}
 

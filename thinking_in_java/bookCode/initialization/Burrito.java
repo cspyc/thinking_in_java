@@ -1,4 +1,4 @@
-//: initialization/Burrito.java
+package bookCode.initialization;//: initialization/Burrito.java
 
 public class Burrito {
   Spiciness degree;

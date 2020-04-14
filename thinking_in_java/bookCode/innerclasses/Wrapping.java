@@ -1,3 +1,5 @@
+package bookCode.innerclasses;
+
 //: innerclasses/Wrapping.java
 public class Wrapping {
   private int i;

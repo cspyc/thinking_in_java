@@ -1,7 +1,7 @@
-//: containers/ListSortSearch.java
+package bookCode.containers;//: containers/ListSortSearch.java
 // Sorting and searching Lists with Collections utilities.
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class ListSortSearch {
   public static void main(String[] args) {

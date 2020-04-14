@@ -1,4 +1,4 @@
-//: exceptions/Cleanup.java
+package bookCode.exceptions;//: exceptions/Cleanup.java
 // Guaranteeing proper cleanup of a resource.
 
 public class Cleanup {

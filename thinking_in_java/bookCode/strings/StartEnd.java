@@ -1,4 +1,4 @@
-//: strings/StartEnd.java
+package bookCode.strings;//: strings/StartEnd.java
 import java.util.regex.*;
 import static net.mindview.util.Print.*;
 

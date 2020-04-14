@@ -1,4 +1,4 @@
-//: generics/CovariantReturnTypes.java
+package bookCode.generics;//: generics/CovariantReturnTypes.java
 
 class Base {}
 class Derived extends Base {}

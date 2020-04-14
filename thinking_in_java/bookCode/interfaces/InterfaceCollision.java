@@ -1,5 +1,5 @@
 //: interfaces/InterfaceCollision.java
-package interfaces;
+package bookCode.interfaces;
 
 interface I1 { void f(); }
 interface I2 { int f(int i); }

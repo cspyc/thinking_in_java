@@ -1,4 +1,4 @@
-//: enumerated/NonEnum.java
+package bookCode.enumerated;//: enumerated/NonEnum.java
 
 public class NonEnum {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-//: concurrency/BankTellerSimulation.java
+package bookCode.concurrency;//: concurrency/BankTellerSimulation.java
 // Using queues and multithreading.
 // {Args: 5}
 import java.util.concurrent.*;

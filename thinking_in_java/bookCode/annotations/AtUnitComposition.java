@@ -1,8 +1,8 @@
 //: annotations/AtUnitComposition.java
 // Creating non-embedded tests.
-package annotations;
-import net.mindview.atunit.*;
-import net.mindview.util.*;
+package bookCode.annotations;
+import bookCode.net.mindview.atunit.*;
+import bookCode.net.mindview.util.*;
 
 public class AtUnitComposition {
   AtUnitExample1 testObject = new AtUnitExample1();

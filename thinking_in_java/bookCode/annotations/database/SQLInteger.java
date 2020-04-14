@@ -1,5 +1,5 @@
 //: annotations/database/SQLInteger.java
-package annotations.database;
+package bookCode.annotations.database;
 import java.lang.annotation.*;
 
 @Target(ElementType.FIELD)

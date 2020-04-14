@@ -1,4 +1,4 @@
-//: arrays/ParameterizedArrayType.java
+package bookCode.arrays;//: arrays/ParameterizedArrayType.java
 
 class ClassParameter<T> {
   public T[] f(T[] arg) { return arg; }

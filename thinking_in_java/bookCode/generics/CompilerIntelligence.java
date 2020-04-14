@@ -1,4 +1,4 @@
-//: generics/CompilerIntelligence.java
+package bookCode.generics;//: generics/CompilerIntelligence.java
 import java.util.*;
 
 public class CompilerIntelligence {

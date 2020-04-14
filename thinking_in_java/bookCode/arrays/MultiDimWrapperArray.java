@@ -1,4 +1,4 @@
-//: arrays/MultiDimWrapperArray.java
+package bookCode.arrays;//: arrays/MultiDimWrapperArray.java
 // Multidimensional arrays of "wrapper" objects.
 import java.util.*;
 

@@ -1,4 +1,4 @@
-//: polymorphism/FieldAccess.java
+package bookCode.polymorphism;//: polymorphism/FieldAccess.java
 // Direct field access is determined at compile time.
 
 class Super {

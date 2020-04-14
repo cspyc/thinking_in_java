@@ -1,4 +1,4 @@
-//: io/StoringAndRecoveringData.java
+package bookCode.io;//: io/StoringAndRecoveringData.java
 import java.io.*;
 
 public class StoringAndRecoveringData {

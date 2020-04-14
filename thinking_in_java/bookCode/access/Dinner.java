@@ -1,4 +1,4 @@
-//: access/Dinner.java
+package bookCode.access;//: access/Dinner.java
 // Uses the library.
 import access.dessert.*;
 

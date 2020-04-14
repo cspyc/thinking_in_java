@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: swt)">
 
@@ -58,7 +58,7 @@
     <java
      classname="ColorBoxes"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../swt/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -69,7 +69,7 @@
     <java
      classname="DisplayEnvironment"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../swt/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -80,7 +80,7 @@
     <java
      classname="DisplayProperties"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../swt/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -91,7 +91,7 @@
     <java
      classname="HelloSWT"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../swt/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -102,7 +102,7 @@
     <java
      classname="Menus"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../swt/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -113,7 +113,7 @@
     <java
      classname="ShellsAreMainWindows"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../swt/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -124,7 +124,7 @@
     <java
      classname="SineWave"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../swt/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -135,7 +135,7 @@
     <java
      classname="TabbedPane"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../swt/"
+     dir="/"
      failonerror="false"
      fork="true"
      timeout="4000"/>
@@ -160,10 +160,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/swt" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/swt" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/swt" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/swt" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

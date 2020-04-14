@@ -1,4 +1,4 @@
-//: typeinfo/Operation.java
+package bookCode.typeinfo;//: typeinfo/Operation.java
 
 public interface Operation {
   String description();

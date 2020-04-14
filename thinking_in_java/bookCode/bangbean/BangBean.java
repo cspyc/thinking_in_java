@@ -1,6 +1,6 @@
 //: bangbean/BangBean.java
 // A graphical Bean.
-package bangbean;
+package bookCode.bangbean;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

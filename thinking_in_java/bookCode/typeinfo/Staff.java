@@ -1,4 +1,4 @@
-//: typeinfo/Staff.java
+package bookCode.typeinfo;//: typeinfo/Staff.java
 import java.util.*;
 
 public class Staff extends ArrayList<Position> {

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: enumerated)">
 
@@ -51,7 +51,7 @@
     <java
      classname="BigEnumSet"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -60,7 +60,7 @@
     <java
      classname="enumerated.Burrito"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -69,7 +69,7 @@
     <java
      classname="CarWash"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -78,7 +78,7 @@
     <java
      classname="ConstantSpecificMethod"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -87,7 +87,7 @@
     <java
      classname="EnumClass"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -96,7 +96,7 @@
     <java
      classname="enumerated.EnumMaps"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -105,7 +105,7 @@
     <java
      classname="enumerated.EnumSets"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -114,7 +114,7 @@
     <java
      classname="NonEnum"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -123,7 +123,7 @@
     <java
      classname="OverrideConstantSpecific"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -132,7 +132,7 @@
     <java
      classname="OzWitch"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -141,7 +141,7 @@
     <java
      classname="PostOffice"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -150,7 +150,7 @@
     <java
      classname="RandomTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -159,7 +159,7 @@
     <java
      classname="Reflection"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -168,7 +168,7 @@
     <java
      classname="enumerated.RoShamBo1"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -177,7 +177,7 @@
     <java
      classname="enumerated.RoShamBo2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -186,7 +186,7 @@
     <java
      classname="enumerated.RoShamBo3"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -195,7 +195,7 @@
     <java
      classname="enumerated.RoShamBo4"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -204,7 +204,7 @@
     <java
      classname="enumerated.RoShamBo5"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -213,7 +213,7 @@
     <java
      classname="enumerated.RoShamBo6"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -222,7 +222,7 @@
     <java
      classname="SecurityCategory"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -231,7 +231,7 @@
     <java
      classname="SpaceShip"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -240,7 +240,7 @@
     <java
      classname="TrafficLight"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -249,7 +249,7 @@
     <java
      classname="UpcastEnum"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -258,7 +258,7 @@
     <java
      classname="enumerated.VendingMachine"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="VendingMachineInput.txt"/>
@@ -269,7 +269,7 @@
     <java
      classname="enumerated.cartoons.EnumImplementation"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/cartoons/"
+     dir="cartoons/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -278,7 +278,7 @@
     <java
      classname="enumerated.menu.Meal"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/menu/"
+     dir="menu/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -287,7 +287,7 @@
     <java
      classname="enumerated.menu.Meal2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/menu/"
+     dir="menu/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -296,7 +296,7 @@
     <java
      classname="enumerated.menu.TypeOfFood"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../enumerated/menu/"
+     dir="menu/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -347,10 +347,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/enumerated" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/enumerated" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/enumerated" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/enumerated" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

@@ -1,4 +1,4 @@
-//: generics/GenericArrayWithTypeToken.java
+package bookCode.generics;//: generics/GenericArrayWithTypeToken.java
 import java.lang.reflect.*;
 
 public class GenericArrayWithTypeToken<T> {

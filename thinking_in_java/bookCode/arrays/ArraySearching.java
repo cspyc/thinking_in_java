@@ -1,4 +1,4 @@
-//: arrays/ArraySearching.java
+package bookCode.arrays;//: arrays/ArraySearching.java
 // Using Arrays.binarySearch().
 import java.util.*;
 import net.mindview.util.*;

@@ -1,5 +1,5 @@
 //: swt/util/SWTConsole.java
-package swt.util;
+package bookCode.swt.util;
 import org.eclipse.swt.widgets.*;
 
 public class SWTConsole {

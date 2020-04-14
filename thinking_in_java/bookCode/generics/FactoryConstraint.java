@@ -1,4 +1,4 @@
-//: generics/FactoryConstraint.java
+package bookCode.generics;//: generics/FactoryConstraint.java
 
 interface FactoryI<T> {
   T create();

@@ -1,5 +1,5 @@
 //: enumerated/Spiciness.java
-package enumerated;
+package bookCode.enumerated;
 
 public enum Spiciness {
   NOT, MILD, MEDIUM, HOT, FLAMING

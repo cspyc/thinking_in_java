@@ -1,4 +1,4 @@
-//: concurrency/EvenChecker.java
+package bookCode.concurrency;//: concurrency/EvenChecker.java
 import java.util.concurrent.*;
 
 public class EvenChecker implements Runnable {

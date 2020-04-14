@@ -1,4 +1,4 @@
-//: gui/HelloSwing.java
+package bookCode.gui;//: gui/HelloSwing.java
 import javax.swing.*;
 
 public class HelloSwing {

@@ -1,7 +1,7 @@
-//: concurrency/Tester.java
+package bookCode.concurrency;//: concurrency/Tester.java
 // Framework to test performance of concurrency containers.
 import java.util.concurrent.*;
-import net.mindview.util.*;
+import bookCode.net.mindview.util.*;
 
 public abstract class Tester<C> {
   static int testReps = 10;

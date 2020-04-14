@@ -1,4 +1,4 @@
-//: strings/ReplacingStringTokenizer.java
+package bookCode.strings;//: strings/ReplacingStringTokenizer.java
 import java.util.*;
 
 public class ReplacingStringTokenizer {

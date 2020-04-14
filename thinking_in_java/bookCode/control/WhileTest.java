@@ -1,4 +1,4 @@
-//: control/WhileTest.java
+package bookCode.control;//: control/WhileTest.java
 // Demonstrates the while loop.
 
 public class WhileTest {

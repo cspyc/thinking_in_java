@@ -1,5 +1,5 @@
-//: operators/StringOperators.java
-import static net.mindview.util.Print.*;
+package bookCode.operators;//: operators/StringOperators.java
+import static bookCode.net.mindview.util.Print.*;
 
 public class StringOperators {
   public static void main(String[] args) {

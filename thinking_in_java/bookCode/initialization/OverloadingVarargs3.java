@@ -1,4 +1,4 @@
-//: initialization/OverloadingVarargs3.java
+package bookCode.initialization;//: initialization/OverloadingVarargs3.java
 
 public class OverloadingVarargs3 {
   static void f(float i, Character... args) {

@@ -1,4 +1,4 @@
-//: operators/Assignment.java
+package bookCode.operators;//: operators/Assignment.java
 // Assignment with objects is a bit tricky.
 import static net.mindview.util.Print.*;
 

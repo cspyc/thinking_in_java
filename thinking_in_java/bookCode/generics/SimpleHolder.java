@@ -1,4 +1,4 @@
-//: generics/SimpleHolder.java
+package bookCode.generics;//: generics/SimpleHolder.java
 
 public class SimpleHolder {
   private Object obj;

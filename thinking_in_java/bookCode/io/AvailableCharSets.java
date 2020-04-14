@@ -1,8 +1,8 @@
-//: io/AvailableCharSets.java
+package bookCode.io;//: io/AvailableCharSets.java
 // Displays Charsets and aliases
 import java.nio.charset.*;
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class AvailableCharSets {
   public static void main(String[] args) {
@@ -14,12 +14,14 @@ public class AvailableCharSets {
       printnb(csName);
       Iterator aliases =
         charSets.get(csName).aliases().iterator();
-      if(aliases.hasNext())
+      if(aliases.hasNext()) {
         printnb(": ");
+      }
       while(aliases.hasNext()) {
         printnb(aliases.next());
-        if(aliases.hasNext())
+        if(aliases.hasNext()) {
           printnb(", ");
+        }
       }
       print();
     }

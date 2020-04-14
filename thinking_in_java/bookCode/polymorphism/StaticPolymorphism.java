@@ -1,4 +1,4 @@
-//: polymorphism/StaticPolymorphism.java
+package bookCode.polymorphism;//: polymorphism/StaticPolymorphism.java
 // Static methods are not polymorphic.
 
 class StaticSuper {

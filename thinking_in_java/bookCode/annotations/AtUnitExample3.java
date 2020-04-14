@@ -1,5 +1,5 @@
 //: annotations/AtUnitExample3.java
-package annotations;
+package bookCode.annotations;
 import net.mindview.atunit.*;
 import net.mindview.util.*;
 

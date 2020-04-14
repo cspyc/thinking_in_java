@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: typeinfo)">
 
@@ -60,7 +60,7 @@
     <java
      classname="AnonymousImplementation"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -69,7 +69,7 @@
     <java
      classname="BoundedClassReferences"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -78,7 +78,7 @@
     <java
      classname="ClassCasts"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -87,7 +87,7 @@
     <java
      classname="ClassInitialization"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -96,7 +96,7 @@
     <java
      classname="typeinfo.FamilyVsExactType"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -105,7 +105,7 @@
     <java
      classname="FilledList"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -114,7 +114,7 @@
     <java
      classname="GenericClassReferences"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -123,7 +123,7 @@
     <java
      classname="HiddenImplementation"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -132,7 +132,7 @@
     <java
      classname="InnerImplementation"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -141,7 +141,7 @@
     <java
      classname="InterfaceViolation"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -150,7 +150,7 @@
     <java
      classname="ModifyingPrivateFields"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -159,7 +159,7 @@
     <java
      classname="NullRobot"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -168,7 +168,7 @@
     <java
      classname="PetCount"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -177,7 +177,7 @@
     <java
      classname="PetCount2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -186,7 +186,7 @@
     <java
      classname="PetCount3"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -195,7 +195,7 @@
     <java
      classname="PetCount4"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -204,7 +204,7 @@
     <java
      classname="RegisteredFactories"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -213,7 +213,7 @@
     <java
      classname="SelectingMethods"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -222,7 +222,7 @@
     <java
      classname="Shapes"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -231,7 +231,7 @@
     <java
      classname="ShowMethods"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="ShowMethods"/>
@@ -242,7 +242,7 @@
     <java
      classname="SimpleDynamicProxy"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -251,7 +251,7 @@
     <java
      classname="SimpleProxyDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -260,7 +260,7 @@
     <java
      classname="SnowRemovalRobot"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -269,7 +269,7 @@
     <java
      classname="Staff"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -278,7 +278,7 @@
     <java
      classname="SweetShop"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -287,7 +287,7 @@
     <java
      classname="WildcardClassReferences"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -296,7 +296,7 @@
     <java
      classname="typeinfo.pets.LiteralPetCreator"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/pets/"
+     dir="pets/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -305,7 +305,7 @@
     <java
      classname="typeinfo.toys.GenericToyTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/toys/"
+     dir="toys/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -314,7 +314,7 @@
     <java
      classname="typeinfo.toys.ToyTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../typeinfo/toys/"
+     dir="toys/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -358,10 +358,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/typeinfo" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/typeinfo" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/typeinfo" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/typeinfo" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

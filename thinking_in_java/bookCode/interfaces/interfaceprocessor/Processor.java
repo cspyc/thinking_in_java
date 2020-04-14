@@ -1,5 +1,5 @@
 //: interfaces/interfaceprocessor/Processor.java
-package interfaces.interfaceprocessor;
+package bookCode.interfaces.interfaceprocessor;
 
 public interface Processor {
   String name();

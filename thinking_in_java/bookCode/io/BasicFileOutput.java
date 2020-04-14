@@ -1,4 +1,4 @@
-//: io/BasicFileOutput.java
+package bookCode.io;//: io/BasicFileOutput.java
 import java.io.*;
 
 public class BasicFileOutput {

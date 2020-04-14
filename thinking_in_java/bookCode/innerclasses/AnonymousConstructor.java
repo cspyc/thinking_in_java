@@ -1,6 +1,6 @@
-//: innerclasses/AnonymousConstructor.java
+package bookCode.innerclasses;//: innerclasses/AnonymousConstructor.java
 // Creating a constructor for an anonymous inner class.
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 abstract class Base {
   public Base(int i) {
@@ -13,6 +13,7 @@ public class AnonymousConstructor {
   public static Base getBase(int i) {
     return new Base(i) {
       { print("Inside instance initializer"); }
+      @Override
       public void f() {
         print("In anonymous f()");
       }

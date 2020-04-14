@@ -1,6 +1,6 @@
-//: containers/IndividualTest.java
-import holding.MapOfList;
-import typeinfo.pets.*;
+package bookCode.containers;//: containers/IndividualTest.java
+import bookCode.holding.MapOfList;
+import bookCode.typeinfo.pets.*;
 import java.util.*;
 
 public class IndividualTest {
@@ -8,8 +8,9 @@ public class IndividualTest {
     Set<Individual> pets = new TreeSet<Individual>();
     for(List<? extends Pet> lp :
         MapOfList.petPeople.values())
-      for(Pet p : lp)
+      for(Pet p : lp) {
         pets.add(p);
+      }
     System.out.println(pets);
   }
 } /* Output:

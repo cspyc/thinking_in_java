@@ -1,4 +1,4 @@
-//: generics/ListOfGenerics.java
+package bookCode.generics;//: generics/ListOfGenerics.java
 import java.util.*;
 
 public class ListOfGenerics<T> {

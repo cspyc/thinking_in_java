@@ -1,8 +1,8 @@
-//: concurrency/Interrupting2.java
+package bookCode.concurrency;//: concurrency/Interrupting2.java
 // Interrupting a task blocked with a ReentrantLock.
 import java.util.concurrent.*;
 import java.util.concurrent.locks.*;
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 class BlockedMutex {
   private Lock lock = new ReentrantLock();

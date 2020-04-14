@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: containers)">
 
@@ -69,7 +69,7 @@
     <java
      classname="AssociativeArray"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -78,7 +78,7 @@
     <java
      classname="Bits"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -87,7 +87,7 @@
     <java
      classname="CanonicalMapping"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -96,7 +96,7 @@
     <java
      classname="CollectionDataGeneration"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -105,7 +105,7 @@
     <java
      classname="CollectionDataTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -114,7 +114,7 @@
     <java
      classname="CollectionMethods"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -123,7 +123,7 @@
     <java
      classname="CountedString"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -132,7 +132,7 @@
     <java
      classname="DequeTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -141,7 +141,7 @@
     <java
      classname="Enumerations"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -150,7 +150,7 @@
     <java
      classname="FailFast"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -159,7 +159,7 @@
     <java
      classname="FillingLists"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -168,7 +168,7 @@
     <java
      classname="IndividualTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -177,7 +177,7 @@
     <java
      classname="LinkedHashMapDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -186,7 +186,7 @@
     <java
      classname="ListPerformance"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="100 500"/>
@@ -197,7 +197,7 @@
     <java
      classname="Lists"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -206,7 +206,7 @@
     <java
      classname="ListSortSearch"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -215,7 +215,7 @@
     <java
      classname="MapDataTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -224,7 +224,7 @@
     <java
      classname="MapPerformance"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="100 5000"/>
@@ -235,7 +235,7 @@
     <java
      classname="Maps"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -244,7 +244,7 @@
     <java
      classname="QueueBehavior"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -253,7 +253,7 @@
     <java
      classname="RandomBounds"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -262,7 +262,7 @@
     <java
      classname="ReadOnly"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -271,7 +271,7 @@
     <java
      classname="References"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -280,7 +280,7 @@
     <java
      classname="SetPerformance"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="100 5000"/>
@@ -291,7 +291,7 @@
     <java
      classname="SimpleHashMap"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -300,7 +300,7 @@
     <java
      classname="SlowMap"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -309,7 +309,7 @@
     <java
      classname="SortedMapDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -318,7 +318,7 @@
     <java
      classname="SortedSetDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -327,7 +327,7 @@
     <java
      classname="SpringDetector"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -336,7 +336,7 @@
     <java
      classname="SpringDetector2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -345,7 +345,7 @@
     <java
      classname="Stacks"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -354,7 +354,7 @@
     <java
      classname="StringHashCode"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -363,7 +363,7 @@
     <java
      classname="Synchronization"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -372,7 +372,7 @@
     <java
      classname="ToDoList"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -381,7 +381,7 @@
     <java
      classname="TypesForSets"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -390,7 +390,7 @@
     <java
      classname="Unsupported"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -399,7 +399,7 @@
     <java
      classname="Utilities"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../containers/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -451,10 +451,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/containers" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/containers" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/containers" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/containers" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

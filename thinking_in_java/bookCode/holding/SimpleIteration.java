@@ -1,5 +1,5 @@
-//: holding/SimpleIteration.java
-import typeinfo.pets.*;
+package bookCode.holding;//: holding/SimpleIteration.java
+import bookCode.typeinfo.pets.*;
 import java.util.*;
 
 public class SimpleIteration {

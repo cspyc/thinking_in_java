@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: annotations)">
 
@@ -60,7 +60,7 @@
     <java
      classname="annotations.AtUnitComposition"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../annotations/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -69,7 +69,7 @@
     <java
      classname="annotations.AtUnitExample1"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../annotations/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -78,7 +78,7 @@
     <java
      classname="annotations.AtUnitExample2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../annotations/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -87,7 +87,7 @@
     <java
      classname="annotations.AtUnitExample3"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../annotations/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -96,7 +96,7 @@
     <java
      classname="annotations.AtUnitExample4"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../annotations/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -105,7 +105,7 @@
     <java
      classname="annotations.AtUnitExample5"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../annotations/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -114,7 +114,7 @@
     <java
      classname="annotations.AtUnitExternalTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../annotations/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -123,7 +123,7 @@
     <java
      classname="annotations.HashSetTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../annotations/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -132,7 +132,7 @@
     <java
      classname="annotations.Multiplier"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../annotations/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -141,7 +141,7 @@
     <java
      classname="annotations.StackLStringTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../annotations/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -150,7 +150,7 @@
     <java
      classname="UseCaseTracker"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../annotations/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -159,7 +159,7 @@
     <java
      classname="annotations.database.TableCreator"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../annotations/database/"
+     dir="database/"
      failonerror="true"
      fork="true">
       <arg line="annotations.database.Member"/>
@@ -212,10 +212,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/annotations" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/annotations" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/annotations" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/annotations" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

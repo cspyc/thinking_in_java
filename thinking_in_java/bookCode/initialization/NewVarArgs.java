@@ -1,4 +1,4 @@
-//: initialization/NewVarArgs.java
+package bookCode.initialization;//: initialization/NewVarArgs.java
 // Using array syntax to create variable argument lists.
 
 public class NewVarArgs {

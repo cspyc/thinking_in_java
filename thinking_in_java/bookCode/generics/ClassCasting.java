@@ -1,4 +1,4 @@
-//: generics/ClassCasting.java
+package bookCode.generics;//: generics/ClassCasting.java
 import java.io.*;
 import java.util.*;
 

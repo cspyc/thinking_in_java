@@ -1,4 +1,4 @@
-//: generics/GenericReading.java
+package bookCode.generics;//: generics/GenericReading.java
 import java.util.*;
 
 public class GenericReading {

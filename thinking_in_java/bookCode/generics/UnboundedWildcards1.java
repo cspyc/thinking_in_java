@@ -1,4 +1,4 @@
-//: generics/UnboundedWildcards1.java
+package bookCode.generics;//: generics/UnboundedWildcards1.java
 import java.util.*;
 
 public class UnboundedWildcards1 {

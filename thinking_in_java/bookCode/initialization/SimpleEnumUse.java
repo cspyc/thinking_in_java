@@ -1,4 +1,4 @@
-//: initialization/SimpleEnumUse.java
+package bookCode.initialization;//: initialization/SimpleEnumUse.java
 
 public class SimpleEnumUse {
   public static void main(String[] args) {

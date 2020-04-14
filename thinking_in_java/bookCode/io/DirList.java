@@ -1,4 +1,4 @@
-//: io/DirList.java
+package bookCode.io;//: io/DirList.java
 // Display a directory listing using regular expressions.
 // {Args: "D.*\.java"}
 import java.util.regex.*;
@@ -7,7 +7,7 @@ import java.util.*;
 
 public class DirList {
   public static void main(String[] args) {
-    File path = new File(".");
+    File path = new File("");
     String[] list;
     if(args.length == 0)
       list = path.list();

@@ -1,5 +1,5 @@
-//: initialization/ArraysOfPrimitives.java
-import static net.mindview.util.Print.*;
+package bookCode.initialization;//: initialization/ArraysOfPrimitives.java
+import static bookCode.net.mindview.util.Print.*;
 
 public class ArraysOfPrimitives {
   public static void main(String[] args) {

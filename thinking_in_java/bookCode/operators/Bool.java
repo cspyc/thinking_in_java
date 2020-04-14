@@ -1,7 +1,7 @@
-//: operators/Bool.java
+package bookCode.operators;//: operators/Bool.java
 // Relational and logical operators.
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class Bool {
   public static void main(String[] args) {

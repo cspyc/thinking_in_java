@@ -1,5 +1,5 @@
-//: generics/LimitsOfInference.java
-import typeinfo.pets.*;
+package bookCode.generics;//: generics/LimitsOfInference.java
+import bookCode.typeinfo.pets.*;
 import java.util.*;
 
 public class LimitsOfInference {

@@ -1,4 +1,4 @@
-//: generics/SelfBoundingAndCovariantArguments.java
+package bookCode.generics;//: generics/SelfBoundingAndCovariantArguments.java
 
 interface SelfBoundSetter<T extends SelfBoundSetter<T>> {
   void set(T arg);

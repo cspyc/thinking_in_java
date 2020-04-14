@@ -1,16 +1,22 @@
-//: exceptions/MultipleReturns.java
-import static net.mindview.util.Print.*;
+package bookCode.exceptions;//: exceptions/MultipleReturns.java
+import static bookCode.net.mindview.util.Print.*;
 
 public class MultipleReturns {
   public static void f(int i) {
     print("Initialization that requires cleanup");
     try {
       print("Point 1");
-      if(i == 1) return;
+      if(i == 1) {
+        return;
+      }
       print("Point 2");
-      if(i == 2) return;
+      if(i == 2) {
+        return;
+      }
       print("Point 3");
-      if(i == 3) return;
+      if(i == 3) {
+        return;
+      }
       print("End");
       return;
     } finally {

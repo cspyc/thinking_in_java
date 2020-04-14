@@ -1,6 +1,6 @@
 //: polymorphism/music/Music.java
 // Inheritance & upcasting.
-package polymorphism.music;
+package bookCode.polymorphism.music;
 
 public class Music {
   public static void tune(Instrument i) {

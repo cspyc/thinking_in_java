@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: strings)">
 
@@ -60,7 +60,7 @@
     <java
      classname="ArrayListDisplay"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -69,7 +69,7 @@
     <java
      classname="BetterRead"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -78,7 +78,7 @@
     <java
      classname="Concatenation"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -87,7 +87,7 @@
     <java
      classname="Conversion"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -96,7 +96,7 @@
     <java
      classname="DatabaseException"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -105,7 +105,7 @@
     <java
      classname="Finding"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -114,7 +114,7 @@
     <java
      classname="Groups"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -123,7 +123,7 @@
     <java
      classname="Immutable"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -132,7 +132,7 @@
     <java
      classname="InfiniteRecursion"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -141,7 +141,7 @@
     <java
      classname="IntegerMatch"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -150,7 +150,7 @@
     <java
      classname="JGrep"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line='JGrep.java "\\b[Ssct]\\w+"'/>
@@ -162,7 +162,7 @@
     <java
      classname="Receipt"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -171,7 +171,7 @@
     <java
      classname="ReFlags"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -180,7 +180,7 @@
     <java
      classname="Replacing"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -189,7 +189,7 @@
     <java
      classname="ReplacingStringTokenizer"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -198,7 +198,7 @@
     <java
      classname="Resetting"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -207,7 +207,7 @@
     <java
      classname="Rudolph"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -216,7 +216,7 @@
     <java
      classname="ScannerDelimiter"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -225,7 +225,7 @@
     <java
      classname="SimpleFormat"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -234,7 +234,7 @@
     <java
      classname="SimpleRead"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -243,7 +243,7 @@
     <java
      classname="SplitDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -252,7 +252,7 @@
     <java
      classname="Splitting"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -261,7 +261,7 @@
     <java
      classname="StartEnd"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -270,7 +270,7 @@
     <java
      classname="TestRegularExpression"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg
@@ -283,7 +283,7 @@
     <java
      classname="TheReplacements"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -292,7 +292,7 @@
     <java
      classname="ThreatAnalyzer"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -301,7 +301,7 @@
     <java
      classname="Turtle"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -310,7 +310,7 @@
     <java
      classname="UsingStringBuilder"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../strings/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -353,10 +353,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/strings" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/strings" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/strings" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/strings" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

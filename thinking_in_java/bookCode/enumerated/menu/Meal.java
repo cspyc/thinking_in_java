@@ -1,5 +1,5 @@
 //: enumerated/menu/Meal.java
-package enumerated.menu;
+package bookCode.enumerated.menu;
 
 public class Meal {
   public static void main(String[] args) {

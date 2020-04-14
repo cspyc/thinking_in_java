@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: reusing)">
 
@@ -52,7 +52,7 @@
     <java
      classname="Bath"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -61,7 +61,7 @@
     <java
      classname="Beetle"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -70,7 +70,7 @@
     <java
      classname="BlankFinal"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -79,7 +79,7 @@
     <java
      classname="reusing.CADSystem"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -88,7 +88,7 @@
     <java
      classname="Car"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -97,7 +97,7 @@
     <java
      classname="Cartoon"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -106,7 +106,7 @@
     <java
      classname="Chess"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -115,7 +115,7 @@
     <java
      classname="Detergent"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -124,7 +124,7 @@
     <java
      classname="FinalArguments"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -133,7 +133,7 @@
     <java
      classname="FinalData"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -142,7 +142,7 @@
     <java
      classname="FinalOverridingIllusion"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -151,7 +151,7 @@
     <java
      classname="Hide"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -160,7 +160,7 @@
     <java
      classname="Jurassic"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -169,7 +169,7 @@
     <java
      classname="Orc"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -178,7 +178,7 @@
     <java
      classname="PlaceSetting"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -187,7 +187,7 @@
     <java
      classname="SpaceShip"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -196,7 +196,7 @@
     <java
      classname="SpaceShipDelegation"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -205,7 +205,7 @@
     <java
      classname="SprinklerSystem"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -214,7 +214,7 @@
     <java
      classname="Wind"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../reusing/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -248,10 +248,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/reusing" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/reusing" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/reusing" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/reusing" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

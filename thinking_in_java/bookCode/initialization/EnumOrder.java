@@ -1,4 +1,4 @@
-//: initialization/EnumOrder.java
+package bookCode.initialization;//: initialization/EnumOrder.java
 
 public class EnumOrder {
   public static void main(String[] args) {

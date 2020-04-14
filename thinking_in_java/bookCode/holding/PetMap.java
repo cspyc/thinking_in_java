@@ -1,7 +1,7 @@
-//: holding/PetMap.java
-import typeinfo.pets.*;
+package bookCode.holding;//: holding/PetMap.java
+import bookCode.typeinfo.pets.*;
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class PetMap {
   public static void main(String[] args) {

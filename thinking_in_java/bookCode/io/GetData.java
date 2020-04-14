@@ -1,7 +1,7 @@
-//: io/GetData.java
+package bookCode.io;//: io/GetData.java
 // Getting different representations from a ByteBuffer
 import java.nio.*;
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class GetData {
   private static final int BSIZE = 1024;
@@ -9,9 +9,11 @@ public class GetData {
     ByteBuffer bb = ByteBuffer.allocate(BSIZE);
     // Allocation automatically zeroes the ByteBuffer:
     int i = 0;
-    while(i++ < bb.limit())
-      if(bb.get() != 0)
+    while(i++ < bb.limit()) {
+      if(bb.get() != 0) {
         print("nonzero");
+      }
+    }
     print("i = " + i);
     bb.rewind();
     // Store and read a char array:

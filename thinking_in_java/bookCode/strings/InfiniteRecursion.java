@@ -1,4 +1,4 @@
-//: strings/InfiniteRecursion.java
+package bookCode.strings;//: strings/InfiniteRecursion.java
 // Accidental recursion.
 // {RunByHand}
 import java.util.*;

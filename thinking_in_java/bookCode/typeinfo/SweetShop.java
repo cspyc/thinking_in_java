@@ -1,6 +1,6 @@
-//: typeinfo/SweetShop.java
+package bookCode.typeinfo;//: typeinfo/SweetShop.java
 // Examination of the way the class loader works.
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 class Candy {
   static { print("Loading Candy"); }

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: concurrency)">
 
@@ -60,7 +60,7 @@
     <java
      classname="ActiveObjectDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -69,7 +69,7 @@
     <java
      classname="AtomicEvenGenerator"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -78,7 +78,7 @@
     <java
      classname="AtomicIntegerTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -87,7 +87,7 @@
     <java
      classname="AtomicityTest"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -96,7 +96,7 @@
     <java
      classname="AttemptLocking"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -105,7 +105,7 @@
     <java
      classname="BankTellerSimulation"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="5"/>
@@ -116,7 +116,7 @@
     <java
      classname="BasicThreads"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -125,7 +125,7 @@
     <java
      classname="CachedThreadPool"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -134,7 +134,7 @@
     <java
      classname="CallableDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -143,7 +143,7 @@
     <java
      classname="CaptureUncaughtException"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -152,7 +152,7 @@
     <java
      classname="CarBuilder"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -161,7 +161,7 @@
     <java
      classname="CloseResource"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -170,7 +170,7 @@
     <java
      classname="CountDownLatchDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -179,7 +179,7 @@
     <java
      classname="concurrency.CriticalSection"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -188,7 +188,7 @@
     <java
      classname="DaemonFromFactory"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -197,7 +197,7 @@
     <java
      classname="Daemons"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -206,7 +206,7 @@
     <java
      classname="DaemonsDontRunFinally"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -215,7 +215,7 @@
     <java
      classname="DeadlockingDiningPhilosophers"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="0 5 timeout"/>
@@ -226,7 +226,7 @@
     <java
      classname="DelayQueueDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -235,7 +235,7 @@
     <java
      classname="EvenGenerator"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -244,7 +244,7 @@
     <java
      classname="ExceptionThread"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="false"
      fork="true"/>
     <echo message="* Exception was expected *"/>
@@ -254,7 +254,7 @@
     <java
      classname="ExchangerDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -263,7 +263,7 @@
     <java
      classname="concurrency.ExplicitCriticalSection"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -272,7 +272,7 @@
     <java
      classname="FastSimulation"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -281,7 +281,7 @@
     <java
      classname="FixedDiningPhilosophers"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="5 5 timeout"/>
@@ -292,7 +292,7 @@
     <java
      classname="FixedThreadPool"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -301,7 +301,7 @@
     <java
      classname="GreenhouseScheduler"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="5000"/>
@@ -312,7 +312,7 @@
     <java
      classname="HorseRace"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -321,7 +321,7 @@
     <java
      classname="Interrupting"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -330,7 +330,7 @@
     <java
      classname="Interrupting2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -339,7 +339,7 @@
     <java
      classname="InterruptingIdiom"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="1100"/>
@@ -350,7 +350,7 @@
     <java
      classname="Joining"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -359,7 +359,7 @@
     <java
      classname="ListComparisons"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="1 10 10"/>
@@ -370,7 +370,7 @@
     <java
      classname="MainThread"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -379,7 +379,7 @@
     <java
      classname="MapComparisons"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="1 10 10"/>
@@ -390,7 +390,7 @@
     <java
      classname="MoreBasicThreads"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -399,7 +399,7 @@
     <java
      classname="MultiLock"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -408,7 +408,7 @@
     <java
      classname="MutexEvenGenerator"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -417,7 +417,7 @@
     <java
      classname="NaiveExceptionHandling"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="false"
      fork="true"/>
     <echo message="* Exception was expected *"/>
@@ -427,7 +427,7 @@
     <java
      classname="NIOInterruption"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -436,7 +436,7 @@
     <java
      classname="NotifyVsNotifyAll"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -445,7 +445,7 @@
     <java
      classname="OrnamentalGarden"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -454,7 +454,7 @@
     <java
      classname="PipedIO"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -463,7 +463,7 @@
     <java
      classname="PriorityBlockingQueueDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -472,7 +472,7 @@
     <java
      classname="ReaderWriterList"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -481,7 +481,7 @@
     <java
      classname="ResponsiveUI"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -490,7 +490,7 @@
     <java
      classname="Restaurant"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -499,7 +499,7 @@
     <java
      classname="SelfManaged"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -508,7 +508,7 @@
     <java
      classname="SemaphoreDemo"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -517,7 +517,7 @@
     <java
      classname="SerialNumberChecker"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true">
       <arg line="4"/>
@@ -528,7 +528,7 @@
     <java
      classname="SettingDefaultHandler"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -537,7 +537,7 @@
     <java
      classname="SimpleDaemons"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -546,7 +546,7 @@
     <java
      classname="SimpleMicroBenchmark"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -555,7 +555,7 @@
     <java
      classname="SimplePriorities"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -564,7 +564,7 @@
     <java
      classname="SimpleThread"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -573,7 +573,7 @@
     <java
      classname="SingleThreadExecutor"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -582,7 +582,7 @@
     <java
      classname="SleepingTask"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -591,7 +591,7 @@
     <java
      classname="SynchronizationComparisons"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -600,7 +600,7 @@
     <java
      classname="SynchronizedEvenGenerator"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -609,7 +609,7 @@
     <java
      classname="SyncObject"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -618,7 +618,7 @@
     <java
      classname="TestBlockingQueues"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -627,7 +627,7 @@
     <java
      classname="ThreadLocalVariableHolder"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -636,7 +636,7 @@
     <java
      classname="ThreadVariations"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -645,7 +645,7 @@
     <java
      classname="ToastOMatic"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/"
+     dir="/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -654,7 +654,7 @@
     <java
      classname="concurrency.restaurant2.RestaurantWithQueues"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/restaurant2/"
+     dir="restaurant2/"
      failonerror="true"
      fork="true">
       <arg line="5"/>
@@ -665,7 +665,7 @@
     <java
      classname="concurrency.waxomatic.WaxOMatic"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/waxomatic/"
+     dir="waxomatic/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -674,7 +674,7 @@
     <java
      classname="concurrency.waxomatic2.WaxOMatic2"
      classpath="${java.class.path};${basedir};${basedir}/.."
-     dir="../concurrency/waxomatic2/"
+     dir="waxomatic2/"
      failonerror="true"
      fork="true"/>
   </target>
@@ -766,10 +766,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/concurrency" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/concurrency" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/concurrency" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/concurrency" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

@@ -1,4 +1,4 @@
-//: strings/ThreatAnalyzer.java
+package bookCode.strings;//: strings/ThreatAnalyzer.java
 import java.util.regex.*;
 import java.util.*;
 

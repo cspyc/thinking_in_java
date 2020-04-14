@@ -1,5 +1,5 @@
 //: annotations/Testable.java
-package annotations;
+package bookCode.annotations;
 import net.mindview.atunit.*;
 
 public class Testable {

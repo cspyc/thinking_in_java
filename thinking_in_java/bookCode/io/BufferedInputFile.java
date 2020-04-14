@@ -1,4 +1,4 @@
-//: io/BufferedInputFile.java
+package bookCode.io;//: io/BufferedInputFile.java
 import java.io.*;
 
 public class BufferedInputFile {

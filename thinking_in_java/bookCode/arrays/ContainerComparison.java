@@ -1,6 +1,6 @@
-//: arrays/ContainerComparison.java
+package bookCode.arrays;//: arrays/ContainerComparison.java
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 class BerylliumSphere {
   private static long counter;

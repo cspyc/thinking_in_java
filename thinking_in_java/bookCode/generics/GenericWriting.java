@@ -1,4 +1,4 @@
-//: generics/GenericWriting.java
+package bookCode.generics;//: generics/GenericWriting.java
 import java.util.*;
 
 public class GenericWriting {

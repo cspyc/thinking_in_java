@@ -1,7 +1,7 @@
 //: typeinfo/FamilyVsExactType.java
 // The difference between instanceof and class
-package typeinfo;
-import static net.mindview.util.Print.*;
+package bookCode.typeinfo;
+import static bookCode.net.mindview.util.Print.*;
 
 class Base {}
 class Derived extends Base {}	

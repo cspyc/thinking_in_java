@@ -1,5 +1,5 @@
 //: enumerated/RoShamBo4.java
-package enumerated;
+package bookCode.enumerated;
 
 public enum RoShamBo4 implements Competitor<RoShamBo4> {
   ROCK {

@@ -1,4 +1,4 @@
-//: generics/CountedObject.java
+package bookCode.generics;//: generics/CountedObject.java
 
 public class CountedObject {
   private static long counter = 0;

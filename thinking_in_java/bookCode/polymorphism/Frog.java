@@ -1,6 +1,6 @@
 //: polymorphism/Frog.java
 // Cleanup and inheritance.
-package polymorphism;
+package bookCode.polymorphism;
 import static net.mindview.util.Print.*;
 
 class Characteristic {

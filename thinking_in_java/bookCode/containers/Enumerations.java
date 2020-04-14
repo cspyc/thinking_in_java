@@ -1,7 +1,7 @@
-//: containers/Enumerations.java
+package bookCode.containers;//: containers/Enumerations.java
 // Java 1.0/1.1 Vector and Enumeration.
 import java.util.*;
-import net.mindview.util.*;
+import bookCode.net.mindview.util.*;
 
 public class Enumerations {
   public static void main(String[] args) {

@@ -1,6 +1,6 @@
 //: typeinfo/toys/GenericToyTest.java
 // Testing class Class.
-package typeinfo.toys;
+package bookCode.typeinfo.toys;
 
 public class GenericToyTest {
   public static void main(String[] args) throws Exception {

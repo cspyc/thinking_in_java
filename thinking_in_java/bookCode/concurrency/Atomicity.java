@@ -1,4 +1,4 @@
-//: concurrency/Atomicity.java
+package bookCode.concurrency;//: concurrency/Atomicity.java
 // {Exec: javap -c Atomicity}
 
 public class Atomicity {

@@ -1,6 +1,6 @@
-//: holding/UniqueWords.java
+package bookCode.holding;//: holding/UniqueWords.java
 import java.util.*;
-import net.mindview.util.*;
+import bookCode.net.mindview.util.*;
 
 public class UniqueWords {
   public static void main(String[] args) {

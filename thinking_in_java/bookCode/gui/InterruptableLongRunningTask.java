@@ -1,4 +1,4 @@
-//: gui/InterruptableLongRunningTask.java
+package bookCode.gui;//: gui/InterruptableLongRunningTask.java
 // Long-running tasks in threads.
 import javax.swing.*;
 import java.awt.*;

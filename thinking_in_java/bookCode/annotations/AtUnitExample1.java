@@ -1,7 +1,7 @@
 //: annotations/AtUnitExample1.java
-package annotations;
-import net.mindview.atunit.*;
-import net.mindview.util.*;
+package bookCode.annotations;
+import bookCode.net.mindview.atunit.*;
+import bookCode.net.mindview.util.*;
 
 public class AtUnitExample1 {
   public String methodOne() {

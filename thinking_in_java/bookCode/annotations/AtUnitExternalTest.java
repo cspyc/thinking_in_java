@@ -1,6 +1,6 @@
 //: annotations/AtUnitExternalTest.java
 // Creating non-embedded tests.
-package annotations;
+package bookCode.annotations;
 import net.mindview.atunit.*;
 import net.mindview.util.*;
 

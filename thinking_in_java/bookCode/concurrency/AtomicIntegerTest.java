@@ -1,4 +1,4 @@
-//: concurrency/AtomicIntegerTest.java
+package bookCode.concurrency;//: concurrency/AtomicIntegerTest.java
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.*;
 import java.util.*;

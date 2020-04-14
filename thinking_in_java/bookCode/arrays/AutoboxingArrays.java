@@ -1,4 +1,4 @@
-//: arrays/AutoboxingArrays.java
+package bookCode.arrays;//: arrays/AutoboxingArrays.java
 import java.util.*;
 
 public class AutoboxingArrays {

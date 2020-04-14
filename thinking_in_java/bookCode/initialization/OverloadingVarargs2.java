@@ -1,4 +1,4 @@
-//: initialization/OverloadingVarargs2.java
+package bookCode.initialization;//: initialization/OverloadingVarargs2.java
 // {CompileTimeError} (Won't compile)
 
 public class OverloadingVarargs2 {

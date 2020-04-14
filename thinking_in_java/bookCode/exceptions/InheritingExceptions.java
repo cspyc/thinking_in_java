@@ -1,4 +1,4 @@
-//: exceptions/InheritingExceptions.java
+package bookCode.exceptions;//: exceptions/InheritingExceptions.java
 // Creating your own exceptions.
 
 class SimpleException extends Exception {}

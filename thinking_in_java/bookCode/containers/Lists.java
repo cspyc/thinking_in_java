@@ -1,4 +1,4 @@
-//: containers/Lists.java
+package bookCode.containers;//: containers/Lists.java
 // Things you can do with Lists.
 import java.util.*;
 import net.mindview.util.*;

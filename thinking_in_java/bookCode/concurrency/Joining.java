@@ -1,6 +1,6 @@
-//: concurrency/Joining.java
+package bookCode.concurrency;//: concurrency/Joining.java
 // Understanding join().
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 class Sleeper extends Thread {
   private int duration;

@@ -1,4 +1,4 @@
-//: generics/GenericArray.java
+package bookCode.generics;//: generics/GenericArray.java
 
 public class GenericArray<T> {
   private T[] array;

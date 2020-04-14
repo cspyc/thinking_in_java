@@ -1,4 +1,4 @@
-//: generics/DynamicProxyMixin.java
+package bookCode.generics;//: generics/DynamicProxyMixin.java
 import java.lang.reflect.*;
 import java.util.*;
 import net.mindview.util.*;

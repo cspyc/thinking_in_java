@@ -1,6 +1,6 @@
 //: access/dessert/Cookie.java
 // Creates a library.
-package access.dessert;
+package bookCode.access.dessert;
 
 public class Cookie {
   public Cookie() {

@@ -1,4 +1,4 @@
-//: generics/Erased.java
+package bookCode.generics;//: generics/Erased.java
 // {CompileTimeError} (Won't compile)
 
 public class Erased<T> {

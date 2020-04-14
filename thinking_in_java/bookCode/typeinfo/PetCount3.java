@@ -1,9 +1,9 @@
-//: typeinfo/PetCount3.java
+package bookCode.typeinfo;//: typeinfo/PetCount3.java
 // Using isInstance()
-import typeinfo.pets.*;
+import bookCode.typeinfo.pets.*;
 import java.util.*;
-import net.mindview.util.*;
-import static net.mindview.util.Print.*;
+import bookCode.net.mindview.util.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class PetCount3 {
   static class PetCounter
@@ -14,10 +14,13 @@ public class PetCount3 {
     public void count(Pet pet) {
       // Class.isInstance() eliminates instanceofs:
       for(Map.Entry<Class<? extends Pet>,Integer> pair
-          : entrySet())
-        if(pair.getKey().isInstance(pet))
+          : entrySet()) {
+        if(pair.getKey().isInstance(pet)) {
           put(pair.getKey(), pair.getValue() + 1);
+        }
+      }
     }	
+    @Override
     public String toString() {
       StringBuilder result = new StringBuilder("{");
       for(Map.Entry<Class<? extends Pet>,Integer> pair

@@ -1,4 +1,4 @@
-//: concurrency/Fat.java
+package bookCode.concurrency;//: concurrency/Fat.java
 // Objects that are expensive to create.
 
 public class Fat {

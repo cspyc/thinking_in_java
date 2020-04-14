@@ -1,5 +1,5 @@
 //: interfaces/nesting/NestingInterfaces.java
-package interfaces.nesting;
+package bookCode.interfaces.nesting;
 
 class A {
   interface B {

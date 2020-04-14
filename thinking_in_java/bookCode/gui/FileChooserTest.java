@@ -1,9 +1,9 @@
-//: gui/FileChooserTest.java
+package bookCode.gui;//: gui/FileChooserTest.java
 // Demonstration of File dialog boxes.
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import static net.mindview.util.SwingConsole.*;
+import static bookCode.net.mindview.util.SwingConsole.*;
 
 public class FileChooserTest extends JFrame {
   private JTextField

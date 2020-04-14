@@ -1,4 +1,4 @@
-//: strings/SimpleRead.java
+package bookCode.strings;//: strings/SimpleRead.java
 import java.io.*;
 
 public class SimpleRead {

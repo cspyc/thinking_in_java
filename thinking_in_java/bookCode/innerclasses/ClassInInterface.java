@@ -1,4 +1,4 @@
-//: innerclasses/ClassInInterface.java
+package bookCode.innerclasses;//: innerclasses/ClassInInterface.java
 // {main: ClassInInterface$Test}
 
 public interface ClassInInterface {

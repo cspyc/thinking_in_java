@@ -1,4 +1,4 @@
-//: operators/Exponents.java
+package bookCode.operators;//: operators/Exponents.java
 // "e" means "10 to the power."
 
 public class Exponents {

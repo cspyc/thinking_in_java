@@ -1,6 +1,6 @@
-//: initialization/InitialValues.java
+package bookCode.initialization;//: initialization/InitialValues.java
 // Shows default initial values.
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class InitialValues {
   boolean t;

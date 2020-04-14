@@ -1,6 +1,6 @@
 //: enumerated/RoShamBo2.java
 // Switching one enum on another.
-package enumerated;
+package bookCode.enumerated;
 import static enumerated.Outcome.*;
 
 public enum RoShamBo2 implements Competitor<RoShamBo2> {

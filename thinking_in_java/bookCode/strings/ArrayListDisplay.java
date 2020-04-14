@@ -1,12 +1,13 @@
-//: strings/ArrayListDisplay.java
-import generics.coffee.*;
+package bookCode.strings;//: strings/ArrayListDisplay.java
+import bookCode.generics.coffee.*;
 import java.util.*;
 
 public class ArrayListDisplay {
   public static void main(String[] args) {
     ArrayList<Coffee> coffees = new ArrayList<Coffee>();
-    for(Coffee c : new CoffeeGenerator(10))
+    for(Coffee c : new CoffeeGenerator(10)) {
       coffees.add(c);
+    }
     System.out.println(coffees);
   }
 } /* Output:

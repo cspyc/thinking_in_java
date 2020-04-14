@@ -1,4 +1,4 @@
-//: generics/CreatorGeneric.java
+package bookCode.generics;//: generics/CreatorGeneric.java
 
 abstract class GenericWithCreate<T> {
   final T element;

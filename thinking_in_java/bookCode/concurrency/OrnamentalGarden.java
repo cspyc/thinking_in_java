@@ -1,4 +1,4 @@
-//: concurrency/OrnamentalGarden.java
+package bookCode.concurrency;//: concurrency/OrnamentalGarden.java
 import java.util.concurrent.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

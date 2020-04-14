@@ -1,4 +1,4 @@
-//: strings/WhitherStringBuilder.java
+package bookCode.strings;//: strings/WhitherStringBuilder.java
 
 public class WhitherStringBuilder {
   public String implicit(String[] fields) {

@@ -1,3 +1,5 @@
+package bookCode.initialization;
+
 //: initialization/Spoon.java
 public class Spoon {
   static int i;

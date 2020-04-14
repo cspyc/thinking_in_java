@@ -1,4 +1,4 @@
-//: arrays/ThreeDWithNew.java
+package bookCode.arrays;//: arrays/ThreeDWithNew.java
 import java.util.*;
 
 public class ThreeDWithNew {

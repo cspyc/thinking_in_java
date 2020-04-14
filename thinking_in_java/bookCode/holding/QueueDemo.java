@@ -1,4 +1,4 @@
-//: holding/QueueDemo.java
+package bookCode.holding;//: holding/QueueDemo.java
 // Upcasting to a Queue from a LinkedList.
 import java.util.*;
 

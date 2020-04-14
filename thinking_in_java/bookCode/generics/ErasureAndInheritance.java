@@ -1,4 +1,4 @@
-//: generics/ErasureAndInheritance.java
+package bookCode.generics;//: generics/ErasureAndInheritance.java
 
 class GenericBase<T> {
   private T element;

@@ -1,8 +1,8 @@
-//: io/Endians.java
+package bookCode.io;//: io/Endians.java
 // Endian differences and data storage.
 import java.nio.*;
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class Endians {
   public static void main(String[] args) {

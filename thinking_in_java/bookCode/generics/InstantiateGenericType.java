@@ -1,5 +1,6 @@
-//: generics/InstantiateGenericType.java
-import static net.mindview.util.Print.*;
+package bookCode.generics;//: generics/InstantiateGenericType.java
+
+import static bookCode.net.mindview.util.Print.print;
 
 class ClassAsFactory<T> {
   T x;
@@ -12,7 +13,7 @@ class ClassAsFactory<T> {
   }
 }
 
-class Employee {}	
+//class Employee {}
 
 public class InstantiateGenericType {
   public static void main(String[] args) {

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 
 <project
- basedir="."
+ basedir=""
  default="run"
  name="Thinking in Java, 4th Edition by Bruce Eckel (chapter: frogbean)">
 
@@ -48,10 +48,10 @@
 
   <target description="delete all byproducts" name="clean">
     <delete>
-      <fileset dir="${basedir}" includes="**/*.class"/>
-      <fileset dir="${basedir}" includes="**/*Output.txt"/>
-      <fileset dir="${basedir}" includes="**/log.txt"/>
-      <fileset dir="${basedir}" includes="failures"/>
+      <fileset dir="/thinking_in_java/bookCode/frogbean" includes="**/*.class"/>
+      <fileset dir="/thinking_in_java/bookCode/frogbean" includes="**/*Output.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/frogbean" includes="**/log.txt"/>
+      <fileset dir="/thinking_in_java/bookCode/frogbean" includes="failures"/>
     </delete>
     <echo message="clean successful"/>
   </target>

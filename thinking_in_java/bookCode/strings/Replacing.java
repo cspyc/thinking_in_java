@@ -1,5 +1,5 @@
-//: strings/Replacing.java
-import static net.mindview.util.Print.*;
+package bookCode.strings;//: strings/Replacing.java
+import static bookCode.net.mindview.util.Print.*;
 
 public class Replacing {
   static String s = Splitting.knights;

@@ -1,4 +1,4 @@
-//: innerclasses/TestParcel.java
+package bookCode.innerclasses;//: innerclasses/TestParcel.java
 
 class Parcel4 {
   private class PContents implements Contents {

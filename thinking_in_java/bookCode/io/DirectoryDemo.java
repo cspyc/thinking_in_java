@@ -1,23 +1,23 @@
-//: io/DirectoryDemo.java
+package bookCode.io;//: io/DirectoryDemo.java
 // Sample use of Directory utilities.
 import java.io.*;
-import net.mindview.util.*;
-import static net.mindview.util.Print.*;
+import bookCode.net.mindview.util.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class DirectoryDemo {
   public static void main(String[] args) {
     // All directories:
-    PPrint.pprint(Directory.walk(".").dirs);
+    PPrint.pprint(Directory.walk("").dirs);
     // All files beginning with 'T'
-    for(File file : Directory.local(".", "T.*"))
+    for(File file : Directory.local("", "T.*"))
       print(file);
     print("----------------------");
     // All Java files beginning with 'T':
-    for(File file : Directory.walk(".", "T.*\\.java"))
+    for(File file : Directory.walk("", "T.*\\.java"))
       print(file);
     print("======================");
     // Class files containing "Z" or "z":
-    for(File file : Directory.walk(".",".*[Zz].*\\.class"))
+    for(File file : Directory.walk("",".*[Zz].*\\.class"))
       print(file);
   }
 } /* Output: (Sample)

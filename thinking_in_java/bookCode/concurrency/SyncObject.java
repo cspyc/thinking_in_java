@@ -1,6 +1,6 @@
-//: concurrency/SyncObject.java
+package bookCode.concurrency;//: concurrency/SyncObject.java
 // Synchronizing on another object.
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 class DualSynch {
   private Object syncObject = new Object();

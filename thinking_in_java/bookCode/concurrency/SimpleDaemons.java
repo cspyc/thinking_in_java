@@ -1,4 +1,4 @@
-//: concurrency/SimpleDaemons.java
+package bookCode.concurrency;//: concurrency/SimpleDaemons.java
 // Daemon threads don't prevent the program from ending.
 import java.util.concurrent.*;
 import static net.mindview.util.Print.*;

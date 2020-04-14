@@ -29,4 +29,17 @@ public class ContainerComparison {
         System.out.println(berylliumSpheres.get(elementPosition));
         return berylliumSpheres.get(elementPosition);
     }
+
+    public int queryElementFromIntArray(int i) {
+        int[] integers = {0,1,2,3,4};
+
+        return integers[i];
+    }
+
+    public Integer queryElementFromIntegerList(int elementPosition) {
+        List<Integer> integers = new ArrayList<>(Arrays.asList(0,1,2,3,4,5));
+        integers.add(97);
+        return integers.get(elementPosition);
+    }
+
 }

@@ -1,4 +1,4 @@
-//: exceptions/MainException.java
+package bookCode.exceptions;//: exceptions/MainException.java
 import java.io.*;
 
 public class MainException {

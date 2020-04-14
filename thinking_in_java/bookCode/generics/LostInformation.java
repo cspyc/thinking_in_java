@@ -1,4 +1,4 @@
-//: generics/LostInformation.java
+package bookCode.generics;//: generics/LostInformation.java
 import java.util.*;
 
 class Frob {}

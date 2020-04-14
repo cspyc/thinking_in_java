@@ -1,6 +1,6 @@
 //: innerclasses/MultiInterfaces.java
 // Two ways that a class can implement multiple interfaces.
-package innerclasses;
+package bookCode.innerclasses;
 
 interface A {}
 interface B {}

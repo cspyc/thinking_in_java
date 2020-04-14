@@ -1,4 +1,4 @@
-//: control/VowelsAndConsonants.java
+package bookCode.control;//: control/VowelsAndConsonants.java
 // Demonstrates the switch statement.
 import java.util.*;
 import static net.mindview.util.Print.*;

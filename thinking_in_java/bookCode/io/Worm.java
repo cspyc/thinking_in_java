@@ -1,4 +1,4 @@
-//: io/Worm.java
+package bookCode.io;//: io/Worm.java
 // Demonstrates object serialization.
 import java.io.*;
 import java.util.*;

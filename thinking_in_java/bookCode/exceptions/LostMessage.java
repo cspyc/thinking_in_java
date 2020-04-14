@@ -1,4 +1,4 @@
-//: exceptions/LostMessage.java
+package bookCode.exceptions;//: exceptions/LostMessage.java
 // How an exception can be lost.
 
 class VeryImportantException extends Exception {

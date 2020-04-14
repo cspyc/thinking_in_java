@@ -1,4 +1,4 @@
-//: generics/WatercolorSets.java
+package bookCode.generics;//: generics/WatercolorSets.java
 import generics.watercolors.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

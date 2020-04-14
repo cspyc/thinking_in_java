@@ -2,7 +2,7 @@
 // Produce a sequence of File objects that match a
 // regular expression in either a local directory,
 // or by walking a directory tree.
-package net.mindview.util;
+package bookCode.net.mindview.util;
 import java.util.regex.*;
 import java.io.*;
 import java.util.*;
@@ -68,7 +68,7 @@ public final class Directory {
   // Simple validation test:
   public static void main(String[] args) {
     if(args.length == 0)
-      System.out.println(walk("."));
+      System.out.println(walk(""));
     else
       for(String arg : args)
        System.out.println(walk(arg));

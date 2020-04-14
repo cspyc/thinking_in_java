@@ -1,4 +1,4 @@
-//: concurrency/HorseRace.java
+package bookCode.concurrency;//: concurrency/HorseRace.java
 // Using CyclicBarriers.
 import java.util.concurrent.*;
 import java.util.*;

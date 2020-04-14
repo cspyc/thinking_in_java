@@ -1,4 +1,4 @@
-//: io/BufferToText.java
+package bookCode.io;//: io/BufferToText.java
 // Converting text to and from ByteBuffers
 import java.nio.*;
 import java.nio.channels.*;

@@ -1,8 +1,8 @@
 //: polymorphism/music3/Music3.java
 // An extensible program.
-package polymorphism.music3;
-import polymorphism.music.Note;
-import static net.mindview.util.Print.*;
+package bookCode.polymorphism.music3;
+import bookCode.polymorphism.music.Note;
+import static bookCode.net.mindview.util.Print.*;
 
 class Instrument {
   void play(Note n) { print("Instrument.play() " + n); }

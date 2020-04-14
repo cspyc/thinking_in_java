@@ -1,4 +1,4 @@
-//: concurrency/MainThread.java
+package bookCode.concurrency;//: concurrency/MainThread.java
 
 public class MainThread {
   public static void main(String[] args) {

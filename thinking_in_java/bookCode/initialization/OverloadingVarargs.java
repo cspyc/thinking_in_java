@@ -1,4 +1,4 @@
-//: initialization/OverloadingVarargs.java
+package bookCode.initialization;//: initialization/OverloadingVarargs.java
 
 public class OverloadingVarargs {
   static void f(Character... args) {

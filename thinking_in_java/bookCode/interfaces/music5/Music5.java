@@ -1,6 +1,6 @@
 //: interfaces/music5/Music5.java
 // Interfaces.
-package interfaces.music5;
+package bookCode.interfaces.music5;
 import polymorphism.music.Note;
 import static net.mindview.util.Print.*;
 

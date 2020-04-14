@@ -1,6 +1,6 @@
 //: enumerated/EnumMaps.java
 // Basics of EnumMaps.
-package enumerated;
+package bookCode.enumerated;
 import java.util.*;
 import static enumerated.AlarmPoints.*;
 import static net.mindview.util.Print.*;

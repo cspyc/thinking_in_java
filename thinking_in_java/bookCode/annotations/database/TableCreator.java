@@ -1,7 +1,7 @@
 //: annotations/database/TableCreator.java
 // Reflection-based annotation processor.
 // {Args: annotations.database.Member}
-package annotations.database;
+package bookCode.annotations.database;
 import java.lang.annotation.*;
 import java.lang.reflect.*;
 import java.util.*;

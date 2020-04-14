@@ -1,11 +1,12 @@
-//: reusing/Orc.java
+package bookCode.reusing;//: reusing/Orc.java
 // The protected keyword.
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 class Villain {
   private String name;
   protected void set(String nm) { name = nm; }
   public Villain(String name) { this.name = name; }
+  @Override
   public String toString() {
     return "I'm a Villain and my name is " + name;
   }

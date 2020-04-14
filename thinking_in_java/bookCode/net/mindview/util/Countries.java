@@ -1,6 +1,6 @@
 //: net/mindview/util/Countries.java
 // "Flyweight" Maps and Lists of sample data.
-package net.mindview.util;
+package bookCode.net.mindview.util;
 import java.util.*;
 import static net.mindview.util.Print.*;
 

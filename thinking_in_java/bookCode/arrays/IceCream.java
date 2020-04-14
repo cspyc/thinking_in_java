@@ -1,4 +1,4 @@
-//: arrays/IceCream.java
+package bookCode.arrays;//: arrays/IceCream.java
 // Returning arrays from methods.
 import java.util.*;
 

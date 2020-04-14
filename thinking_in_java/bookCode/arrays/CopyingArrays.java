@@ -1,4 +1,4 @@
-//: arrays/CopyingArrays.java
+package bookCode.arrays;//: arrays/CopyingArrays.java
 // Using System.arraycopy()
 import java.util.*;
 import static net.mindview.util.Print.*;

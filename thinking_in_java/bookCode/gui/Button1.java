@@ -1,4 +1,4 @@
-//: gui/Button1.java
+package bookCode.gui;//: gui/Button1.java
 // Putting buttons on a Swing application.
 import javax.swing.*;
 import java.awt.*;

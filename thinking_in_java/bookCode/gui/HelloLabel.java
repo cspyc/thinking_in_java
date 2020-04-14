@@ -1,4 +1,4 @@
-//: gui/HelloLabel.java
+package bookCode.gui;//: gui/HelloLabel.java
 import javax.swing.*;
 import java.util.concurrent.*;
 

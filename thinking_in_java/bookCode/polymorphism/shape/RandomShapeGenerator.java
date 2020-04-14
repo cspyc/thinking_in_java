@@ -1,6 +1,6 @@
 //: polymorphism/shape/RandomShapeGenerator.java
 // A "factory" that randomly creates shapes.
-package polymorphism.shape;
+package bookCode.polymorphism.shape;
 import java.util.*;
 
 public class RandomShapeGenerator {

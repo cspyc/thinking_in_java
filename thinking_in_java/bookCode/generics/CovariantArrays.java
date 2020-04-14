@@ -1,4 +1,4 @@
-//: generics/CovariantArrays.java
+package bookCode.generics;//: generics/CovariantArrays.java
 
 class Fruit {}
 class Apple extends Fruit {}

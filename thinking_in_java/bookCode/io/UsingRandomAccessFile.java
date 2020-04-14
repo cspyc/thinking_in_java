@@ -1,4 +1,4 @@
-//: io/UsingRandomAccessFile.java
+package bookCode.io;//: io/UsingRandomAccessFile.java
 import java.io.*;
 
 public class UsingRandomAccessFile {

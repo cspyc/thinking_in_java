@@ -1,6 +1,6 @@
 //: enumerated/VendingMachine.java
 // {Args: VendingMachineInput.txt}
-package enumerated;
+package bookCode.enumerated;
 import java.util.*;
 import net.mindview.util.*;
 import static enumerated.Input.*;

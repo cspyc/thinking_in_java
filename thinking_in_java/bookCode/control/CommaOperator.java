@@ -1,4 +1,4 @@
-//: control/CommaOperator.java
+package bookCode.control;//: control/CommaOperator.java
 
 public class CommaOperator {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-//: containers/SimpleHashMap.java
+package bookCode.containers;//: containers/SimpleHashMap.java
 // A demonstration hashed Map.
 import java.util.*;
 import net.mindview.util.*;

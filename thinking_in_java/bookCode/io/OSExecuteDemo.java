@@ -1,6 +1,6 @@
-//: io/OSExecuteDemo.java
+package bookCode.io;//: io/OSExecuteDemo.java
 // Demonstrates standard I/O redirection.
-import net.mindview.util.*;
+import bookCode.net.mindview.util.*;
 
 public class OSExecuteDemo {
   public static void main(String[] args) {

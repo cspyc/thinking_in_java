@@ -1,4 +1,4 @@
-//: reusing/FinalArguments.java
+package bookCode.reusing;//: reusing/FinalArguments.java
 // Using "final" with method arguments.
 
 class Gizmo {

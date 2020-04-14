@@ -1,4 +1,4 @@
-//: initialization/SimpleConstructor.java
+package bookCode.initialization;//: initialization/SimpleConstructor.java
 // Demonstration of a simple constructor.
 
 class Rock {

@@ -1,4 +1,4 @@
-//: gui/Popup.java
+package bookCode.gui;//: gui/Popup.java
 // Creating popup menus with Swing.
 import javax.swing.*;
 import java.awt.*;

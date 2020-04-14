@@ -1,7 +1,7 @@
-//: containers/CollectionDataGeneration.java
+package bookCode.containers;//: containers/CollectionDataGeneration.java
 // Using the Generators defined in the Arrays chapter.
 import java.util.*;
-import net.mindview.util.*;
+import bookCode.net.mindview.util.*;
 
 public class CollectionDataGeneration {
   public static void main(String[] args) {

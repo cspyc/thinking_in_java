@@ -1,3 +1,3 @@
 //: generics/coffee/Breve.java
-package generics.coffee;
+package bookCode.generics.coffee;
 public class Breve extends Coffee {} ///:~

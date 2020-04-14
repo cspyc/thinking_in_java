@@ -1,7 +1,7 @@
-//: containers/CountedString.java
+package bookCode.containers;//: containers/CountedString.java
 // Creating a good hashCode().
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class CountedString {
   private static List<String> created =
@@ -13,14 +13,18 @@ public class CountedString {
     created.add(s);
     // id is the total number of instances
     // of this string in use by CountedString:
-    for(String s2 : created)
-      if(s2.equals(s))
+    for(String s2 : created) {
+      if(s2.equals(s)) {
         id++;
+      }
+    }
   }
+  @Override
   public String toString() {
     return "String: " + s + " id: " + id +
       " hashCode(): " + hashCode();
   }
+  @Override
   public int hashCode() {
     // The very simple approach:
     // return s.hashCode() * id;
@@ -30,6 +34,7 @@ public class CountedString {
     result = 37 * result + id;
     return result;
   }
+  @Override
   public boolean equals(Object o) {
     return o instanceof CountedString &&
       s.equals(((CountedString)o).s) &&

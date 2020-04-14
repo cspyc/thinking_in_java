@@ -1,6 +1,6 @@
 //: enumerated/RoShamBo.java
 // Common tools for RoShamBo examples.
-package enumerated;
+package bookCode.enumerated;
 import net.mindview.util.*;
 
 public class RoShamBo {

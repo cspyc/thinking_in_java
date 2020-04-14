@@ -1,5 +1,5 @@
 //: enumerated/menu/Meal2.java
-package enumerated.menu;
+package bookCode.enumerated.menu;
 import net.mindview.util.*;
 
 public enum Meal2 {

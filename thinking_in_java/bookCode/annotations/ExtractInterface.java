@@ -1,6 +1,6 @@
 //: annotations/ExtractInterface.java
 // APT-based annotation processing.
-package annotations;
+package bookCode.annotations;
 import java.lang.annotation.*;
 
 @Target(ElementType.TYPE)

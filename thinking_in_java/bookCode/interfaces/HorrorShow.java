@@ -1,4 +1,4 @@
-//: interfaces/HorrorShow.java
+package bookCode.interfaces;//: interfaces/HorrorShow.java
 // Extending an interface with inheritance.
 
 interface Monster {

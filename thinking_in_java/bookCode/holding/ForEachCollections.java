@@ -1,4 +1,4 @@
-//: holding/ForEachCollections.java
+package bookCode.holding;//: holding/ForEachCollections.java
 // All collections work with foreach.
 import java.util.*;
 

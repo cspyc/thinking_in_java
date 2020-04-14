@@ -1,7 +1,7 @@
-//: polymorphism/PolyConstructors.java
+package bookCode.polymorphism;//: polymorphism/PolyConstructors.java
 // Constructors and polymorphism
 // don't produce what you might expect.
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 class Glyph {
   void draw() { print("Glyph.draw()"); }

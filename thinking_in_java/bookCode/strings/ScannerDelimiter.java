@@ -1,4 +1,4 @@
-//: strings/ScannerDelimiter.java
+package bookCode.strings;//: strings/ScannerDelimiter.java
 import java.util.*;
 
 public class ScannerDelimiter {

@@ -1,4 +1,4 @@
-//: generics/CRGWithBasicHolder.java
+package bookCode.generics;//: generics/CRGWithBasicHolder.java
 
 class Subtype extends BasicHolder<Subtype> {}
 

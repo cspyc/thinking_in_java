@@ -1,5 +1,5 @@
 //: net/mindview/atunit/ClassNameFinder.java
-package net.mindview.atunit;
+package bookCode.net.mindview.atunit;
 import java.io.*;
 import java.util.*;
 import net.mindview.util.*;
@@ -71,7 +71,7 @@ public class ClassNameFinder {
         print(thisClass(BinaryFile.read(new File(arg))));
     } else
       // Walk the entire tree:
-      for(File klass : Directory.walk(".", ".*\\.class"))
+      for(File klass : Directory.walk("", ".*\\.class"))
         print(thisClass(BinaryFile.read(klass)));
   }
 } ///:~

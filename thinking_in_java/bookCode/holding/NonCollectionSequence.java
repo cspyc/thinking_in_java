@@ -1,4 +1,4 @@
-//: holding/NonCollectionSequence.java
+package bookCode.holding;//: holding/NonCollectionSequence.java
 import typeinfo.pets.*;
 import java.util.*;
 

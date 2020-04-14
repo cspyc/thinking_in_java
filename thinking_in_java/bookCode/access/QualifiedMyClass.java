@@ -1,4 +1,4 @@
-//: access/QualifiedMyClass.java
+package bookCode.access;//: access/QualifiedMyClass.java
 
 public class QualifiedMyClass {
   public static void main(String[] args) {

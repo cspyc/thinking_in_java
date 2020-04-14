@@ -1,9 +1,9 @@
-//: gui/HTMLButton.java
+package bookCode.gui;//: gui/HTMLButton.java
 // Putting HTML text on Swing components.
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import static net.mindview.util.SwingConsole.*;
+import static bookCode.net.mindview.util.SwingConsole.*;
 
 public class HTMLButton extends JFrame {
   private JButton b = new JButton(

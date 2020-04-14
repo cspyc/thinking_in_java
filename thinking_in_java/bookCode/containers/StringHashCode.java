@@ -1,4 +1,4 @@
-//: containers/StringHashCode.java
+package bookCode.containers;//: containers/StringHashCode.java
 
 public class StringHashCode {
   public static void main(String[] args) {

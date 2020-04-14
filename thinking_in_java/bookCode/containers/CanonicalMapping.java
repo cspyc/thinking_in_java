@@ -1,4 +1,4 @@
-//: containers/CanonicalMapping.java
+package bookCode.containers;//: containers/CanonicalMapping.java
 // Demonstrates WeakHashMap.
 import java.util.*;
 

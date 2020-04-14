@@ -1,4 +1,4 @@
-//: generics/SimpleDogsAndRobots.java
+package bookCode.generics;//: generics/SimpleDogsAndRobots.java
 // Removing the generic; code still works.
 
 class CommunicateSimply {

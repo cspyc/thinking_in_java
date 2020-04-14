@@ -1,4 +1,4 @@
-//: containers/Synchronization.java
+package bookCode.containers;//: containers/Synchronization.java
 // Using the Collections.synchronized methods.
 import java.util.*;
 

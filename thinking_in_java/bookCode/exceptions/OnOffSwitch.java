@@ -1,4 +1,4 @@
-//: exceptions/OnOffSwitch.java
+package bookCode.exceptions;//: exceptions/OnOffSwitch.java
 // Why use finally?
 
 public class OnOffSwitch {

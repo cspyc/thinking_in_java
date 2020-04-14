@@ -1,9 +1,9 @@
-//: gui/TabbedPane1.java
+package bookCode.gui;//: gui/TabbedPane1.java
 // Demonstrates the Tabbed Pane.
 import javax.swing.*;
 import javax.swing.event.*;
 import java.awt.*;
-import static net.mindview.util.SwingConsole.*;
+import static bookCode.net.mindview.util.SwingConsole.*;
 
 public class TabbedPane1 extends JFrame {
   private String[] flavors = {

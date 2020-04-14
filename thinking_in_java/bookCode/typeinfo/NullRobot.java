@@ -1,8 +1,8 @@
-//: typeinfo/NullRobot.java
+package bookCode.typeinfo;//: typeinfo/NullRobot.java
 // Using a dynamic proxy to create a Null Object.
 import java.lang.reflect.*;
 import java.util.*;
-import net.mindview.util.*;
+import bookCode.net.mindview.util.*;
 
 class NullRobotProxyHandler implements InvocationHandler {
   private String nullName;
@@ -11,12 +11,16 @@ class NullRobotProxyHandler implements InvocationHandler {
     nullName = type.getSimpleName() + " NullRobot";
   }
   private class NRobot implements Null, Robot {
+    @Override
     public String name() { return nullName; }
+    @Override
     public String model() { return nullName; }
+    @Override
     public List<Operation> operations() {
       return Collections.emptyList();
     }
   }	
+  @Override
   public Object
   invoke(Object proxy, Method method, Object[] args)
   throws Throwable {
@@ -37,8 +41,9 @@ public class NullRobot {
       new SnowRemovalRobot("SnowBee"),
       newNullRobot(SnowRemovalRobot.class)
     };
-    for(Robot bot : bots)
+    for(Robot bot : bots) {
       Robot.Test.test(bot);
+    }
   }
 } /* Output:
 Robot name: SnowBee

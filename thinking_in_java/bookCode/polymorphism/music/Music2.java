@@ -1,6 +1,6 @@
 //: polymorphism/music/Music2.java
 // Overloading instead of upcasting.
-package polymorphism.music;
+package bookCode.polymorphism.music;
 import static net.mindview.util.Print.*;
 
 class Stringed extends Instrument {

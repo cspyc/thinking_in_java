@@ -1,10 +1,11 @@
 //: enumerated/Burrito.java
-package enumerated;
-import static enumerated.Spiciness.*;
+package bookCode.enumerated;
+import static bookCode.enumerated.Spiciness.*;
 
 public class Burrito {
   Spiciness degree;
   public Burrito(Spiciness degree) { this.degree = degree;}
+  @Override
   public String toString() { return "Burrito is "+ degree;}
   public static void main(String[] args) {
     System.out.println(new Burrito(NOT));

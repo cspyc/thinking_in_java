@@ -1,4 +1,4 @@
-//: gui/Faces.java
+package bookCode.gui;//: gui/Faces.java
 // Icon behavior in JButtons.
 import javax.swing.*;
 import java.awt.*;

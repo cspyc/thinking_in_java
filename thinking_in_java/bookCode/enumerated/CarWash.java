@@ -1,4 +1,4 @@
-//: enumerated/CarWash.java
+package bookCode.enumerated;//: enumerated/CarWash.java
 import java.util.*;
 import static net.mindview.util.Print.*;
 

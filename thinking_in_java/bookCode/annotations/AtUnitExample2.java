@@ -1,6 +1,6 @@
 //: annotations/AtUnitExample2.java
 // Assertions and exceptions can be used in @Tests.
-package annotations;
+package bookCode.annotations;
 import java.io.*;
 import net.mindview.atunit.*;
 import net.mindview.util.*;

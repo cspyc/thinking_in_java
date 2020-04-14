@@ -1,4 +1,4 @@
-//: arrays/MultidimensionalObjectArrays.java
+package bookCode.arrays;//: arrays/MultidimensionalObjectArrays.java
 import java.util.*;
 
 public class MultidimensionalObjectArrays {

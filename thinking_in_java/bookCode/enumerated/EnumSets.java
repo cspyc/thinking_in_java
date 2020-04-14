@@ -1,9 +1,9 @@
 //: enumerated/EnumSets.java
 // Operations on EnumSets
-package enumerated;
+package bookCode.enumerated;
 import java.util.*;
-import static enumerated.AlarmPoints.*;
-import static net.mindview.util.Print.*;
+import static bookCode.enumerated.AlarmPoints.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class EnumSets {
   public static void main(String[] args) {

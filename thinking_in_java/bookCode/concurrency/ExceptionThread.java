@@ -1,4 +1,4 @@
-//: concurrency/ExceptionThread.java
+package bookCode.concurrency;//: concurrency/ExceptionThread.java
 // {ThrowsException}
 import java.util.concurrent.*;
 

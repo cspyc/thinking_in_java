@@ -1,4 +1,4 @@
-//: holding/LinkedListFeatures.java
+package bookCode.holding;//: holding/LinkedListFeatures.java
 import typeinfo.pets.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

@@ -1,7 +1,7 @@
-//: arrays/FillingArrays.java
+package bookCode.arrays;//: arrays/FillingArrays.java
 // Using Arrays.fill()
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class FillingArrays {
   public static void main(String[] args) {

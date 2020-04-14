@@ -1,4 +1,4 @@
-//: innerclasses/LocalInnerClass.java
+package bookCode.innerclasses;//: innerclasses/LocalInnerClass.java
 // Holds a sequence of Objects.
 import static net.mindview.util.Print.*;
 

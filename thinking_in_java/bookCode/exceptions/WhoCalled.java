@@ -1,4 +1,4 @@
-//: exceptions/WhoCalled.java
+package bookCode.exceptions;//: exceptions/WhoCalled.java
 // Programmatic access to stack trace information.
 
 public class WhoCalled {

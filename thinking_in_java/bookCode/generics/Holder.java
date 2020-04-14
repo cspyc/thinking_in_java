@@ -1,4 +1,4 @@
-//: generics/Holder.java
+package bookCode.generics;//: generics/Holder.java
 
 public class Holder<T> {
   private T value;

@@ -1,4 +1,4 @@
-//: access/IceCream.java
+package bookCode.access;//: access/IceCream.java
 // Demonstrates "private" keyword.
 
 class Sundae {

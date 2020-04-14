@@ -1,5 +1,5 @@
 //: interfaces/interfaceprocessor/Apply.java
-package interfaces.interfaceprocessor;
+package bookCode.interfaces.interfaceprocessor;
 import static net.mindview.util.Print.*;
 
 public class Apply {

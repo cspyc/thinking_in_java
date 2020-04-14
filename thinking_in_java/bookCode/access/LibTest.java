@@ -1,6 +1,6 @@
-//: access/LibTest.java
+package bookCode.access;//: access/LibTest.java
 // Uses the library.
-import net.mindview.simple.*;
+import bookCode.net.mindview.simple.*;
 
 public class LibTest {
   public static void main(String[] args) {

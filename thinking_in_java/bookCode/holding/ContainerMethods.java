@@ -1,4 +1,4 @@
-//: holding/ContainerMethods.java
+package bookCode.holding;//: holding/ContainerMethods.java
 import net.mindview.util.*;
 
 public class ContainerMethods {

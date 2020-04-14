@@ -1,4 +1,4 @@
-//: generics/BasicGeneratorDemo.java
+package bookCode.generics;//: generics/BasicGeneratorDemo.java
 import net.mindview.util.*;
 
 public class BasicGeneratorDemo {

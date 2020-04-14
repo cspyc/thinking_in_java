@@ -1,4 +1,4 @@
-//: concurrency/IntGenerator.java
+package bookCode.concurrency;//: concurrency/IntGenerator.java
 
 public abstract class IntGenerator {
   private volatile boolean canceled = false;

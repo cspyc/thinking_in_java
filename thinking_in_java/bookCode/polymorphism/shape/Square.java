@@ -1,5 +1,5 @@
 //: polymorphism/shape/Square.java
-package polymorphism.shape;
+package bookCode.polymorphism.shape;
 import static net.mindview.util.Print.*;
 
 public class Square extends Shape {

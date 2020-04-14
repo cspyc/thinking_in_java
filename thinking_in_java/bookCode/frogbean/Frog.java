@@ -1,6 +1,6 @@
 //: frogbean/Frog.java
 // A trivial JavaBean.
-package frogbean;
+package bookCode.frogbean;
 import java.awt.*;
 import java.awt.event.*;
 

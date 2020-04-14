@@ -1,4 +1,4 @@
-//: strings/SimpleFormat.java
+package bookCode.strings;//: strings/SimpleFormat.java
 
 public class SimpleFormat {
   public static void main(String[] args) {

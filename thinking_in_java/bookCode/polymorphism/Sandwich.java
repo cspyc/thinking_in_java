@@ -1,6 +1,6 @@
 //: polymorphism/Sandwich.java
 // Order of constructor calls.
-package polymorphism;
+package bookCode.polymorphism;
 import static net.mindview.util.Print.*;
 
 class Meal {

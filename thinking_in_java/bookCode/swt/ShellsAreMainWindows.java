@@ -1,4 +1,4 @@
-//: swt/ShellsAreMainWindows.java
+package bookCode.swt;//: swt/ShellsAreMainWindows.java
 import org.eclipse.swt.widgets.*;
 
 public class ShellsAreMainWindows {

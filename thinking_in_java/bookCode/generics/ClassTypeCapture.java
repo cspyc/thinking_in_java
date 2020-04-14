@@ -1,4 +1,4 @@
-//: generics/ClassTypeCapture.java
+package bookCode.generics;//: generics/ClassTypeCapture.java
 
 class Building {}
 class House extends Building {}

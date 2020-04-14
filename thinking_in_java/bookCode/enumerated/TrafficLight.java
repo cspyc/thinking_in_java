@@ -1,6 +1,6 @@
-//: enumerated/TrafficLight.java
+package bookCode.enumerated;//: enumerated/TrafficLight.java
 // Enums in switch statements.
-import static net.mindview.util.Print.*;
+import static bookCode.net.mindview.util.Print.*;
 
 // Define an enum type:
 enum Signal { GREEN, YELLOW, RED, }

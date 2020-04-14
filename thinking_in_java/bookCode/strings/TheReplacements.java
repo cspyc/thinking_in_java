@@ -1,4 +1,4 @@
-//: strings/TheReplacements.java
+package bookCode.strings;//: strings/TheReplacements.java
 import java.util.regex.*;
 import net.mindview.util.*;
 import static net.mindview.util.Print.*;

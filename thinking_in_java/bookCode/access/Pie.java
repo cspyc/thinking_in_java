@@ -1,4 +1,4 @@
-//: access/Pie.java
+package bookCode.access;//: access/Pie.java
 // The other class.
 
 class Pie {

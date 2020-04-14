@@ -1,4 +1,4 @@
-//: innerclasses/Parcel11.java
+package bookCode.innerclasses;//: innerclasses/Parcel11.java
 // Nested classes (static inner classes).
 
 public class Parcel11 {

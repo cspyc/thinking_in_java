@@ -1,4 +1,4 @@
-//: generics/Performs.java
+package bookCode.generics;//: generics/Performs.java
 
 public interface Performs {
   void speak();

@@ -1,4 +1,4 @@
-//: generics/ErasedTypeEquivalence.java
+package bookCode.generics;//: generics/ErasedTypeEquivalence.java
 import java.util.*;
 
 public class ErasedTypeEquivalence {

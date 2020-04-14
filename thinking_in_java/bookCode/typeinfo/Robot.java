@@ -1,6 +1,6 @@
-//: typeinfo/Robot.java
+package bookCode.typeinfo;//: typeinfo/Robot.java
 import java.util.*;
-import net.mindview.util.*;
+import bookCode.net.mindview.util.*;
 
 public interface Robot {
   String name();

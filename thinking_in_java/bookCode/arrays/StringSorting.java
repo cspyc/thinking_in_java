@@ -1,8 +1,8 @@
-//: arrays/StringSorting.java
+package bookCode.arrays;//: arrays/StringSorting.java
 // Sorting an array of Strings.
 import java.util.*;
-import net.mindview.util.*;
-import static net.mindview.util.Print.*;
+import bookCode.net.mindview.util.*;
+import static bookCode.net.mindview.util.Print.*;
 
 public class StringSorting {
   public static void main(String[] args) {

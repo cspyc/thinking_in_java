@@ -1,4 +1,4 @@
-//: strings/ReFlags.java
+package bookCode.strings;//: strings/ReFlags.java
 import java.util.regex.*;
 
 public class ReFlags {

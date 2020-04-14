@@ -1,4 +1,4 @@
-//: holding/SetOperations.java
+package bookCode.holding;//: holding/SetOperations.java
 import java.util.*;
 import static net.mindview.util.Print.*;
 

@@ -1,4 +1,4 @@
-//: io/ViewBuffers.java
+package bookCode.io;//: io/ViewBuffers.java
 import java.nio.*;
 import static net.mindview.util.Print.*;
 

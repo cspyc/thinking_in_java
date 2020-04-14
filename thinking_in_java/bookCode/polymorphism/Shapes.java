@@ -1,6 +1,6 @@
-//: polymorphism/Shapes.java
+package bookCode.polymorphism;//: polymorphism/Shapes.java
 // Polymorphism in Java.
-import polymorphism.shape.*;
+import bookCode.polymorphism.shape.*;
 
 public class Shapes {
   private static RandomShapeGenerator gen =
@@ -8,11 +8,13 @@ public class Shapes {
   public static void main(String[] args) {
     Shape[] s = new Shape[9];
     // Fill up the array with shapes:
-    for(int i = 0; i < s.length; i++)
+    for(int i = 0; i < s.length; i++) {
       s[i] = gen.next();
+    }
     // Make polymorphic method calls:
-    for(Shape shp : s)
+    for(Shape shp : s) {
       shp.draw();
+    }
   }
 } /* Output:
 Triangle.draw()

@@ -1,6 +1,6 @@
 //: annotations/database/Uniqueness.java
 // Sample of nested annotations
-package annotations.database;
+package bookCode.annotations.database;
 
 public @interface Uniqueness {
   Constraints constraints()

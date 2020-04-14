@@ -1,4 +1,4 @@
-//: initialization/DynamicArray.java
+package bookCode.initialization;//: initialization/DynamicArray.java
 // Array initialization.
 
 public class DynamicArray {

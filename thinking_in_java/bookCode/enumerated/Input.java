@@ -1,5 +1,5 @@
 //: enumerated/Input.java
-package enumerated;
+package bookCode.enumerated;
 import java.util.*;
 
 public enum Input {

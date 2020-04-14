@@ -1,4 +1,4 @@
-//: innerclasses/Parcel9.java
+package bookCode.innerclasses;//: innerclasses/Parcel9.java
 // An anonymous inner class that performs
 // initialization. A briefer version of Parcel5.java.
 

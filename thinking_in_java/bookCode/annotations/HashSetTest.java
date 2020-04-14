@@ -1,8 +1,8 @@
 //: annotations/HashSetTest.java
-package annotations;
+package bookCode.annotations;
 import java.util.*;
-import net.mindview.atunit.*;
-import net.mindview.util.*;
+import bookCode.net.mindview.atunit.*;
+import bookCode.net.mindview.util.*;
 
 public class HashSetTest {
   HashSet<String> testObject = new HashSet<String>();
