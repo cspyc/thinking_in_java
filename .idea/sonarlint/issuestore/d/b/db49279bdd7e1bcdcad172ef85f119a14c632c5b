@@ -1,0 +1,8 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û¥…Ù
+Xsquid:S1854"<Remove this useless assignment to local variable "intClass".(•êŒÚ¯ˇˇˇˇ
+_squid:S1854"CRemove this useless assignment to local variable "genericIntClass".(ÿΩ‹Àˇˇˇˇˇ
+Zsquid:S1854"CRemove this useless assignment to local variable "genericIntClass".(∞Å›Â
+Ssquid:S1854"<Remove this useless assignment to local variable "intClass".(ü…˚
+Dsquid:S1481"-Remove this unused "intClass" local variable.(ü…˚
+Ksquid:S1481"4Remove this unused "genericIntClass" local variable.(∞Å›Â

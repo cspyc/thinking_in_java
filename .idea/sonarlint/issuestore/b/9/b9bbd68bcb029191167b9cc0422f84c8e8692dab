@@ -1,0 +1,37 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×ŞÇ¬
+Zsquid:S1155z">Use isEmpty() to check whether the collection is empty or not.(Ñ¾Îûûÿÿÿÿ
+[squid:S1155‹">Use isEmpty() to check whether the collection is empty or not.(Ÿ‚ééúÿÿÿÿ
+Qsquid:S1161":Add the "@Override" annotation above this method signature(Á»›ê
+]squid:S2142-"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(ºèŒ üÿÿÿÿ
+O
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ÒÂ÷³
+usquid:S1210Y"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¦¸ÿ•ÿÿÿÿÿ
+=squid:S11706"!Make this final field static too.(ñÀ‚îıÿÿÿÿ
+]squid:S2142H"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+N
+squid:S106I"9Replace this use of System.out or System.err by a logger.(§÷ï`
+T
+squid:S106K"9Replace this use of System.out or System.err by a logger.(Ì©úÄûÿÿÿÿ
+`squid:S3358["DExtract this nested ternary operation into an independent statement.(ã–®®ùÿÿÿÿ
+usquid:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(»ˆıêûÿÿÿÿ
+usquid:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÔÆÕüÿÿÿÿ
+^squid:S2142Ÿ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+P
+squid:S106š"9Replace this use of System.out or System.err by a logger.(ªÕ¥–
+U
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(ùÓ‹±ıÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹¾úúüÿÿÿÿ
+O
+squid:S106 "9Replace this use of System.out or System.err by a logger.(§÷ï`
+U
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(Ì©úÄûÿÿÿÿ
+Xsquid:CallToDeprecatedMethod´"/Remove this use of "Integer"; it is deprecated.(îÍèˆ
+P
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(†ıŒ
+Dsquid:S1068g"(Remove this unused "rand" private field.(±¼îıÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(é›°ï
+hsquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(÷…ÿóúÿÿÿÿ

@@ -1,0 +1,13 @@
+
+}squid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "weekNames".(ê…Óìşÿÿÿÿ
+‚squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ8²Ğ‚ûš.
+P
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(¦©õ
+O
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(¢ÍÉ
+‚squid:S11494"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ8„âĞûš.
+…squid:S1488."gImmediately return this expression instead of assigning it to the temporary variable "firstDateInWeek".(Ñ¤¥§8Õ›Ìûš.
+ysquid:UselessImportCheck"IRemove this unused import 'cn.pyc.ch16.exercise.array.CountingGenerator'.(æ˜Üıÿÿÿÿ8ÿáûš.
+U
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+‚squid:S1149B"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ8Úªãûš.

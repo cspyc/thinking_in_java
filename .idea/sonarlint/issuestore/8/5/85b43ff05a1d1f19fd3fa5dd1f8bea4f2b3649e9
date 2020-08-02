@@ -1,0 +1,12 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğ©ïÛüÿÿÿÿ
+Bsquid:S2390"&Remove this reference to "FuelFilter".(›®åşÿÿÿÿ
+<squid:S2390"%Remove this reference to "AirFilter".(Ÿ÷í
+Fsquid:S2390"*Remove this reference to "CabinAirFilter".(Ìú¿‹øÿÿÿÿ
+Asquid:S2390"%Remove this reference to "OilFilter".(¡åİâÿÿÿÿÿ
+?squid:S2390"#Remove this reference to "FanBelt".(àÈ¬Àúÿÿÿÿ
+Csquid:S2390"-Remove this reference to "PowerSteeringBelt".(Åè»
+Esquid:S2390")Remove this reference to "GeneratorBelt".(ãÁÄªùÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëëûï
+T
+squid:S106]"9Replace this use of System.out or System.err by a logger.(‚¯úŠùÿÿÿÿ

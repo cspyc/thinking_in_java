@@ -1,0 +1,7 @@
+
+Dsquid:S1604"(Make this anonymous inner class a lambda(¿ƒ‡Ñúÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é‘à³þÿÿÿÿ
++squid:S1700	"Rename field "popup"(ß•¸˜
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(¾á‡Þ
+Vsquid:S1161%":Add the "@Override" annotation above this method signature(®î’×üÿÿÿÿ
+Qsquid:S1161(":Add the "@Override" annotation above this method signature(ãÆÐÂ

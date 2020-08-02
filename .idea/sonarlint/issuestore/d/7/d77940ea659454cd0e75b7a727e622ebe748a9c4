@@ -1,0 +1,7 @@
+
+bsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(¤’‚τ
+Psquid:S1854!"9Remove this useless assignment to local variable "lines".(Πο‚
+Asquid:S1481"*Remove this unused "lines" local variable.(Η®‚
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(΄²ώ­όÿÿÿÿ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ού i
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ηµν‘

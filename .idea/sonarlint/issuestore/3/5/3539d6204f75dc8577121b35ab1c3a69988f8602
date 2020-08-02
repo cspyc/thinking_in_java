@@ -1,0 +1,4 @@
+
+ƒsquid:UselessImportCheck"XRemove this unused import 'com.sun.org.apache.xerces.internal.impl.dv.xs.TypeValidator'.(Éƒ‹Ã8Ê°ôä‘.
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÞÄ£Äþÿÿÿÿ8Œ¿Ðä‘.
+Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(Éƒ‹Ã8Ê°ôä‘.

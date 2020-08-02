@@ -1,0 +1,18 @@
+
+csquid:S00112O"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+dsquid:S00112€"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÞëâ
+>squid:S1659
+"(Declare "driveTrain" on a separate line.(×»ò	
+:squid:S1659
+"$Declare "wheels" on a separate line.(×»ò	
+]squid:S2142+"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Hsquid:S16593",Declare "finishingQueue" on a separate line.(³ôë®ûÿÿÿÿ
+]squid:S2142K"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]squid:S2142]"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+jsquid:ModifiersOrderCheckr"EReorder the modifiers to comply with the Java Language Specification.(õéæõ
+]squid:S2142|"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Asquid:S1125Š")Remove the literal "false" boolean value.(â®ì‚
+vsquid:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(çƒµ°øÿÿÿÿ
+Rsquid:S2274¹":Remove this call to "wait" or move it into a "while" loop.(®Ôâˆ
+Dsquid:S1659Â",Declare "finishingQueue" on a separate line.(®ûŽ‚

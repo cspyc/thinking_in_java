@@ -1,0 +1,6 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À›½÷üÿÿÿÿ
+Psquid:S1118":Add a private constructor to hide the implicit public one.(ÆÜÑ
+psquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ëµû
+5squid:S21297"Remove this "Long" constructor(ß´Ø•
+Tsquid:CallToDeprecatedMethod7",Remove this use of "Long"; it is deprecated.(ß´Ø•

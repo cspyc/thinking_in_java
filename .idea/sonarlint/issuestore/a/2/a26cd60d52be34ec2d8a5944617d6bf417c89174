@@ -1,0 +1,6 @@
+
+Dsquid:S1604
+"(Make this anonymous inner class a lambda(Ô¶µÿþÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À›½÷üÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(Ìµ÷Õÿÿÿÿÿ
+esquid:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ

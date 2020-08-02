@@ -1,0 +1,6 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(τ²δψÿÿÿÿ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(χό©όÿÿÿÿ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(΅ΰώÿÿÿÿ
+6squid:S3398"Move this method into "B".(΅ΰώÿÿÿÿ
+6squid:S3398"Move this method into "A".(χό©όÿÿÿÿ

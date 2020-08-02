@@ -1,0 +1,8 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç­£“üÿÿÿÿ
+Bsquid:S1659/"&Declare "animals2" on a separate line.(ãƒ½Áøÿÿÿÿ
+=squid:S16590"&Declare "animals3" on a separate line.(ºÇ›É
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ëÚµþÿÿÿÿ
+Xsquid:S2118!"AMake the "java.util.List" class "Serializable" or don't write it.(ËéÖô
+Xsquid:S2118""AMake the "java.util.List" class "Serializable" or don't write it.(’û®Î
+Xsquid:S2118'"AMake the "java.util.List" class "Serializable" or don't write it.(ä ñ»

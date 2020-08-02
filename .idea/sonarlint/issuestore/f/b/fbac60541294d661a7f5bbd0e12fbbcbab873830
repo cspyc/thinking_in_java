@@ -1,0 +1,6 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šà’Äøÿÿÿÿ
+8squid:S2129"!Remove this "Integer" constructor(Ž¨¢å
+Wsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(Ž¨¢å
+Psquid:S1118":Add a private constructor to hide the implicit public one.(¨ŒÔ`
+Asquid:S1068"%Remove this unused "x" private field.(»ÚÑÛøÿÿÿÿ

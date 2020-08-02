@@ -1,0 +1,6 @@
+
+^squid:S3973 "GUse indentation to denote the code conditionally executed by this "if".(ç¥¨µ
+squid:S2681""†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ñæ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è¾ğîûÿÿÿÿ
+8squid:S1170"!Make this final field static too.(»¡øç
+`squid:S3358'"DExtract this nested ternary operation into an independent statement.(¢™ù¤ùÿÿÿÿ

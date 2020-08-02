@@ -1,0 +1,4 @@
+
+Zsquid:S3034">Prevent "int" promotion by adding "& 0xff" to this expression.(ê¸Š‚úÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î¸Ùèþÿÿÿÿ
+gsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(ØâÑÃøÿÿÿÿ

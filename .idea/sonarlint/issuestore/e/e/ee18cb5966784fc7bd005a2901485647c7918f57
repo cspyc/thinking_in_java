@@ -1,0 +1,8 @@
+
+:squid:S2629"$Invoke method(s) only conditionally.(Œ†ŠU
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Ý¨Œ
+6squid:S1165"Make this "logger" field final.(§ñ£é
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸­ÒÅ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸­ÒÅ

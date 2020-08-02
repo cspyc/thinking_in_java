@@ -1,0 +1,19 @@
+
+isquid:S1192C"MDefine a constant instead of duplicating this literal " interrupted" 3 times.(Ø¥ÚŞÿÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î‰Ñç
+=squid:S1170"!Make this final field static too.(ñÀ‚îıÿÿÿÿ
+=squid:S1170."!Make this final field static too.(ñÀ‚îıÿÿÿÿ
+usquid:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š‚”õøÿÿÿÿ
+]squid:S2142A"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+=squid:S1170P"!Make this final field static too.(ñÀ‚îıÿÿÿÿ
+usquid:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ùéè§ùÿÿÿÿ
+]squid:S2142Z"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]squid:S2142h"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+=squid:S1170t"!Make this final field static too.(ñÀ‚îıÿÿÿÿ
+^squid:S2142ƒ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€‰î±ıÿÿÿÿ
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œú²Îıÿÿÿÿ
+vsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(ä”Îûÿÿÿÿ
+^squid:S2142«"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Xsquid:CallToDeprecatedMethod¸"/Remove this use of "Integer"; it is deprecated.(îÍèˆ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(é›°ï

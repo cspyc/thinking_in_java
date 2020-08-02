@@ -1,0 +1,12 @@
+
+Spython:PrintStatementUsage"-Replace print statement by built-in function.(­ú©”
+ppython:S117"YRename this local variable "javaFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(û³°
+Xpython:PrintStatementUsage"-Replace print statement by built-in function.(ºÉäÕøÿÿÿÿ
+qpython:S117"ZRename this local variable "fileParts" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡“‚Â
+kpython:S117"TRename this parameter "javaFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(à™®¤
+xpython:S117$"aRename this local variable "redundantRemoved" to match the regular expression ^[_a-z][a-z0-9_]*$.(•­§š
+mpython:S1542"URename function "checkImports" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(à™®¤
+Xpython:PrintStatementUsage "-Replace print statement by built-in function.(ÓÙ÷óıÿÿÿÿ
+Spython:PrintStatementUsage#"-Replace print statement by built-in function.(ÎŞ¼é
+Xpython:PrintStatementUsage'"-Replace print statement by built-in function.(•æˆÁùÿÿÿÿ
+npython:S1542-"VRename function "mutateImports" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(áòÍı

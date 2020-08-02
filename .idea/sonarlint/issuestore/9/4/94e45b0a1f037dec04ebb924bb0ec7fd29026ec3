@@ -1,0 +1,27 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±ÎõÃúÿÿÿÿ
+Ysquid:S2094"BRemove this empty class, write its code or make it an "interface".(÷Îò¤
+^squid:S2094"BRemove this empty class, write its code or make it an "interface".(³–áíúÿÿÿÿ
+^squid:S2094"BRemove this empty class, write its code or make it an "interface".(ÝÐžùûÿÿÿÿ
+7squid:S2326"Q is not used in the class.(ÝÐžùûÿÿÿÿ
+^squid:S2094"BRemove this empty class, write its code or make it an "interface".(õñôìþÿÿÿÿ
+>squid:S2326""POSITION is not used in the class.(õñôìþÿÿÿÿ
+>squid:S2326""MOMENTUM is not used in the class.(õñôìþÿÿÿÿ
+fsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(õñôìþÿÿÿÿ
+fsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(õñôìþÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨Ñ¹Ê
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¨··øÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óìÿ¤ÿÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(é­ŠŽüÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(âß¤üÿÿÿÿÿ
+Zsquid:S2133"CRemove this object instantiation and use "ArrayList.class" instead.(¨Ñ¹Ê
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(âß¤üÿÿÿÿÿ
+]squid:S2133"ARemove this object instantiation and use "HashMap.class" instead.(Ã¨··øÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(âß¤üÿÿÿÿÿ
+[squid:S2133"?Remove this object instantiation and use "Quark.class" instead.(Óìÿ¤ÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(âß¤üÿÿÿÿÿ
+^squid:S2133"BRemove this object instantiation and use "Particle.class" instead.(é­ŠŽüÿÿÿÿ

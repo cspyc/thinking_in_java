@@ -1,0 +1,34 @@
+
+psquid:S1488 "YImmediately return this expression instead of assigning it to the temporary variable "t".(òõµ©
+psquid:S1488%"YImmediately return this expression instead of assigning it to the temporary variable "t".(òõµ©
+psquid:S1488."YImmediately return this expression instead of assigning it to the temporary variable "t".(òõµ©
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾Â¤5
+Fsquid:S1172"*Remove this unused method parameter "arg".(ŠŒœÿÿÿÿÿ
+Ssquid:S1854"7Remove this useless assignment to local variable "obj".(­ÉÉÆûÿÿÿÿ
+Fsquid:S1172"*Remove this unused method parameter "arg".(®™þÿÿÿÿ
+Ssquid:S1854"7Remove this useless assignment to local variable "obj".(­ÉÉÆûÿÿÿÿ
+Fsquid:S1172)"*Remove this unused method parameter "arg".(ÛåµÏûÿÿÿÿ
+Ssquid:S18548"7Remove this useless assignment to local variable "obj".(­ÉÉÆûÿÿÿÿ
+Nsquid:S1854j"7Remove this useless assignment to local variable "r12".(Î‰ñ½
+Ssquid:S1854i"7Remove this useless assignment to local variable "r11".(çãé¦øÿÿÿÿ
+Nsquid:S1854g"7Remove this useless assignment to local variable "r10".(™£‚´
+Msquid:S1854Y"6Remove this useless assignment to local variable "r6".(‹åÓû
+Rsquid:S1854S"6Remove this useless assignment to local variable "r4".(ÆõèŒøÿÿÿÿ
+Msquid:S1854R"6Remove this useless assignment to local variable "r3".(¶†²Ê
+Msquid:S1854Q"6Remove this useless assignment to local variable "r2".(äÜÍ­
+Nsquid:S1854;"7Remove this useless assignment to local variable "raw".(Û§Ÿ†
+usquid:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹¶‹Úÿÿÿÿÿ
+psquid:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(ššÇº
+psquid:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(§òŸô
+Dsquid:S1481"(Remove this unused "obj" local variable.(­ÉÉÆûÿÿÿÿ
+Dsquid:S1481"(Remove this unused "obj" local variable.(­ÉÉÆûÿÿÿÿ
+Dsquid:S14818"(Remove this unused "obj" local variable.(­ÉÉÆûÿÿÿÿ
+>squid:S1481Q"'Remove this unused "r2" local variable.(äÜÍ­
+>squid:S1481R"'Remove this unused "r3" local variable.(¶†²Ê
+Csquid:S1481S"'Remove this unused "r4" local variable.(ÆõèŒøÿÿÿÿ
+>squid:S1481Y"'Remove this unused "r6" local variable.(‹åÓû
+?squid:S1481g"(Remove this unused "r10" local variable.(™£‚´
+Dsquid:S1481i"(Remove this unused "r11" local variable.(çãé¦øÿÿÿÿ
+?squid:S1481j"(Remove this unused "r12" local variable.(Î‰ñ½
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍÜ±µ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍÜ±µ

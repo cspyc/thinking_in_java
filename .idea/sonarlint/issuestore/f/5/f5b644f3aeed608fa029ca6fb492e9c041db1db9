@@ -1,0 +1,15 @@
+
+>squid:S2189d""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+8squid:S2189U""Add an end condition to this loop.(¤èÄ7
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îÏÇëøÿÿÿÿ
+;squid:S1659"Declare "y" on a separate line.(±šß¯ùÿÿÿÿ
+]squid:S21424"FEither re-interrupt this method or rethrow the "InterruptedException".(¶èî¡
+Asquid:S001084")Either remove or fill this block of code.(¶èî¡
+=squid:S1659r"!Declare "pm2" on a separate line.(ÉÖøıÿÿÿÿ
+Asquid:S1659u"%Declare "pcheck2" on a separate line.(€¼İíşÿÿÿÿ
+]squid:S2142|"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+O
+squid:S106}"9Replace this use of System.out or System.err by a logger.(€¨Îõ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(øƒ»
+;squid:S1659…"#Declare "pman2" on a separate line.(îî æ

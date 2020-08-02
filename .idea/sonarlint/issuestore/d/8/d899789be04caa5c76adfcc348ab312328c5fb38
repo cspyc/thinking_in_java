@@ -1,0 +1,9 @@
+
+ksquid:S2095
+"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÙçŒöÿÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öå›éıÿÿÿÿ
+Zsquid:S1854">Remove this useless assignment to local variable "shapeTypes".(ÍßÃıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖÔ˜éüÿÿÿÿ
+Ksquid:S1481"/Remove this unused "shapeTypes" local variable.(ÍßÃıÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ä›ÿ÷úÿÿÿÿ

@@ -1,0 +1,11 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•…ùş
+asquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ûğ€¸
+asquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(²¼ë»
+fsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‰Êçÿÿÿÿÿ
+squid:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(„ÉŞ…úÿÿÿÿ
+˜squid:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(®…ã‘
+fsquid:S00119."IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(”úÛŸşÿÿÿÿ
+`squid:S001192"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ÌÖß)
+Esquid:S1481<".Remove this unused "audioBoys" local variable.(‹–ü†
+gsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(ø¨†èşÿÿÿÿ

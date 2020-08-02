@@ -1,0 +1,11 @@
+
+?squid:S1604"(Make this anonymous inner class a lambda(ğÁËî
+Dsquid:S1604"(Make this anonymous inner class a lambda(úàáùÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹¯Ï´
+jsquid:MaximumInheritanceDepth	"<This class has 6 parents which is greater than 5 authorized.(§§É¸úÿÿÿÿ
+7squid:S1659" Declare "b2" on a separate line.(»ˆÂğ
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒ›Æ…úÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘Ëå–

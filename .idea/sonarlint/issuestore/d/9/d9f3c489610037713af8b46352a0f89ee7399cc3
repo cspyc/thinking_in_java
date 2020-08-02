@@ -1,0 +1,24 @@
+
+\squid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Ïö×
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íåšéÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(„Ïº¢üÿÿÿÿ
+O
+squid:S106	"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+O
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìîï·üÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôÌ¿ò
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎÑ×G
+gsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(±è£H
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(±è£H
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÂÕöòşÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÂÕöòşÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÑÌúÿÿÿÿ

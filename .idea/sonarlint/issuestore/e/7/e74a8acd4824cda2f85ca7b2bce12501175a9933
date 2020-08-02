@@ -1,0 +1,16 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¦Ÿûûÿÿÿÿ
+Bsquid:S1659"&Declare "FEBRUARY" on a separate line.(ÃÕÆûÿÿÿÿ
+?squid:S1659"#Declare "MARCH" on a separate line.(ÃÕÆûÿÿÿÿ
+?squid:S1659"#Declare "APRIL" on a separate line.(® ºóúÿÿÿÿ
+=squid:S1659"!Declare "MAY" on a separate line.(® ºóúÿÿÿÿ
+>squid:S1659""Declare "JUNE" on a separate line.(® ºóúÿÿÿÿ
+>squid:S1659""Declare "JULY" on a separate line.(® ºóúÿÿÿÿ
+@squid:S1659	"$Declare "AUGUST" on a separate line.(”ã ÿÿÿÿÿ
+Csquid:S1659	"'Declare "SEPTEMBER" on a separate line.(”ã ÿÿÿÿÿ
+Asquid:S1659	"%Declare "OCTOBER" on a separate line.(”ã ÿÿÿÿÿ
+<squid:S1659
+"&Declare "NOVEMBER" on a separate line.(öô¼.
+<squid:S1659
+"&Declare "DECEMBER" on a separate line.(öô¼.
+8squid:S1214""Move constants to a class or enum.(©¥ûN

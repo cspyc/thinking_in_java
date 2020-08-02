@@ -1,0 +1,5 @@
+
+jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(à¼úüÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Êˆ…¢øÿÿÿÿ
+?squid:S1604"(Make this anonymous inner class a lambda(»ß
+Gsquid:S1481"+Remove this unused "flavor" local variable.(éÝº’üÿÿÿÿ

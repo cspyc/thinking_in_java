@@ -1,0 +1,129 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•çì¨
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡Ã‘şÿÿÿÿ
+Qsquid:S18540"5Remove this useless assignment to local variable "x".(«ğãØúÿÿÿÿ
+5squid:S2178"Correct this "&" to "&&".(‚ßªÛıÿÿÿÿ
+0squid:S2178 "Correct this "|" to "||".(©²ØÃ
+Lsquid:S1854j"5Remove this useless assignment to local variable "d".(Ùõ¡Æ
+Lsquid:S1854i"5Remove this useless assignment to local variable "f".(…»ç
+Lsquid:S1854h"5Remove this useless assignment to local variable "l".(†Í°„
+Qsquid:S1854g"5Remove this useless assignment to local variable "i".(ºõÓ¿ÿÿÿÿÿ
+Lsquid:S1854f"5Remove this useless assignment to local variable "s".(„‰ß·
+Lsquid:S1854e"5Remove this useless assignment to local variable "b".(É‘˜
+Qsquid:S1854C"5Remove this useless assignment to local variable "x".(è‚ıÿÿÿÿ
+Qsquid:S1854B"5Remove this useless assignment to local variable "x".(º´ªËüÿÿÿÿ
+Msquid:S1854œ"5Remove this useless assignment to local variable "d".(Ùõ¡Æ
+Msquid:S1854›"5Remove this useless assignment to local variable "f".(…»ç
+Msquid:S1854š"5Remove this useless assignment to local variable "l".(†Í°„
+Rsquid:S1854™"5Remove this useless assignment to local variable "i".(ºõÓ¿ÿÿÿÿÿ
+Msquid:S1854˜"5Remove this useless assignment to local variable "s".(„‰ß·
+Rsquid:S1854—"5Remove this useless assignment to local variable "c".(İ£ÜÛüÿÿÿÿ
+Ksquid:S1854u"5Remove this useless assignment to local variable "x".(Í¢«
+Qsquid:S1854t"5Remove this useless assignment to local variable "x".(º´ªËüÿÿÿÿ
+Msquid:S1854Î"5Remove this useless assignment to local variable "d".(Ùõ¡Æ
+Msquid:S1854Í"5Remove this useless assignment to local variable "f".(…»ç
+Msquid:S1854Ì"5Remove this useless assignment to local variable "l".(†Í°„
+Rsquid:S1854Ë"5Remove this useless assignment to local variable "i".(ºõÓ¿ÿÿÿÿÿ
+Msquid:S1854Ê"5Remove this useless assignment to local variable "b".(É‘˜
+Rsquid:S1854É"5Remove this useless assignment to local variable "c".(İ£ÜÛüÿÿÿÿ
+Rsquid:S1854§"5Remove this useless assignment to local variable "x".(î½ÃËúÿÿÿÿ
+Rsquid:S1854¦"5Remove this useless assignment to local variable "x".(º´ªËüÿÿÿÿ
+Msquid:S1854€"5Remove this useless assignment to local variable "d".(Ùõ¡Æ
+Msquid:S1854ÿ"5Remove this useless assignment to local variable "f".(…»ç
+Msquid:S1854ş"5Remove this useless assignment to local variable "l".(†Í°„
+Msquid:S1854ı"5Remove this useless assignment to local variable "s".(„‰ß·
+Msquid:S1854ü"5Remove this useless assignment to local variable "b".(É‘˜
+Rsquid:S1854û"5Remove this useless assignment to local variable "c".(İ£ÜÛüÿÿÿÿ
+Rsquid:S1854Ù"5Remove this useless assignment to local variable "x".(„£°×úÿÿÿÿ
+Rsquid:S1854Ø"5Remove this useless assignment to local variable "x".(º´ªËüÿÿÿÿ
+Msquid:S1854²"5Remove this useless assignment to local variable "d".(Ùõ¡Æ
+Msquid:S1854±"5Remove this useless assignment to local variable "f".(…»ç
+Rsquid:S1854°"5Remove this useless assignment to local variable "i".(ºõÓ¿ÿÿÿÿÿ
+Msquid:S1854¯"5Remove this useless assignment to local variable "s".(„‰ß·
+Msquid:S1854®"5Remove this useless assignment to local variable "b".(É‘˜
+Rsquid:S1854­"5Remove this useless assignment to local variable "c".(İ£ÜÛüÿÿÿÿ
+Rsquid:S1854‹"5Remove this useless assignment to local variable "x".(„£°×úÿÿÿÿ
+Rsquid:S1854Š"5Remove this useless assignment to local variable "x".(º´ªËüÿÿÿÿ
+Msquid:S1854ä"5Remove this useless assignment to local variable "d".(Ùõ¡Æ
+Msquid:S1854ã"5Remove this useless assignment to local variable "l".(†Í°„
+Rsquid:S1854â"5Remove this useless assignment to local variable "i".(ºõÓ¿ÿÿÿÿÿ
+Msquid:S1854á"5Remove this useless assignment to local variable "s".(„‰ß·
+Msquid:S1854à"5Remove this useless assignment to local variable "b".(É‘˜
+Rsquid:S1854ß"5Remove this useless assignment to local variable "c".(İ£ÜÛüÿÿÿÿ
+Rsquid:S1854½"5Remove this useless assignment to local variable "x".(„£°×úÿÿÿÿ
+Rsquid:S1854¼"5Remove this useless assignment to local variable "x".(º´ªËüÿÿÿÿ
+Msquid:S1854–"5Remove this useless assignment to local variable "f".(…»ç
+Msquid:S1854•"5Remove this useless assignment to local variable "l".(†Í°„
+Rsquid:S1854”"5Remove this useless assignment to local variable "i".(ºõÓ¿ÿÿÿÿÿ
+Msquid:S1854“"5Remove this useless assignment to local variable "s".(„‰ß·
+Msquid:S1854’"5Remove this useless assignment to local variable "b".(É‘˜
+Rsquid:S1854‘"5Remove this useless assignment to local variable "c".(İ£ÜÛüÿÿÿÿ
+Rsquid:S1854ï"5Remove this useless assignment to local variable "x".(„£°×úÿÿÿÿ
+Rsquid:S1854î"5Remove this useless assignment to local variable "x".(º´ªËüÿÿÿÿ
+=squid:S1481e"&Remove this unused "b" local variable.(É‘˜
+=squid:S1481f"&Remove this unused "s" local variable.(„‰ß·
+Bsquid:S1481g"&Remove this unused "i" local variable.(ºõÓ¿ÿÿÿÿÿ
+=squid:S1481h"&Remove this unused "l" local variable.(†Í°„
+=squid:S1481i"&Remove this unused "f" local variable.(…»ç
+=squid:S1481j"&Remove this unused "d" local variable.(Ùõ¡Æ
+Csquid:S1481—"&Remove this unused "c" local variable.(İ£ÜÛüÿÿÿÿ
+>squid:S1481˜"&Remove this unused "s" local variable.(„‰ß·
+Csquid:S1481™"&Remove this unused "i" local variable.(ºõÓ¿ÿÿÿÿÿ
+>squid:S1481š"&Remove this unused "l" local variable.(†Í°„
+>squid:S1481›"&Remove this unused "f" local variable.(…»ç
+>squid:S1481œ"&Remove this unused "d" local variable.(Ùõ¡Æ
+Csquid:S1481É"&Remove this unused "c" local variable.(İ£ÜÛüÿÿÿÿ
+>squid:S1481Ê"&Remove this unused "b" local variable.(É‘˜
+Csquid:S1481Ë"&Remove this unused "i" local variable.(ºõÓ¿ÿÿÿÿÿ
+>squid:S1481Ì"&Remove this unused "l" local variable.(†Í°„
+>squid:S1481Í"&Remove this unused "f" local variable.(…»ç
+>squid:S1481Î"&Remove this unused "d" local variable.(Ùõ¡Æ
+Csquid:S1481û"&Remove this unused "c" local variable.(İ£ÜÛüÿÿÿÿ
+>squid:S1481ü"&Remove this unused "b" local variable.(É‘˜
+>squid:S1481ı"&Remove this unused "s" local variable.(„‰ß·
+>squid:S1481ş"&Remove this unused "l" local variable.(†Í°„
+>squid:S1481ÿ"&Remove this unused "f" local variable.(…»ç
+>squid:S1481€"&Remove this unused "d" local variable.(Ùõ¡Æ
+Csquid:S1481­"&Remove this unused "c" local variable.(İ£ÜÛüÿÿÿÿ
+>squid:S1481®"&Remove this unused "b" local variable.(É‘˜
+>squid:S1481¯"&Remove this unused "s" local variable.(„‰ß·
+Csquid:S1481°"&Remove this unused "i" local variable.(ºõÓ¿ÿÿÿÿÿ
+>squid:S1481±"&Remove this unused "f" local variable.(…»ç
+>squid:S1481²"&Remove this unused "d" local variable.(Ùõ¡Æ
+Csquid:S1481ß"&Remove this unused "c" local variable.(İ£ÜÛüÿÿÿÿ
+>squid:S1481à"&Remove this unused "b" local variable.(É‘˜
+>squid:S1481á"&Remove this unused "s" local variable.(„‰ß·
+Csquid:S1481â"&Remove this unused "i" local variable.(ºõÓ¿ÿÿÿÿÿ
+>squid:S1481ã"&Remove this unused "l" local variable.(†Í°„
+>squid:S1481ä"&Remove this unused "d" local variable.(Ùõ¡Æ
+Csquid:S1481‘"&Remove this unused "c" local variable.(İ£ÜÛüÿÿÿÿ
+>squid:S1481’"&Remove this unused "b" local variable.(É‘˜
+>squid:S1481“"&Remove this unused "s" local variable.(„‰ß·
+Csquid:S1481”"&Remove this unused "i" local variable.(ºõÓ¿ÿÿÿÿÿ
+>squid:S1481•"&Remove this unused "l" local variable.(†Í°„
+>squid:S1481–"&Remove this unused "f" local variable.(…»ç
+bsquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(°ã§ı
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ï€‹“ÿÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“àûşÿÿÿÿ
+gsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(‡ƒ†êúÿÿÿÿ
+gsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(¶ ó©şÿÿÿÿ
+gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(‘àú¢şÿÿÿÿ
+bsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(å€«¹
+bsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(ƒä‘İ
+bsquid:CommentedOutCodeLine~"<This block of commented-out lines of code should be removed.(å€«¹
+csquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(ƒä‘İ
+csquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(å€«¹
+csquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(ƒä‘İ
+csquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(å€«¹
+csquid:CommentedOutCodeLineú"<This block of commented-out lines of code should be removed.(ƒä‘İ
+csquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(å€«¹
+csquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(ƒä‘İ
+csquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(å€«¹
+hsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(“àûşÿÿÿÿ
+hsquid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(Ÿİò»ÿÿÿÿÿ
+csquid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(ƒä‘İ
+csquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(å€«¹
+hsquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(“àûşÿÿÿÿ
+hsquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(Ÿİò»ÿÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒä‘İ

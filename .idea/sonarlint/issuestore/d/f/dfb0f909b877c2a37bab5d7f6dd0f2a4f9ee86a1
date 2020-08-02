@@ -1,0 +1,63 @@
+
+dsquid:S1192"HDefine a constant instead of duplicating this literal "s: %s\n" 6 times.(Ø®Ó¦ıÿÿÿÿ
+dsquid:S1192"HDefine a constant instead of duplicating this literal "b: %b\n" 6 times.(šæøÿÿÿÿ
+dsquid:S1192"HDefine a constant instead of duplicating this literal "h: %h\n" 6 times.(Ù¢óÿÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ’ò¦
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶ªœÒ
+T
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(×®Áüÿÿÿÿ
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ø®Ó¦ıÿÿÿÿ
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ıª¡øûÿÿÿÿ
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(šæøÿÿÿÿ
+>squid:S3457""Directly inject the boolean value.(šæøÿÿÿÿ
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ù¢óÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍÁ‹üÿÿÿÿ
+hsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¬õ½¢
+hsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ö‰š•
+hsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¢—°Í
+9squid:S3457""Directly inject the boolean value.(¢—°Í
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Í¨Â©üÿÿÿÿ
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¸¬†ıÿÿÿÿ
+hsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÕœÛ©
+@squid:S2129"$Remove this "BigInteger" constructor(—´‘õùÿÿÿÿ
+O
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÆÀûı
+msquid:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(ÚĞ«ûşÿÿÿÿ
+msquid:S3457$"Q%n should be used in place of \n to produce the platform-specific line separator.(­·™Àûÿÿÿÿ
+>squid:S3457$""Directly inject the boolean value.(­·™Àûÿÿÿÿ
+hsquid:S3457%"Q%n should be used in place of \n to produce the platform-specific line separator.(ƒä™
+hsquid:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(ò  ¦
+msquid:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(«´¢ìıÿÿÿÿ
+T
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ƒ€Æİÿÿÿÿÿ
+hsquid:S3457/"Q%n should be used in place of \n to produce the platform-specific line separator.(Ï“Şñ
+9squid:S3457/""Directly inject the boolean value.(Ï“Şñ
+msquid:S34570"Q%n should be used in place of \n to produce the platform-specific line separator.(¥å¨†úÿÿÿÿ
+hsquid:S34571"Q%n should be used in place of \n to produce the platform-specific line separator.(µ§…Î
+hsquid:S34572"Q%n should be used in place of \n to produce the platform-specific line separator.(Ú¸İ”
+msquid:S34574"Q%n should be used in place of \n to produce the platform-specific line separator.(È½õıÿÿÿÿ
+T
+squid:S1067"9Replace this use of System.out or System.err by a logger.(±Å±òşÿÿÿÿ
+hsquid:S3457:"Q%n should be used in place of \n to produce the platform-specific line separator.(äªó´
+9squid:S3457:""Directly inject the boolean value.(äªó´
+msquid:S3457;"Q%n should be used in place of \n to produce the platform-specific line separator.(éÂŒàûÿÿÿÿ
+msquid:S3457?"Q%n should be used in place of \n to produce the platform-specific line separator.(“Ò²›ıÿÿÿÿ
+T
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ê­ß¹üÿÿÿÿ
+hsquid:S3457E"Q%n should be used in place of \n to produce the platform-specific line separator.(äÿ”Â
+hsquid:S3457F"Q%n should be used in place of \n to produce the platform-specific line separator.(˜†ü¢
+gsquid:S3457J"Q%n should be used in place of \n to produce the platform-specific line separator.(½™§j
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—š¦è
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ğë¿óıÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Òæ¤Ôıÿÿÿÿ
+gsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(Î¹ëÙıÿÿÿÿ
+bsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(îßö„
+gsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(£¬Šüÿÿÿÿ
+gsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.( œÕ…ûÿÿÿÿ
+bsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(ö‚¿
+bsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(ëçŒ÷
+bsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(‚ì‰¤
+bsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(ŒÓìø

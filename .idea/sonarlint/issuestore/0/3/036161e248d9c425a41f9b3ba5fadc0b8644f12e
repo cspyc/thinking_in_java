@@ -1,0 +1,26 @@
+
+Dsquid:S1604"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
+?squid:S16048"(Make this anonymous inner class a lambda(ğÁËî
+Dsquid:S1604C"(Make this anonymous inner class a lambda(úàáùÿÿÿÿ
+Dsquid:S1604I"(Make this anonymous inner class a lambda(½øö—ûÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹¨º
+jsquid:MaximumInheritanceDepth0"<This class has 6 parents which is greater than 5 authorized.(ô²Î ÿÿÿÿÿ
+=squid:S1170"!Make this final field static too.(ñÀ‚îıÿÿÿÿ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ù÷Àêÿÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(í™ÿ¢
+]squid:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+N
+squid:S106'"9Replace this use of System.out or System.err by a logger.(§÷ï`
+T
+squid:S106*"9Replace this use of System.out or System.err by a logger.(¹°…ßıÿÿÿÿ
+Ksquid:EmptyStatementUsageCheck."Remove this empty statement.(ôŸìúÿÿÿÿ
+<squid:S16593" Declare "b2" on a separate line.(é™Ñ€ÿÿÿÿÿ
+7squid:S16594" Declare "b3" on a separate line.(ëƒ±ñ
+usquid:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(üæ·®ûÿÿÿÿ
+O
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ÛÃ¿Ç
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+T
+squid:S106L"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ

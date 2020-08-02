@@ -1,0 +1,10 @@
+
+gsquid:S1301<"KReplace this "switch" statement by "if" statements to increase readability.(¿á ûıÿÿÿÿ
+bsquid:S1301F"KReplace this "switch" statement by "if" statements to increase readability.(”‰Áå
+asquid:S1301I"KReplace this "switch" statement by "if" statements to increase readability.(«›ái
+gsquid:S1301T"KReplace this "switch" statement by "if" statements to increase readability.(Üê£Ëşÿÿÿÿ
+asquid:S1301W"KReplace this "switch" statement by "if" statements to increase readability.(«›ái
+bsquid:S1301b"KReplace this "switch" statement by "if" statements to increase readability.(ş›§
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬‚ç¯
+dsquid:S2272."NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ÛŒÄ&
+Psquid:S1161/":Add the "@Override" annotation above this method signature(åÄ™

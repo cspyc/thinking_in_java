@@ -1,0 +1,16 @@
+
+\squid:S2184"ECast one of the operands of this subtraction operation to a "double".(¯Ã±¡
+esquid:S1192"IDefine a constant instead of duplicating this literal "temp.tmp" 6 times.(ËÄÌ£üÿÿÿÿ
+isquid:S2095="MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(öŒ ½şÿÿÿÿ
+jsquid:S2095"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(ĞÛ«øÿÿÿÿ
+dsquid:S20953"MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(Ø›Î»
+esquid:S2095'"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(Ê‘¡
+esquid:S2095U"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(‹ €‹
+jsquid:S2095I"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(¥Ú§¿øÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôìÓèıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(­½½»ÿÿÿÿÿ
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÿ¯¬·øÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ¯¬·øÿÿÿÿ

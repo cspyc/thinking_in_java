@@ -1,0 +1,11 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê˜ÿÓ
+Psquid:S3400"9Remove this method and declare a constant for this value.(Ã…ÈÅ
+Psquid:S3400	"9Remove this method and declare a constant for this value.(æÇÿ
+Usquid:S3400"9Remove this method and declare a constant for this value.(çÙËşÿÿÿÿ
+Vsquid:S1161":Add the "@Override" annotation above this method signature(²±Ïªúÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦Ê­şÿÿÿÿ
+Qsquid:S2209"5Change this instance-reference to a static reference.(¦Ê­şÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(îÃ·õ

@@ -1,0 +1,13 @@
+
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8óÍ‚‹.
+Wsquid:S1118!":Add a private constructor to hide the implicit public one.(ÿ€ş
+8óÍ‚‹.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ë‚8”îŠ‹.
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8óÍ‚‹.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïşÿ•ûÿÿÿÿ8•‹.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ä©‡l8•‹.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãŞË‘8•‹.
