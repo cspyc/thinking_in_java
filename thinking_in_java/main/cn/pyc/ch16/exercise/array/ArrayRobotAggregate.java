@@ -1,6 +1,5 @@
 package cn.pyc.ch16.exercise.array;
 
-import com.sun.jndi.ldap.Ber;
 
 public class ArrayRobotAggregate extends ArrayRobot {
 

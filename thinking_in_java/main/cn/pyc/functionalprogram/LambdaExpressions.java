@@ -1,7 +1,5 @@
 package cn.pyc.functionalprogram;
 
-import sun.security.krb5.internal.crypto.Des;
-
 interface Description {
     String brief();
 }
