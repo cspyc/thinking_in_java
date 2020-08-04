@@ -9,4 +9,5 @@ public class TestGerbil {
         GerbilList gerbilList = new GerbilList();
         Assert.assertEquals(2,gerbilList.getGerbilList().size());
     }
+
 }
