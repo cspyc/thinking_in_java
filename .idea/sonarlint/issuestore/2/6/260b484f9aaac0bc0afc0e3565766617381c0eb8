@@ -1,28 +1,0 @@
-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±³˜Íûÿÿÿÿ
-O
-squid:S106 "9Replace this use of System.out or System.err by a logger.(õ¯ğå
-O
-squid:S106("9Replace this use of System.out or System.err by a logger.(ÀÆİµ
-O
-squid:S106/"9Replace this use of System.out or System.err by a logger.(É˜½
-T
-squid:S1066"9Replace this use of System.out or System.err by a logger.(…†øÿÿÿÿ
-O
-squid:S106="9Replace this use of System.out or System.err by a logger.(ßÿ˜÷
-O
-squid:S106D"9Replace this use of System.out or System.err by a logger.(´„Ä«
-O
-squid:S106I"9Replace this use of System.out or System.err by a logger.(şš³ú
-N
-squid:S106M"9Replace this use of System.out or System.err by a logger.(ÎˆÖ
-Qsquid:S1161R":Add the "@Override" annotation above this method signature(“–ış
-O
-squid:S106T"9Replace this use of System.out or System.err by a logger.(¯ô¢ô
-psquid:S1171k"YMove the contents of this initializer to a standard constructor or to field initializers.(œç˜Û
-T
-squid:S106x"9Replace this use of System.out or System.err by a logger.(º¹Î¹ûÿÿÿÿ
-@squid:S1068	")Remove this unused "light" private field.(óÖåÚ
-?squid:S1068
-")Remove this unused "water" private field.(Ä­«9
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(šÅ•éÿÿÿÿÿ

@@ -1,5 +1,0 @@
-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß »–
-8squid:S1170"!Make this final field static too.(»¡øç
-^squid:S2094"BRemove this empty class, write its code or make it an "interface".(Àµ×Àýÿÿÿÿ
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ë£¡Õ

@@ -1,9 +1,0 @@
-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹Ü™ıÿÿÿÿ
-Ssquid:S1854"7Remove this useless assignment to local variable "obj".(ĞËÆÊøÿÿÿÿ
-Ssquid:S1854	"<Remove this useless assignment to local variable "fancyToy".(‰ŠõÖ
-[squid:CallToDeprecatedMethod	"3Remove this use of "newInstance"; it is deprecated.(‰ŠõÖ
-`squid:CallToDeprecatedMethod"3Remove this use of "newInstance"; it is deprecated.(ĞËÆÊøÿÿÿÿ
-Dsquid:S1481	"-Remove this unused "fancyToy" local variable.(‰ŠõÖ
-Dsquid:S1481"(Remove this unused "obj" local variable.(ĞËÆÊøÿÿÿÿ
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»¿ƒ”

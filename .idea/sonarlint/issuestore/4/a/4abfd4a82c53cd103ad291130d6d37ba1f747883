@@ -1,10 +1,0 @@
-
-@squid:S2111–"!Use "BigDecimal.valueOf" instead.(¿‹ê„8ÿ¤Í”.
-`squid:S2259©"AA "NullPointerException" could be thrown; "rbi" is nullable here.(ÜİÁº8ÿ¤Í”.
-psquid:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(«ºüÉ
-@squid:S2111•"!Use "BigDecimal.valueOf" instead.(ĞìŠ‰8ˆ”Í”.
-@squid:S2111•"!Use "BigDecimal.valueOf" instead.(ĞìŠ‰8ˆ”Í”.
-psquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÔËÃ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥Ú¨¾
-@squid:S2111–"!Use "BigDecimal.valueOf" instead.(¿‹ê„8ÿ¤Í”.
-xsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÒ†û8ÿ¤Í”.

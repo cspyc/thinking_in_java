@@ -1,18 +1,0 @@
-
-ˆsquid:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(”«Ùª
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À›½÷üÿÿÿÿ
-usquid:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ÃÖ¶ûÿÿÿÿ
-psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…âô
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôé´­ıÿÿÿÿ
-psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù»”Õ
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôé´­ıÿÿÿÿ
-Rsquid:S1854"6Remove this useless assignment to local variable "qs".(¦ÉË½øÿÿÿÿ
-Msquid:S1854"6Remove this useless assignment to local variable "ss".(¸Ú²Ç
-Nsquid:S1854"7Remove this useless assignment to local variable "lls".(êÃ‘—
-Msquid:S1854"6Remove this useless assignment to local variable "ls".(ë¥Åš
-Ssquid:S1854"7Remove this useless assignment to local variable "sls".(²”ø¹üÿÿÿÿ
-Dsquid:S1481"(Remove this unused "sls" local variable.(²”ø¹üÿÿÿÿ
->squid:S1481"'Remove this unused "ls" local variable.(ë¥Åš
-?squid:S1481"(Remove this unused "lls" local variable.(êÃ‘—
->squid:S1481"'Remove this unused "ss" local variable.(¸Ú²Ç
-Csquid:S1481"'Remove this unused "qs" local variable.(¦ÉË½øÿÿÿÿ

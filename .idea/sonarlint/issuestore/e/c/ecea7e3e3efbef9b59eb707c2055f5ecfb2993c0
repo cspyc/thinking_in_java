@@ -1,8 +1,0 @@
-
-?squid:S1604'"(Make this anonymous inner class a lambda(ÀÎ“ó
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ô¸¾úÿÿÿÿ
-]squid:S21420"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-`squid:S21472"DCombine this catch with the one at line 48, which has the same body.(Â«Ú–şÿÿÿÿ
-Fsquid:S00108)")Either remove or fill this block of code.(î—ùÃûÿÿÿÿ
-\squid:CallToDeprecatedMethodK"/Remove this use of "Integer"; it is deprecated.(œÌ‚üÿÿÿÿ
-\squid:CallToDeprecatedMethodM"/Remove this use of "Integer"; it is deprecated.(µò¶ïşÿÿÿÿ

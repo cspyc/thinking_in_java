@@ -1,11 +1,0 @@
-
-csquid:S1192"GDefine a constant instead of duplicating this literal "-?\\d+" 3 times.(ü›Êãûÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñÖ¼İşÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ü›Êãûÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ˆË¯´ûÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(Œóş
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ô­Àşÿÿÿÿ

@@ -1,6 +1,0 @@
-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ‚™λ
-Tsquid:S1854"8Remove this useless assignment to local variable "vals".(›Έ‡½ϊÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¤Μπ όÿÿÿÿ
-Esquid:S1481")Remove this unused "vals" local variable.(›Έ‡½ϊÿÿÿÿ

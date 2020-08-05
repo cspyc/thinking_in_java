@@ -1,18 +1,0 @@
-
-Vsquid:S1161":Add the "@Override" annotation above this method signature(ØÃÃ†ıÿÿÿÿ
-psquid:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ÖÈ»
-T
-squid:S106""9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ
-bsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(ÑÂ 
-Hsquid:S2387"1"values" is the name of a field in "AbstractMap".(˜üÈ
-Gsquid:S2160"+Override the "equals" method in this class.(„ˆ¢øúÿÿÿÿ
-O
-squid:S106#"9Replace this use of System.out or System.err by a logger.(½å”ı
-`squid:S3973"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
-psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜üÈ
-T
-squid:S106$"9Replace this use of System.out or System.err by a logger.(÷˜Ëÿÿÿÿÿ
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŞŠìÊûÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şî½¸øÿÿÿÿ
-psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïÚ”ê
-Qsquid:S1161	":Add the "@Override" annotation above this method signature(µ„Ô›

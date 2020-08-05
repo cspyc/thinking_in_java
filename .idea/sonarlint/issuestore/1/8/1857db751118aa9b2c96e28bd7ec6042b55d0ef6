@@ -1,22 +1,0 @@
-
-cpython:S1192n"FDefine a constant instead of duplicating this literal ".java" 3 times.(–ü»èÿÿÿÿÿ
-Lpython:S1066B"/Merge this if statement with the enclosing one.(—È—ıüÿÿÿÿ
-Gpython:S1066g"/Merge this if statement with the enclosing one.(Ì…²Ğ
-Gpython:S1066~"/Merge this if statement with the enclosing one.(Œ³•ş
-lpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(õêœ¬
-opython:S117"XRename this parameter "changeReport" to match the regular expression ^[_a-z][a-z0-9_]*$.(õêœ¬
-kpython:S117"TRename this parameter "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(õêœ¬
-mpython:S117"WRename this local variable "oldDir" to match the regular expression ^[_a-z][a-z0-9_]*$.(®™x
-zpython:S1171"^Rename this local variable "processedText" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼ Ğ–ûÿÿÿÿ
-wpython:S1542"_Rename function "makeOutputIncludedFile" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õêœ¬
-Xpython:PrintStatementUsage&"-Replace print statement by built-in function.(ÓÓÀøÿÿÿÿ
-Xpython:PrintStatementUsage8"-Replace print statement by built-in function.(ÓÓÀøÿÿÿÿ
-ppython:S117I"TRename this parameter "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(èÚÉ‹ÿÿÿÿÿ
-upython:S117J"^Rename this local variable "processedJava" to match the regular expression ^[_a-z][a-z0-9_]*$.(”î²ö
-}python:S1542I"`Rename function "createProcessedJavaText" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(èÚÉ‹ÿÿÿÿÿ
-lpython:S116W"PRename this field "filePath" to match the regular expression ^[_a-z][_a-z0-9]*$.(®şŸåÿÿÿÿÿ
-jpython:S117V"TRename this parameter "filePath" to match the regular expression ^[_a-z][a-z0-9_]*$.(„å±c
-Spython:PrintStatementUsage]"-Replace print statement by built-in function.(æ·Éº
-Xpython:PrintStatementUsagei"-Replace print statement by built-in function.(¦èÎüÿÿÿÿ
-Xpython:PrintStatementUsagev"-Replace print statement by built-in function.(­Ëœ¥ûÿÿÿÿ
-Xpython:PrintStatementUsage"-Replace print statement by built-in function.(í¶€úÿÿÿÿ

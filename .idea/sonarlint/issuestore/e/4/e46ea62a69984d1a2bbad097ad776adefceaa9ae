@@ -1,7 +1,0 @@
-
-esquid:S1192"IDefine a constant instead of duplicating this literal ".play() " 3 times.(•¦éáûÿÿÿÿ
-`squid:S1192"JDefine a constant instead of duplicating this literal ".adjust()" 3 times.(¿É¼f
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ž€¶ùÿÿÿÿ
->squid:S1214""Move constants to a class or enum.(Û‚®µþÿÿÿÿ
-Vsquid:S1161(":Add the "@Override" annotation above this method signature(­ºÙ¯ûÿÿÿÿ
-Vsquid:S1161,":Add the "@Override" annotation above this method signature(øÕ¥´ûÿÿÿÿ

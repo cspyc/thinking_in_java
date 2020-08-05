@@ -1,16 +1,0 @@
-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶óù¬ùÿÿÿÿ
-Rsquid:S1854"6Remove this useless assignment to local variable "sm".(š–ï´ÿÿÿÿÿ
-Lsquid:S1854"5Remove this useless assignment to local variable "m".(©·º
-Rsquid:S1854"6Remove this useless assignment to local variable "ss".(ÇúÛéüÿÿÿÿ
-Qsquid:S1854"5Remove this useless assignment to local variable "s".(†…âÄüÿÿÿÿ
-Tsquid:S1854
-"8Remove this useless assignment to local variable "list".(š³»‘ûÿÿÿÿ
-Lsquid:S1854"5Remove this useless assignment to local variable "c".(Ğ€š
-=squid:S1481"&Remove this unused "c" local variable.(Ğ€š
-Esquid:S1481
-")Remove this unused "list" local variable.(š³»‘ûÿÿÿÿ
-Bsquid:S1481"&Remove this unused "s" local variable.(†…âÄüÿÿÿÿ
-Csquid:S1481"'Remove this unused "ss" local variable.(ÇúÛéüÿÿÿÿ
-=squid:S1481"&Remove this unused "m" local variable.(©·º
-Csquid:S1481"'Remove this unused "sm" local variable.(š–ï´ÿÿÿÿÿ

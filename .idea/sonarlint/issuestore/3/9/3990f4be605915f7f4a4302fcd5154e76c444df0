@@ -1,13 +1,0 @@
-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ›±Ï
-Vsquid:S1161":Add the "@Override" annotation above this method signature(Ÿ®‹—ùÿÿÿÿ
-Vsquid:S1161":Add the "@Override" annotation above this method signature(»õÿùÿÿÿÿ
-=squid:S1170"!Make this final field static too.(ãŞ¢éùÿÿÿÿ
-Msquid:S1854)"6Remove this useless assignment to local variable "s2".(„Üî®
-Qsquid:S1854("5Remove this useless assignment to local variable "s".(€ìÙÜÿÿÿÿÿ
-Rsquid:S1854%"6Remove this useless assignment to local variable "t2".(Şïª÷øÿÿÿÿ
-Qsquid:S1854$"5Remove this useless assignment to local variable "t".(‚€¨Óúÿÿÿÿ
-Bsquid:S1481$"&Remove this unused "t" local variable.(‚€¨Óúÿÿÿÿ
-Csquid:S1481%"'Remove this unused "t2" local variable.(Şïª÷øÿÿÿÿ
-Bsquid:S1481("&Remove this unused "s" local variable.(€ìÙÜÿÿÿÿÿ
->squid:S1481)"'Remove this unused "s2" local variable.(„Üî®

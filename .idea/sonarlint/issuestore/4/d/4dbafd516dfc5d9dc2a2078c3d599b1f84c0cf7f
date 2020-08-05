@@ -1,11 +1,0 @@
-
-hsquid:S1192"QDefine a constant instead of duplicating this literal "%-15s %5s %10s\n" 3 times.(‚Äµ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜³Ş¿ÿÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÎÉÎÿÿÿÿÿ
-hsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‚Äµ
-hsquid:S3457	"Q%n should be used in place of \n to produce the platform-specific line separator.(”õÓÎ
-hsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ëëÈ
-msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Öàµıÿÿÿÿ
-msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Í´üıÿÿÿÿ
-hsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ó‹ö

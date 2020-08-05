@@ -1,4 +1,0 @@
-
-Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(¼´ë¾ÿÿÿÿÿ8¡åâÖ‹.
-bsquid:UselessImportCheck"2Remove this unused import 'com.sun.jndi.ldap.Ber'.(¼´ë¾ÿÿÿÿÿ8¡åâÖ‹.
-‹squid:S1488	"hImmediately return this expression instead of assigning it to the temporary variable "berylliumSpheres".(‚‹Îøÿÿÿÿ8‡àòÖ‹.

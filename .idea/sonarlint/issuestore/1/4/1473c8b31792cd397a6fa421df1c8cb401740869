@@ -1,11 +1,0 @@
-
-^squid:S1192."GDefine a constant instead of duplicating this literal "rotate" 5 times.(ô¸—
-csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
-csquid:S00112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹±›ë
-Psquid:S1118":Add a private constructor to hide the implicit public one.(½Å¦
-[squid:CallToDeprecatedMethod""3Remove this use of "newInstance"; it is deprecated.(ÜÌş™
-psquid:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(–±õ”
-psquid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(É†ÊÓ
-psquid:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(÷‰ö„
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷‹¢şÿÿÿÿ

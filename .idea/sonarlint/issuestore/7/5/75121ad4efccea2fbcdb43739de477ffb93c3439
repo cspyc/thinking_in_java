@@ -1,6 +1,0 @@
-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îì™¹
-@squid:S1125!")Remove the literal "false" boolean value.(å…Áç
-Dsquid:S1125*"(Remove the literal "true" boolean value.(©şÊøÿÿÿÿ
-]squid:S2142="FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-]squid:S2142O"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

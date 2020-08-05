@@ -1,11 +1,0 @@
-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À›½÷üÿÿÿÿ
-4squid:S2386"Make this member "protected".(ò±£¦
-/squid:S2176ˆ"Rename this class.(ŸöÈüşÿÿÿÿ
-Csquid:S2160™"+Override the "equals" method in this class.(ÿó™Í
-ksquid:S2272­"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(¢£áıÿÿÿÿ
-Wsquid:S1161±":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ
-Wsquid:S1161Ã":Add the "@Override" annotation above this method signature(¶µıöøÿÿÿÿ
-qsquid:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¸Ş­
-vsquid:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(µøıñÿÿÿÿÿ
-hsquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(´íÕûÿÿÿÿ

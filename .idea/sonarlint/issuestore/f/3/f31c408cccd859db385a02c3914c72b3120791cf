@@ -1,22 +1,0 @@
-
-Lsquid:S1444"0Make this "public static fieldWidth" field final(„Ä”ùÿÿÿÿ
-Osquid:S1444"3Make this "public static defaultParams" field final(ö¨½ùøÿÿÿÿ
-‰"squid:ClassVariableVisibilityCheck"VMake fieldWidth a static final constant or non-public and provide accessors if needed.(„Ä”ùÿÿÿÿ
-Œ"squid:ClassVariableVisibilityCheck"YMake defaultParams a static final constant or non-public and provide accessors if needed.(ö¨½ùøÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰£ˆÔþÿÿÿÿ
-Bsquid:S1172
-"+Remove this unused method parameter "size".(Œ³‰²
-O
-squid:S1069"9Replace this use of System.out or System.err by a logger.(Š›ôù
-T
-squid:S106;"9Replace this use of System.out or System.err by a logger.(Ø¬î»þÿÿÿÿ
-O
-squid:S106="9Replace this use of System.out or System.err by a logger.(©„ë®
-T
-squid:S106>"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
-T
-squid:S106D"9Replace this use of System.out or System.err by a logger.(çÜÓšýÿÿÿÿ
-O
-squid:S106L"9Replace this use of System.out or System.err by a logger.(˜Öå±
-T
-squid:S106N"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ

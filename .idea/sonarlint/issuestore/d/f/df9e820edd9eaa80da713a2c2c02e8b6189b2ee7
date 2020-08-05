@@ -1,31 +1,0 @@
-
-Asquid:S1444"*Make this "public static rand" field final(¾ìì
-~"squid:ClassVariableVisibilityCheck"PMake rand a static final constant or non-public and provide accessors if needed.(¾ìì
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Êœß
-Qsquid:S1118":Add a private constructor to hide the implicit public one.(ïŠÇ¤
-wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íä°ÿÿÿÿÿ
-wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(«ûÿØøÿÿÿÿ
-T
-squid:S106	"9Replace this use of System.out or System.err by a logger.(¯Æ£ÿÿÿÿÿ
-Qsquid:S1118":Add a private constructor to hide the implicit public one.(§ šÒ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(š“™°
-Qsquid:S1118":Add a private constructor to hide the implicit public one.(¥±ğş
-N
-squid:S106"9Replace this use of System.out or System.err by a logger.(æ¬¶\
-Ysquid:S1854&"=Remove this useless assignment to local variable "initable3".(÷³»¬ûÿÿÿÿ
-Ssquid:S1854"<Remove this useless assignment to local variable "initable".(ˆèÀ¾
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(âÿ­èøÿÿÿÿ
-T
-squid:S106!"9Replace this use of System.out or System.err by a logger.(€İŞşüÿÿÿÿ
-T
-squid:S106#"9Replace this use of System.out or System.err by a logger.(¥­Ú»úÿÿÿÿ
-O
-squid:S106%"9Replace this use of System.out or System.err by a logger.(æğ¿ü
-O
-squid:S106'"9Replace this use of System.out or System.err by a logger.(›Ã˜…
-T
-squid:S106("9Replace this use of System.out or System.err by a logger.(½˜øÿÿÿÿ
-Dsquid:S1481"-Remove this unused "initable" local variable.(ˆèÀ¾
-Jsquid:S1481&".Remove this unused "initable3" local variable.(÷³»¬ûÿÿÿÿ

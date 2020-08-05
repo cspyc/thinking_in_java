@@ -1,12 +1,0 @@
-
-Dsquid:S1604	"(Make this anonymous inner class a lambda(ÇÜ¸Ðøÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ƒÛ³
-esquid:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(µ³¾¸
-Psquid:S1161":Add the "@Override" annotation above this method signature(åÄ™
-psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(òø¢ç
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÐÌûý
-T
-squid:S106 "9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
-O
-squid:S106#"9Replace this use of System.out or System.err by a logger.(ÐÌûý

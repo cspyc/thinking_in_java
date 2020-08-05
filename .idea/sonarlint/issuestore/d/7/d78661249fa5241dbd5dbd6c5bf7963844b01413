@@ -1,9 +1,0 @@
-
-^squid:S001120"FDefine and throw a dedicated exception instead of using a generic one.(ŠÊÖ
-csquid:S00112;"FDefine and throw a dedicated exception instead of using a generic one.(×¡ûÊÿÿÿÿÿ
-^squid:S00112H"FDefine and throw a dedicated exception instead of using a generic one.(ŠÊÖ
-csquid:S00112U"FDefine and throw a dedicated exception instead of using a generic one.(×¡ûÊÿÿÿÿÿ
-rsquid:S00120	"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦Øß
-jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ÍÍ¿»ÿÿÿÿÿ
-9squid:S1659""Declare "save" on a separate line.(¬ÀŞû
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Åûéˆùÿÿÿÿ

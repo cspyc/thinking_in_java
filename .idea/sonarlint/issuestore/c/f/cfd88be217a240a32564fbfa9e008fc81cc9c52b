@@ -1,10 +1,0 @@
-
-Csquid:S2129!" Remove this "Double" constructor(¨ĞúËıÿÿÿÿ8í­ŒŒ.
-bsquid:CallToDeprecatedMethod!".Remove this use of "Double"; it is deprecated.(¨ĞúËıÿÿÿÿ8í­ŒŒ.
-^squid:CallToDeprecatedMethod "/Remove this use of "Integer"; it is deprecated.(Ã°»í8ÖŠŒ.
-?squid:S2129 "!Remove this "Integer" constructor(Ã°»í8ÖŠŒ.
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­ü€´8ñ‰¯‹.
-V
-squid:S106$"9Replace this use of System.out or System.err by a logger.(€Ø¸›8í­ŒŒ.
-wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÃá8Íö¶‹.
->squid:S2129" Remove this "String" constructor(ÃŞÕâ8ÖŠŒ.

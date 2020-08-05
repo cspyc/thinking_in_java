@@ -1,23 +1,0 @@
-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(∏ﬁﬁ˙˘ˇˇˇˇ
-osquid:S1450!"SRemove the "dRef" field and declare it as a local variable in the relevant methods.(ºÆ•ˇˇˇˇˇ
-òsquid:S1186	"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ﬂÕ≠
-@squid:S3985")Remove this unused private "BImp2" class.(¢‰«µ
-òsquid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ﬂÕ≠
-òsquid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ﬂÕ≠
-@squid:S3985")Remove this unused private "CImp2" class.(ŸÓ≠–
-òsquid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ﬂÕ≠
->squid:S3985"(Remove this unused private "DImp" class.(åÔﬁ!
-òsquid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ﬂÕ≠
-òsquid:S1186"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ﬂÕ≠
-òsquid:S11867"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ﬂÕ≠
-òsquid:S1186:"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ﬂÕ≠
-òsquid:S1186B"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(∏√Ó≈
-òsquid:S1186E"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ﬂÕ≠
-òsquid:S1186H"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(∏√Ó≈
-òsquid:S1186J"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰ﬂÕ≠
-gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(ÙœÍˆ˚ˇˇˇˇ
-bsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(ﬂﬂÙ±
-gsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(í•ë„˛ˇˇˇˇ
-bsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(áû∂è
-bsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(∂Âå¯

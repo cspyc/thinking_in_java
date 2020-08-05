@@ -1,9 +1,0 @@
-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛÇÄÏüÿÿÿÿ
-Ysquid:S2094"BRemove this empty class, write its code or make it an "interface".(… ›ó
-Psquid:S1854"9Remove this useless assignment to local variable "snow4".(¹È¥¢
-Usquid:S1854"9Remove this useless assignment to local variable "snow1".(Øð›ªüÿÿÿÿ
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ïê‹úÿÿÿÿ
-Fsquid:S1481"*Remove this unused "snow1" local variable.(Øð›ªüÿÿÿÿ
-Asquid:S1481"*Remove this unused "snow4" local variable.(¹È¥¢
-asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŸåÎs

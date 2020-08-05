@@ -1,8 +1,0 @@
-
-xsquid:S4165"aRemove this useless assignment; "lng" already holds the assigned value along all execution paths.(½˜Šð
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åŠ›ô
-Qsquid:S1854"5Remove this useless assignment to local variable "i".(¬àÂ–üÿÿÿÿ
-Osquid:S1854"8Remove this useless assignment to local variable "lng2".(‰„Ýš
-Nsquid:S1854"7Remove this useless assignment to local variable "lng".(½˜Šð
-Ssquid:S1854"7Remove this useless assignment to local variable "lng".(ší®Ïùÿÿÿÿ
-Dsquid:S1481"(Remove this unused "lng" local variable.(ší®Ïùÿÿÿÿ

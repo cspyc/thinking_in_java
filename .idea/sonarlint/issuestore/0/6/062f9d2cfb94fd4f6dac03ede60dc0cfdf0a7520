@@ -1,18 +1,0 @@
-
-gsquid:S2095V"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(øŠšù
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âò§
->squid:S1659""Declare "BLUE" on a separate line.(Ë¯¿úÿÿÿÿ
-?squid:S1659"#Declare "GREEN" on a separate line.(Ë¯¿úÿÿÿÿ
->squid:S1659""Declare "yPos" on a separate line.(¥¬ßûÿÿÿÿ
-Csquid:S1659"'Declare "dimension" on a separate line.(¥¬ßûÿÿÿÿ
-Rsquid:S2696)"6Make the enclosing method "static" or remove this set.(°­‹Ìÿÿÿÿÿ
->squid:S30101""Remove this assignment of "color".(üıÑ„øÿÿÿÿ
-Rsquid:S26963"6Make the enclosing method "static" or remove this set.(°­‹Ìÿÿÿÿÿ
-Rsquid:S2696B"6Make the enclosing method "static" or remove this set.(°­‹Ìÿÿÿÿÿ
-usquid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğìØÓÿÿÿÿÿ
-psquid:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(–±õ”
-?squid:S1905T"(Remove this unnecessary cast to "Shape".(¡€÷
-Xsquid:S2118X"AMake the "java.util.List" class "Serializable" or don't write it.(Û¢öŞ
-Wsquid:S2118Z"AMake the "java.util.List" class "Serializable" or don't write it.(šµî~
-T
-squid:S106\"9Replace this use of System.out or System.err by a logger.(ÖÔ˜éüÿÿÿÿ

@@ -1,19 +1,0 @@
-
-fsquid:S1192"JDefine a constant instead of duplicating this literal "Some text" 3 times.(ÂÂ”¤úÿÿÿÿ
-fsquid:S1192"JDefine a constant instead of duplicating this literal "data2.txt" 6 times.(–òÑıÿÿÿÿ
-dsquid:S2095 "MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÿè£Ú
-esquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(‘ŠãÅ
-jsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(–òÑıÿÿÿÿ
-esquid:S2095&"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(‘ŠãÅ
-dsquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÿè£Ú
-dsquid:S2095,"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÿè£Ú
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù£ºíıÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ú·®Õøÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ûÏ™›
-Ssquid:S4719"<Replace charset name argument with StandardCharsets.UTF_16BE(ÓÍø€
-T
-squid:S106$"9Replace this use of System.out or System.err by a logger.(Ú·®Õøÿÿÿÿ
-T
-squid:S1060"9Replace this use of System.out or System.err by a logger.(Ú·®Õøÿÿÿÿ

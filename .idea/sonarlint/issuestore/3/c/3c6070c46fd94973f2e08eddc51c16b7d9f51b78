@@ -1,10 +1,0 @@
-
-Isquid:S1444"-Make this "public static factory" field final(Âÿô”ýÿÿÿÿ
-Isquid:S1444"-Make this "public static factory" field final(Âÿô”ýÿÿÿÿ
-†"squid:ClassVariableVisibilityCheck"SMake factory a static final constant or non-public and provide accessors if needed.(Âÿô”ýÿÿÿÿ
-†"squid:ClassVariableVisibilityCheck"SMake factory a static final constant or non-public and provide accessors if needed.(Âÿô”ýÿÿÿÿ
-Dsquid:S1604"(Make this anonymous inner class a lambda(Âÿô”ýÿÿÿÿ
-Dsquid:S1604"(Make this anonymous inner class a lambda(Âÿô”ýÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢Üð‰
-}squid:S1845"aRename field "MOVES" to prevent any misunderstanding/clash with field "moves" defined on line 10.(ë”ÀŸúÿÿÿÿ
-}squid:S1845"aRename field "MOVES" to prevent any misunderstanding/clash with field "moves" defined on line 23.(ï‚©éøÿÿÿÿ

@@ -1,8 +1,0 @@
-
-]squid:S1192"FDefine a constant instead of duplicating this literal "Guard" 3 times.(ä‘«‹
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥ÂÊ¦þÿÿÿÿ
-esquid:MaximumInheritanceDepth	"<This class has 6 parents which is greater than 5 authorized.(ï¶›¡
-;squid:S1659"Declare "m" on a separate line.(ËÌúùøÿÿÿÿ
-6squid:S1659"Declare "s" on a separate line.(ø®Î’
-Wsquid:HiddenFieldCheck*"5Rename "m" which hides the field declared at line 17.(«Ÿ¾Å
-\squid:HiddenFieldCheck4"5Rename "s" which hides the field declared at line 17.(›Ô»²ùÿÿÿÿ

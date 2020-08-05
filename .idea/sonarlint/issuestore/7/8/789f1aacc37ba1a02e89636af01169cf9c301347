@@ -1,18 +1,0 @@
-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºˆŞû
-Gsquid:S2160"+Override the "equals" method in this class.(Œó¡³øÿÿÿÿ
-Qsquid:S1161":Add the "@Override" annotation above this method signature(µ„Ô›
-;squid:S2676"Use the original value instead.(Ïøà£şÿÿÿÿ
-psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(âÅæı
-psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ†§
-Vsquid:S1161%":Add the "@Override" annotation above this method signature(É±»ûÿÿÿÿ
-;squid:S2676&"Use the original value instead.(Ïøà£şÿÿÿÿ
-psquid:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(ïÚ”ê
-usquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ¿¸›ùÿÿÿÿ
-T
-squid:S106:"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ
-O
-squid:S106;"9Replace this use of System.out or System.err by a logger.(—š÷¢
-T
-squid:S106<"9Replace this use of System.out or System.err by a logger.(÷˜Ëÿÿÿÿÿ
-gsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(˜İ”üÿÿÿÿ
