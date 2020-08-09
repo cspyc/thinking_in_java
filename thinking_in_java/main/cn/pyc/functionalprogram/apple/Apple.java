@@ -3,6 +3,9 @@ package cn.pyc.functionalprogram.apple;
 
 import cn.pyc.functionalprogram.apple.constants.Constants;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
+
 /**
  * @author pi
  */
@@ -40,5 +43,11 @@ public class Apple {
             result = true;
         }
         return result;
+    }
+    public static String processFile() throws Exception{
+        try(BufferedReader bufferedReader =
+                new BufferedReader(new FileReader("data.txt"))){
+            return bufferedReader.readLine();
+        }
     }
 }

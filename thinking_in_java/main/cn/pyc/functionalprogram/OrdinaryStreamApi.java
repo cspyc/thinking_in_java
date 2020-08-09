@@ -32,4 +32,18 @@ public class OrdinaryStreamApi {
                 .distinct()
                 .collect(Collectors.toList());
     }
+
+    public List<Integer[]> combineArrayAElementsAndArrayBElementsForNewArrays(Integer[] arrayA, Integer[] arrayB) {
+        return Arrays.asList(arrayA)
+                .stream()
+                .flatMap(i -> Arrays.asList(arrayB).stream().map(j -> new Integer[]{i, j}))
+                .collect(Collectors.toList());
+    }
+
+    public List<Integer[]> combineArrayAElementsAndArrayBElementsForNewArraysSumCanDividedBy3(Integer[] arrayA, Integer[] arrayB) {
+        return Arrays.asList(arrayA)
+                .stream()
+                .flatMap(i -> Arrays.asList(arrayB).stream().filter(j -> (i + j) % 3 == 0).map(j -> new Integer[]{i, j}))
+                .collect(Collectors.toList());
+    }
 }
