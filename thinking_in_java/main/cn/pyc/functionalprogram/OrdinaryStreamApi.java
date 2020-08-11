@@ -2,6 +2,7 @@ package cn.pyc.functionalprogram;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 /**
@@ -45,5 +46,13 @@ public class OrdinaryStreamApi {
                 .stream()
                 .flatMap(i -> Arrays.asList(arrayB).stream().filter(j -> (i + j) % 3 == 0).map(j -> new Integer[]{i, j}))
                 .collect(Collectors.toList());
+    }
+
+    public Integer calculateMaxNumber(Integer[] numbers) {
+        Optional<Integer> maxNumberObj =
+                Arrays.asList(numbers)
+                        .stream()
+                        .reduce(Integer::max);
+        return maxNumberObj.get();
     }
 }

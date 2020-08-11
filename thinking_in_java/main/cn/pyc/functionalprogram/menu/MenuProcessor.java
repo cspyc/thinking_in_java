@@ -2,6 +2,7 @@ package cn.pyc.functionalprogram.menu;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 /**
@@ -48,5 +49,21 @@ public class MenuProcessor {
                 .filter(dish -> !dish.isVegetarian())
                 .limit(2)
                 .collect(Collectors.toList());
+    }
+
+    public Integer countDishes() {
+        Optional<Integer> number =
+                menu.stream()
+                        .map(dish -> 1)
+                        .reduce(Integer::sum);
+        return number.get();
+    }
+
+    public Integer countDishesCalories() {
+        Optional<Integer> calories =
+                menu.stream()
+                        .map(Dish::getCalories)
+                        .reduce(Integer::sum);
+        return calories.get();
     }
 }

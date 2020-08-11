@@ -35,8 +35,23 @@ public class MenuProcessorTest {
     @Test
     public void should_return_first_two_meat_dishes() throws Exception {
         List<Dish> twoMeatDishes = menuProcessor.queryFirstTwoDishes();
-        Assert.assertEquals(2,twoMeatDishes.size());
-        Assert.assertEquals("pork",twoMeatDishes.get(0).getName());
-        Assert.assertEquals("beef",twoMeatDishes.get(twoMeatDishes.size()-1).getName());
+        Assert.assertEquals(2, twoMeatDishes.size());
+        Assert.assertEquals("pork", twoMeatDishes.get(0).getName());
+        Assert.assertEquals("beef", twoMeatDishes.get(twoMeatDishes.size() - 1).getName());
+    }
+
+    @Test
+    public void should_return_number_of_dishes() throws Exception {
+        Integer count = menuProcessor.countDishes();
+        Assert.assertEquals(9, count.intValue());
+    }
+
+    @Test
+    public void should_return_the_sum_of_calories() throws Exception {
+        Long begin = System.currentTimeMillis();
+        Integer calories = menuProcessor.countDishesCalories();
+        Assert.assertEquals(4200, calories.intValue());
+        Long end = System.currentTimeMillis();
+        System.out.println(end - begin);
     }
 }

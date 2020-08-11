@@ -55,4 +55,10 @@ public class OrdinaryStreamApiTest {
         Assert.assertArrayEquals(new Integer[]{2,4},combineAAndB.get(0));
         Assert.assertArrayEquals(new Integer[]{3,3},combineAAndB.get(combineAAndB.size()-1));
     }
+
+    @Test
+    public void should_return_max_number_by_stream_reduce() throws Exception {
+        Integer maxNumber = ordinaryStreamApi.calculateMaxNumber(new Integer[]{3,5,7,10,2});
+        Assert.assertEquals(10,maxNumber.intValue());
+    }
 }
