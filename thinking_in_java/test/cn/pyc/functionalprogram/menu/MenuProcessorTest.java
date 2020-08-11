@@ -54,4 +54,10 @@ public class MenuProcessorTest {
         Long end = System.currentTimeMillis();
         System.out.println(end - begin);
     }
+
+    @Test
+    public void should_return_max_calories_dish() throws Exception {
+        int maxCalories = menuProcessor.queryMaxCaloriesDish();
+        Assert.assertEquals(800,maxCalories);
+    }
 }
