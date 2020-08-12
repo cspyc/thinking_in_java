@@ -1,9 +1,14 @@
 package cn.pyc.functionalprogram;
 
+import java.io.IOException;
+import java.nio.charset.Charset;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 /**
  * @author pi
@@ -54,5 +59,43 @@ public class OrdinaryStreamApi {
                         .stream()
                         .reduce(Integer::max);
         return maxNumberObj.get();
+    }
+
+    public List<String> switchStringToUppercase(String[] stringArray) {
+        Stream<String> stringStream = Stream.of(stringArray);
+        return stringStream.map(String::toUpperCase)
+                .collect(Collectors.toList());
+    }
+
+    public long countUniqueWordInFile(Path dataFile) {
+        long uniqueWords = 0;
+        try (Stream<String> lines = Files.lines(dataFile, Charset.defaultCharset())) {
+            uniqueWords = lines.flatMap(line -> Arrays.stream(line.split(" ")))
+                    .distinct()
+                    .count();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        return uniqueWords;
+    }
+
+    public List<Integer> generateIntegerNumberByStreamIterate(int numberCount, int beginNumber) {
+        return Stream.iterate(beginNumber, n -> n + 1)
+                .limit(numberCount)
+                .collect(Collectors.toList());
+    }
+
+    public List<int[]> generateFibonacciElements(int elementCount) {
+        return Stream.iterate(new int[]{0, 1}, x -> new int[]{x[1], x[0] + x[1]})
+                .limit(elementCount)
+                .collect(Collectors.toList());
+    }
+
+
+    public List<Double> generateRandomNumber() {
+        return Stream.generate(Math::random)
+                .limit(5)
+                .collect(Collectors.toList());
     }
 }
