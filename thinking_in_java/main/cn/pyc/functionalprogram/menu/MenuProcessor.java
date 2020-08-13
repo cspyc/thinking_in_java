@@ -1,9 +1,7 @@
 package cn.pyc.functionalprogram.menu;
 
-import java.util.Arrays;
-import java.util.List;
-import java.util.Optional;
-import java.util.OptionalInt;
+import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.stream.Collectors;
 
 /**
@@ -53,10 +51,9 @@ public class MenuProcessor {
     }
 
     public Integer countDishes() {
-        Optional<Integer> number =
-                menu.stream()
-                        .map(dish -> 1)
-                        .reduce(Integer::sum);
+        Optional<Integer> number = menu.stream()
+                .map(dish -> 1)
+                .reduce(Integer::sum);
         return number.get();
     }
 
@@ -75,4 +72,34 @@ public class MenuProcessor {
         return maxCalories.orElse(1);
     }
 
+    public double calculateAveCalories() {
+        return menu.stream()
+                .collect(Collectors.averagingDouble(Dish::getCalories));
+    }
+
+    public String joiningAllDishName() {
+        return menu.stream()
+                .map(Dish::getName)
+                .collect(Collectors.joining());
+    }
+
+    public Map<Dish.Type, List<Dish>> groupAllDishByType() {
+        return menu.stream()
+                .collect(Collectors.groupingBy(Dish::getType));
+    }
+
+    public Map<Dish.Type, Map<CaloricLevel, List<Dish>>> groupDishesByDishTypeAndCaloricLevel() {
+        return menu.stream()
+                .collect(Collectors.groupingBy(Dish::getType,
+                        Collectors.groupingBy(dish -> {
+                            if (dish.getCalories() <= 400) return CaloricLevel.DIET;
+                            else if (dish.getCalories() <= 700) return CaloricLevel.NORMAL;
+                            else return CaloricLevel.FAT;
+                        })));
+    }
+
+    public Map<Boolean, List<Dish>> partitionedByIsVegetarian() {
+        return menu.stream()
+                .collect(Collectors.partitioningBy(Dish::isVegetarian));
+    }
 }

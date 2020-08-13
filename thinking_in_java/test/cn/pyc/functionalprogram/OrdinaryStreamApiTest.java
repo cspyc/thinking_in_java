@@ -101,4 +101,10 @@ public class OrdinaryStreamApiTest {
        Assert.assertEquals(5,randomNumberList.size());
        randomNumberList.forEach(System.out::println);
    }
+
+   @Test
+   public void should_generate_sum_of_numbers() throws Exception {
+       long sum = ordinaryStreamApi.calculateSumOfNumbers(999999);
+       Assert.assertEquals(new Long("499999500000").longValue(),sum);
+   }
 }

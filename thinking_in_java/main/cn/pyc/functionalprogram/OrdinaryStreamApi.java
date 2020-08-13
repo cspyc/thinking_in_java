@@ -1,5 +1,7 @@
 package cn.pyc.functionalprogram;
 
+import cn.pyc.ch16.exercise.array.CountingGenerator;
+
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
@@ -8,6 +10,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
+import java.util.stream.LongStream;
 import java.util.stream.Stream;
 
 /**
@@ -97,5 +100,17 @@ public class OrdinaryStreamApi {
         return Stream.generate(Math::random)
                 .limit(5)
                 .collect(Collectors.toList());
+    }
+
+    public long calculateSumOfNumbers(int numberCount) {
+        long start = System.currentTimeMillis();
+
+        long num = LongStream.rangeClosed(1,numberCount)
+                .parallel()
+                .reduce(0L,Long::sum);
+
+        long end = System.currentTimeMillis();
+        System.out.println(end-start + "ms");
+        return num;
     }
 }
