@@ -7,9 +7,9 @@ import java.util.Optional;
  * @date 2020/8/13 20:16:20
  */
 public class Person {
-    private Optional<Car> car;
+    private Car car;
 
-    public Optional<Car> getCar() {
-        return car;
+    public Optional<Car> getCarAsOptional() {
+        return Optional.ofNullable(car);
     }
 }

@@ -10,9 +10,16 @@ public class OptionalOperator {
     Optional<Car> optCar = Optional.empty();
 
     public String getCarInsuranceName(Optional<Person> person){
-        return person.flatMap(Person::getCar)
+        return person.flatMap(Person::getCarAsOptional)
                 .flatMap(Car::getInsurance)
                 .map(Insurance::getName)
                 .orElse("Unknown");
+    }
+    public Optional<Integer> stringToInt(String s) {
+        try{
+            return Optional.of(Integer.parseInt(s));
+        }catch (NumberFormatException e){
+            return Optional.empty();
+        }
     }
 }
