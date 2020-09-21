@@ -1,0 +1,8 @@
+
+Qsquid:S3655h":Call "traderNames.isPresent()" before accessing the value.(ÛŞÊç
+Ysquid:S3655W"BCall "maxTransactionValue.isPresent()" before accessing the value.(ˆóÍâ
+Ksquid:S3655P"4Call "value.isPresent()" before accessing the value.(éºïä
+Csquid:S1612H",Replace this lambda with a method reference.(“ÖÍ
+^squid:S3655^"BCall "minTransactionValue.isPresent()" before accessing the value.(Š£ßœüÿÿÿÿ
+asquid:S1192"JDefine a constant instead of duplicating this literal "Cambridge" 5 times.(ı…ÿ‡
+Xsquid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜

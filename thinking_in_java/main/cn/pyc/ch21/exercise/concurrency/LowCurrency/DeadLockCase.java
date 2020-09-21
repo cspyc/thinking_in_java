@@ -25,12 +25,6 @@ public class DeadLockCase {
                     System.out.println(Thread.currentThread() + " waiting get resourceB");
 
                     //释放资源
-                    try{
-                        System.out.println("Releasing resourceA......");
-                        resourceA.wait();
-                    }catch (Exception e){
-                        e.printStackTrace();
-                    }
 
                     synchronized (resourceB) {
                         System.out.println(Thread.currentThread() + " get resourceB");
@@ -53,12 +47,7 @@ public class DeadLockCase {
                     System.out.println(Thread.currentThread() + " waiting get resourceA");
 
                     //释放资源
-                    try{
-                        System.out.println("Releasing resourceB......");
-                        resourceB.wait();
-                    }catch (Exception e){
-                        e.printStackTrace();
-                    }
+                    
                     synchronized (resourceA) {
                         System.out.println(Thread.currentThread() + " get ResourceA");
                     }

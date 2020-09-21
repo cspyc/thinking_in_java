@@ -1,0 +1,4 @@
+
+Ssquid:S36559"5Call "number.isPresent()" before accessing the value.(§‚ªŸ8³¶±¿.
+Zsquid:S3655A"7Call "calories.isPresent()" before accessing the value.(’ıÀÃüÿÿÿÿ8³¶±¿.
+ssquid:UselessImportCheck"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ8³¶±¿.
